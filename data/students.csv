@@ -1,0 +1,1000 @@
+Id,Name,Email,Gender,Age,GPA,Intership,extracurricular_activities,Study Hours,Sleep Hours,social_platform_preference,daily_social_media_time,stress_level,Department,Attendance (%),Grade,DataBase_score,sychology_score,AI_score,Calculus_score,ComputerNetwork_score,MobileAppDev_Score
+1,Paul,paul.casey.1@gslingacademy.com,male,19,3.16,FALSE,FALSE,3.4,8.2,Facebook,4.180939776,4,Mathematics,53,AA,93,81,97,63,80,87
+2,Danielle,danielle.sandoval.2@gslingacademy.com,female,23,3.75,FALSE,FALSE,3.2,5.9,Twitter,3.249602954,7,Chemistry,55,AA,96,86,100,90,88,90
+3,Tina,tina.andrews.3@gslingacademy.com,female,22,2.95,FALSE,TRUE,3.2,9.3,Twitter,3.180424153,4,Physics,41,AA,95,97,96,65,77,94
+4,Tara,tara.clark.4@gslingacademy.com,female,24,3.55,FALSE,FALSE,3.2,8.2,Facebook,7.3521,6,Physics,47,AA,88,74,80,89,63,86
+5,Anthony,anthony.campos.5@gslingacademy.com,male,18,2.29,FALSE,FALSE,3.8,10,Telegram,8,7,Chemistry,75,AA,65,77,65,80,74,76
+6,Kelly,kelly.wade.6@gslingacademy.com,female,23,3.3,FALSE,FALSE,3.4,9,Twitter,1.512568401,5,Mathematics,47,BA,67,100,78,72,80,84
+7,Anthony,anthony.smith.7@gslingacademy.com,male,20,2.44,FALSE,TRUE,7.9,8.1,TikTok,4.381069807,7,Chemistry,63,CC,97,96,73,88,76,64
+8,George,george.short.8@gslingacademy.com,male,20,3.44,TRUE,TRUE,1.4,8,Twitter,4.089167777,4,Mathematics,47,BA,82,95,63,84,70,85
+9,Stanley,stanley.gutierrez.9@gslingacademy.com,male,25,3.27,FALSE,FALSE,5.4,8.8,Instagram,4.097400935,4,Computer Science,67,CC,94,68,85,81,74,72
+10,Audrey,audrey.simpson.10@gslingacademy.com,female,18,3.09,FALSE,TRUE,1.4,9.6,Twitter,7.595577376,3,Physics,42,Fail,88,69,71,67,71,73
+11,Gabrielle,gabrielle.white.11@gslingacademy.com,female,20,3.42,FALSE,FALSE,3.8,7.3,Twitter,3.341558658,4,Physics,61,BA,97,60,94,71,81,66
+12,Clinton,clinton.randolph.12@gslingacademy.com,male,20,2.33,FALSE,FALSE,9.1,7.7,Twitter,2.20006057,9,Chemistry,80,Fail,100,61,65,87,64,61
+13,Patricia,patricia.gomez.13@gslingacademy.com,female,22,3.76,TRUE,FALSE,1.1,8.9,TikTok,2.715759672,0,Mathematics,43,Fail,69,59,67,89,65,73
+14,Pamela,pamela.jackson.14@gslingacademy.com,female,20,2.02,FALSE,FALSE,3.7,8,Twitter,0,5,Computer Science,55,AA,86,94,100,57,90,63
+15,Laura,laura.jackson.15@gslingacademy.com,female,23,3.35,FALSE,FALSE,3.7,9.9,TikTok,3.773326308,10,Computer Science,51,BA,86,90,92,92,95,87
+16,Roger,roger.wiley.16@gslingacademy.com,male,24,3.21,FALSE,FALSE,3.9,9.3,TikTok,5.826311297,5,Physics,68,BA,78,50,64,79,74,84
+17,Vicki,vicki.thompson.17@gslingacademy.com,female,24,3.92,FALSE,TRUE,2.9,5.7,Twitter,2.305803019,9,Computer Science,60,AA,93,64,91,80,89,72
+18,Maxwell,maxwell.davidson.18@gslingacademy.com,male,22,3.42,FALSE,TRUE,4.6,5.4,Twitter,5.621219699,1,Chemistry,74,BA,85,83,79,93,76,77
+19,Jonathan,jonathan.werner.19@gslingacademy.com,male,21,3.43,FALSE,FALSE,3.9,9.8,Twitter,,5,Computer Science,69,BA,92,87,99,97,87,86
+20,Angela,angela.rios.20@gslingacademy.com,female,23,2.05,FALSE,FALSE,3.5,8.3,Twitter,1.445357724,6,Physics,55,BB,98,65,75,66,72,100
+21,Tim,tim.nichols.21@gslingacademy.com,male,18,2.33,TRUE,FALSE,2.6,8.1,TikTok,1.437665734,7,Computer Science,47,AA,72,90,98,73,97,72
+22,Kyle,kyle.willis.22@gslingacademy.com,male,23,3.68,FALSE,FALSE,3.5,8.8,TikTok,0.071503469,5,Physics,70,AA,78,55,94,83,88,88
+23,Shannon,shannon.simpson.23@gslingacademy.com,female,25,3.84,FALSE,FALSE,9.8,6.2,Twitter,5.91604426,5,Mathematics,78,BB,68,72,72,71,54,90
+24,Sean,sean.griffin.24@gslingacademy.com,male,21,3.82,FALSE,FALSE,6.5,9.2,TikTok,4.03031542,7,Chemistry,65,AA,81,76,55,56,80,79
+25,Cassandra,cassandra.west.25@gslingacademy.com,female,22,2.99,FALSE,FALSE,4,6,Instagram,4.242185462,0,Computer Science,66,BA,90,91,88,95,88,93
+26,Patricia,patricia.chavez.26@gslingacademy.com,female,22,2.49,FALSE,FALSE,3.1,8.6,Telegram,1.551556083,3,Biology,52,BB,87,86,81,93,90,99
+27,Jason,jason.williams.27@gslingacademy.com,male,19,3.16,FALSE,FALSE,2.8,5.6,Facebook,4.59341867,2,Mathematics,40,AA,80,77,94,63,90,90
+28,Peter,peter.gibbs.28@gslingacademy.com,male,24,3.56,FALSE,FALSE,3.8,8.2,Telegram,1.984596415,3,Physics,59,AA,93,75,79,81,96,85
+29,Jeffrey,jeffrey.blanchard.29@gslingacademy.com,male,25,3.58,FALSE,TRUE,5.9,8.1,Telegram,2.076693205,3,Physics,58,BB,99,65,71,76,77,83
+30,Carol,carol.hill.30@gslingacademy.com,female,19,2.82,FALSE,FALSE,3.5,6.9,Facebook,5.144763133,9,Chemistry,60,CC,61,100,97,30,74,73
+31,Angie,angie.miller.31@gslingacademy.com,female,21,2.98,FALSE,FALSE,3.8,9.4,Twitter,,8,Physics,45,CC,87,69,100,88,85,72
+32,Cynthia,cynthia.knapp.32@gslingacademy.com,female,24,3.21,FALSE,FALSE,7.2,7.7,Telegram,1.00345412,8,Chemistry,56,BB,92,68,74,82,85,72
+33,Timothy,timothy.bryant.33@gslingacademy.com,male,22,2.15,FALSE,FALSE,6.1,8.9,Twitter,0.7656522,7,Chemistry,53,AA,98,96,89,85,62,62
+34,Phyllis,phyllis.diaz.34@gslingacademy.com,female,19,2.73,FALSE,FALSE,3,9.8,Twitter,2.707443885,7,Computer Science,53,BA,84,84,78,78,77,68
+35,Lisa,lisa.burns.35@gslingacademy.com,female,25,2.92,FALSE,TRUE,4.9,7.6,Instagram,7.124254014,7,Physics,51,BA,91,93,80,86,69,62
+36,Kelly,kelly.farley.36@gslingacademy.com,female,25,3.51,FALSE,FALSE,5.3,9.8,TikTok,2.480195084,10,Mathematics,74,AA,78,70,98,80,66,65
+37,Ryan,ryan.lee.37@gslingacademy.com,male,19,2.75,FALSE,TRUE,2.1,7.9,Facebook,0.399183513,9,Biology,56,BA,87,94,71,89,91,96
+38,Michael,michael.gilmore.38@gslingacademy.com,male,22,3.26,FALSE,FALSE,9.5,7.1,Facebook,1.749943184,4,Chemistry,41,AA,85,100,89,81,91,88
+39,Miguel,miguel.martinez.39@gslingacademy.com,male,24,3.74,FALSE,FALSE,6.8,8.9,Facebook,2.06964626,6,Chemistry,56,BA,64,64,88,94,82,78
+40,Christopher,christopher.taylor.40@gslingacademy.com,male,19,3.26,FALSE,FALSE,3.7,9.3,TikTok,3.094253885,8,Biology,68,AA,66,60,87,60,83,95
+41,Emily,emily.holloway.41@gslingacademy.com,female,24,2.37,FALSE,FALSE,3.7,9.2,Facebook,3.726209044,1,Physics,80,AA,64,97,90,79,81,81
+42,Jesus,jesus.rasmussen.42@gslingacademy.com,male,19,2.67,TRUE,FALSE,1.3,8.7,Telegram,,6,Mathematics,49,AA,66,55,50,88,56,86
+43,Lauren,lauren.farmer.43@gslingacademy.com,female,22,2.02,TRUE,FALSE,3.6,8.6,Facebook,0.552922333,5,Mathematics,63,AA,92,94,77,87,98,63
+44,Pamela,pamela.cole.44@gslingacademy.com,female,18,2.7,FALSE,FALSE,8.4,7.5,Instagram,0.401118686,4,Chemistry,80,CB,85,99,96,91,68,66
+45,David,david.gillespie.45@gslingacademy.com,male,18,3.5,TRUE,FALSE,3.6,9.2,Twitter,5.039176278,3,Computer Science,77,AA,79,99,57,53,95,83
+46,Kenneth,kenneth.davis.46@gslingacademy.com,male,18,3.6,TRUE,TRUE,3,6.2,Twitter,,5,Chemistry,61,BB,50,53,58,84,53,96
+47,Elizabeth,elizabeth.martin.47@gslingacademy.com,female,20,3.47,FALSE,TRUE,3.1,5.5,Instagram,3.559177299,6,Biology,53,CC,93,85,68,100,91,87
+48,Billy,billy.soto.48@gslingacademy.com,male,25,3.05,FALSE,TRUE,3.8,6.1,TikTok,,7,Computer Science,60,BB,74,98,70,97,65,65
+49,Kimberly,kimberly.kelly.49@gslingacademy.com,female,25,3.06,FALSE,FALSE,3.6,6.3,TikTok,1.990462099,8,Physics,42,AA,86,78,80,64,68,100
+50,Sonia,sonia.noble.50@gslingacademy.com,female,19,3.94,FALSE,FALSE,9,7.3,Facebook,0,6,Chemistry,74,BA,90,89,93,30,83,74
+51,Christopher,christopher.stewart.51@gslingacademy.com,male,22,2.13,FALSE,TRUE,8.9,6.4,Facebook,0,6,Mathematics,84,AA,96,72,65,89,87,94
+52,Sandra,sandra.thornton.52@gslingacademy.com,female,23,3.64,FALSE,FALSE,8.8,5.1,Telegram,5.620133439,5,Chemistry,72,CB,73,81,70,85,86,61
+53,Luke,luke.shannon.53@gslingacademy.com,male,22,3.56,FALSE,FALSE,4.2,7.8,Twitter,2.958615416,3,Physics,72,AA,61,70,81,82,51,70
+54,Lindsay,lindsay.pruitt.54@gslingacademy.com,female,20,3.16,FALSE,FALSE,3.6,8.7,Facebook,1.632920852,1,Chemistry,62,CC,86,96,61,89,98,68
+55,Jamie,jamie.taylor.55@gslingacademy.com,male,25,3.56,FALSE,FALSE,1,7.2,Instagram,6.590503269,1,Chemistry,46,BB,92,100,68,60,77,83
+56,Jennifer,jennifer.murphy.56@gslingacademy.com,female,19,2.81,FALSE,FALSE,4,6.1,TikTok,1.569812062,1,Physics,55,BB,84,60,88,76,71,99
+57,Melissa,melissa.lee.57@gslingacademy.com,female,23,2.94,FALSE,FALSE,3.5,8.6,Facebook,4.58999797,1,Chemistry,51,CC,79,72,86,87,81,62
+58,David,david.vaughn.58@gslingacademy.com,male,19,3.8,TRUE,FALSE,3.4,9,TikTok,0.009858802,7,Computer Science,43,CB,73,78,97,67,78,99
+59,Jacob,jacob.hanson.59@gslingacademy.com,male,21,2.62,FALSE,FALSE,1.9,9.5,Twitter,3.917471285,2,Mathematics,73,BB,64,89,96,91,95,77
+60,Casey,casey.may.60@gslingacademy.com,male,25,2.1,FALSE,FALSE,6.9,5.9,Telegram,0.402138738,4,Biology,67,CC,90,99,79,85,96,98
+61,Michelle,michelle.roman.61@gslingacademy.com,female,23,2.39,FALSE,FALSE,4.3,8,TikTok,0,3,Biology,66,BA,88,81,71,78,83,76
+62,Brittany,brittany.koch.62@gslingacademy.com,female,23,3.29,FALSE,FALSE,3.6,7.3,TikTok,0,6,Mathematics,54,CC,61,86,99,99,88,73
+63,Brian,brian.lewis.63@gslingacademy.com,male,22,3.51,FALSE,FALSE,2.6,6.6,Facebook,2.267765112,4,Physics,58,BB,53,65,64,52,96,62
+64,Veronica,veronica.cameron.64@gslingacademy.com,female,24,2.79,FALSE,FALSE,5.7,7.9,Facebook,0,10,Chemistry,78,CC,65,97,88,67,95,69
+65,Eric,eric.reyes.65@gslingacademy.com,male,18,2.47,FALSE,FALSE,8,8.7,Twitter,5.167122019,6,Computer Science,63,BB,99,73,70,63,80,78
+66,Kristy,kristy.weber.66@gslingacademy.com,female,24,3.88,TRUE,FALSE,6.2,8.2,Telegram,2.829569491,2,Computer Science,46,BA,77,54,74,76,96,88
+67,Anthony,anthony.smith.67@gslingacademy.com,male,19,2.75,FALSE,FALSE,6.5,9.7,Facebook,3.790185231,4,Computer Science,68,CC,66,86,69,100,71,80
+68,Steven,steven.stephens.68@gslingacademy.com,male,19,2.18,FALSE,FALSE,3.8,8.4,Telegram,8.694539037,3,Computer Science,76,AA,73,64,76,72,97,91
+69,Henry,henry.davis.69@gslingacademy.com,male,19,3.18,FALSE,FALSE,3.3,9.9,Telegram,0.49833583,4,Mathematics,40,CC,85,70,60,81,71,88
+70,Raymond,raymond.shea.70@gslingacademy.com,male,20,2.33,FALSE,TRUE,3.9,6.8,Facebook,1.459002345,9,Chemistry,53,CC,96,81,69,91,87,83
+71,Jill,jill.perez.71@gslingacademy.com,female,22,3.46,FALSE,FALSE,5.8,9.4,TikTok,0,7,Chemistry,64,DD,93,66,81,86,88,70
+72,Kimberly,kimberly.bonilla.72@gslingacademy.com,female,20,3.92,TRUE,FALSE,3.2,6.7,Instagram,0,4,Physics,44,DC,93,87,83,93,97,73
+73,Louis,louis.edwards.73@gslingacademy.com,male,19,3.92,TRUE,FALSE,7.3,9.6,Twitter,6.811090571,10,Physics,61,DC,69,70,64,59,78,80
+74,Michael,michael.hodge.74@gslingacademy.com,male,20,2.87,TRUE,FALSE,8.1,8.5,Telegram,2.1617928,5,Mathematics,84,DC,66,54,87,99,58,68
+75,Anna,anna.li.75@gslingacademy.com,female,18,3.68,FALSE,FALSE,8.6,7.4,TikTok,0,10,Chemistry,100,DD,64,100,68,73,81,87
+76,Andrea,andrea.case.76@gslingacademy.com,female,23,2.53,FALSE,TRUE,4,9.8,Telegram,2.434694219,9,Computer Science,50,DD,96,90,92,100,98,77
+77,Jennifer,jennifer.garcia.77@gslingacademy.com,female,25,3.23,FALSE,FALSE,3.2,6.9,Facebook,2.012029995,2,Computer Science,47,CB,60,63,90,89,99,80
+78,Rhonda,rhonda.davenport.78@gslingacademy.com,female,25,2.6,FALSE,TRUE,2.5,9.8,Twitter,0.901222107,8,Biology,41,DD,80,91,93,74,93,65
+79,Chelsea,chelsea.craig.79@gslingacademy.com,female,22,3.84,FALSE,FALSE,6.7,6.3,Twitter,0,7,Computer Science,63,CB,80,94,63,68,77,64
+80,Shawn,shawn.chase.80@gslingacademy.com,male,19,3.35,FALSE,FALSE,4.9,8.2,TikTok,3.315270837,1,Chemistry,69,BB,89,79,68,93,75,92
+81,Elizabeth,elizabeth.calhoun.81@gslingacademy.com,female,20,2.83,TRUE,FALSE,3.6,9.9,Telegram,2.179741705,5,Computer Science,63,CB,94,67,92,62,58,65
+82,Lisa,lisa.harris.82@gslingacademy.com,female,18,2.74,FALSE,FALSE,5.5,5.5,TikTok,4.704052712,9,Biology,54,BB,83,67,85,91,61,67
+83,Carol,carol.snyder.83@gslingacademy.com,female,23,3.5,FALSE,FALSE,3.9,5.1,Facebook,2.876874138,6,Mathematics,64,DD,61,80,63,95,92,75
+84,Charles,charles.butler.84@gslingacademy.com,male,22,3.67,FALSE,FALSE,3.9,9.1,Instagram,3.026898068,5,Mathematics,64,DD,99,65,100,88,93,72
+85,James,james.dawson.85@gslingacademy.com,male,24,3.28,FALSE,FALSE,7.1,8.8,Facebook,2.615327479,3,Physics,53,DD,70,67,71,65,73,87
+86,Dennis,dennis.kim.86@gslingacademy.com,male,24,3.97,FALSE,FALSE,6.8,7.4,Telegram,0.53230927,1,Computer Science,61,CB,69,71,80,70,77,66
+87,Jennifer,jennifer.berry.87@gslingacademy.com,female,19,3.07,FALSE,FALSE,2.3,6.4,Instagram,0.612193266,5,Biology,51,CC,71,76,72,92,67,90
+88,Yvette,yvette.bridges.88@gslingacademy.com,female,25,2.14,FALSE,TRUE,3.8,8.2,Instagram,3.241396964,10,Computer Science,51,DC,83,95,89,81,63,70
+89,Robert,robert.atkins.89@gslingacademy.com,male,18,3.52,FALSE,FALSE,4.5,8.6,Instagram,1.483537272,7,Physics,47,DC,68,96,87,69,89,100
+90,William,william.brown.90@gslingacademy.com,male,21,3.16,FALSE,FALSE,3.6,7.7,Facebook,4.195709737,7,Physics,66,DC,60,75,80,62,85,73
+91,Patrick,patrick.parker.91@gslingacademy.com,male,18,2.84,FALSE,FALSE,7.3,5.1,Telegram,2.329729235,8,Mathematics,57,DC,95,78,73,32,65,68
+92,James,james.santiago.92@gslingacademy.com,male,25,3.86,FALSE,FALSE,3.9,8.2,Instagram,1.454227521,10,Biology,66,DC,95,82,63,62,98,93
+93,Robert,robert.parsons.93@gslingacademy.com,male,23,2.3,FALSE,FALSE,1.6,7.1,TikTok,3.517820947,6,Chemistry,44,DD,73,73,77,87,98,83
+94,Jacob,jacob.brown.94@gslingacademy.com,male,20,2.7,FALSE,FALSE,3,8.1,Instagram,2,7,Physics,42,CB,79,92,76,84,67,86
+95,Natalie,natalie.robinson.95@gslingacademy.com,female,25,3.77,FALSE,FALSE,3.6,8.6,Facebook,0,4,Mathematics,58,DC,73,79,96,64,93,85
+96,Victoria,victoria.jones.96@gslingacademy.com,female,22,3.39,FALSE,TRUE,7.4,8.2,TikTok,0,8,Chemistry,82,CC,89,98,85,81,64,94
+97,Natasha,natasha.hansen.97@gslingacademy.com,female,21,3.2,FALSE,TRUE,3.2,9.3,Telegram,3,9,Chemistry,48,DD,84,76,93,76,69,91
+98,Thomas,thomas.white.98@gslingacademy.com,male,21,3.95,FALSE,FALSE,3.4,9,Telegram,1.514861116,4,Biology,65,DC,93,89,98,79,72,88
+99,Derrick,derrick.figueroa.99@gslingacademy.com,male,20,2.11,TRUE,FALSE,3.8,6.1,Facebook,3.303658158,6,Physics,55,DD,85,93,61,96,83,86
+100,Kimberly,kimberly.ward.100@gslingacademy.com,female,23,2.76,FALSE,FALSE,4.8,8.9,Instagram,3.464867685,8,Biology,59,DD,94,89,69,99,93,98
+101,Rhonda,rhonda.jones.101@gslingacademy.com,female,25,3,FALSE,FALSE,4.1,9,Telegram,5.406637934,6,Mathematics,47,DC,98,73,91,79,60,77
+102,Abigail,abigail.perez.102@gslingacademy.com,female,22,2.85,FALSE,FALSE,3.9,9.8,Twitter,6.29913421,6,Chemistry,79,DD,100,80,61,81,98,65
+103,James,james.yang.103@gslingacademy.com,male,24,3.97,FALSE,FALSE,3.8,9.1,Instagram,0.711946492,4,Physics,55,DD,64,87,74,73,90,99
+104,Stephen,stephen.patton.104@gslingacademy.com,male,23,3.52,TRUE,FALSE,3.1,9,TikTok,2.701538211,8,Computer Science,59,DD,63,80,94,64,70,79
+105,Emma,emma.wright.105@gslingacademy.com,female,20,3.37,FALSE,FALSE,3.6,5.1,Facebook,2.752916928,3,Physics,48,BB,100,60,91,87,78,99
+106,Cynthia,cynthia.brown.106@gslingacademy.com,female,25,3.41,FALSE,FALSE,8.3,8.2,Facebook,6.03805987,1,Computer Science,59,DD,62,97,89,62,95,77
+107,Erin,erin.kelley.107@gslingacademy.com,female,20,2.86,FALSE,FALSE,2,8.6,TikTok,0.121108319,7,Biology,49,DD,97,80,89,94,95,84
+108,Benjamin,benjamin.morse.108@gslingacademy.com,male,21,3.86,FALSE,TRUE,4,8.8,Instagram,5.871146345,9,Physics,65,DC,83,81,81,81,77,86
+109,Alexandra,alexandra.gibson.109@gslingacademy.com,female,19,2.99,FALSE,FALSE,7.6,9,TikTok,4.125252173,3,Computer Science,59,DC,72,93,61,61,87,95
+110,Phillip,phillip.allen.110@gslingacademy.com,male,20,3.23,FALSE,TRUE,3.6,5.8,TikTok,1.901294907,3,Computer Science,57,DD,82,69,60,64,77,82
+111,Joshua,joshua.gonzalez.111@gslingacademy.com,male,21,2.51,FALSE,FALSE,6.6,8.5,Twitter,4.744573711,4,Biology,51,BA,89,89,83,89,90,64
+112,Erin,erin.jones.112@gslingacademy.com,female,24,2.38,TRUE,FALSE,3.9,6.3,TikTok,2.2501769,7,Computer Science,51,BA,85,54,57,50,54,76
+113,Charles,charles.hayes.113@gslingacademy.com,male,24,3.25,TRUE,TRUE,3.7,8.7,Facebook,0,8,Chemistry,57,BA,94,85,76,57,93,86
+114,Kelsey,kelsey.brown.114@gslingacademy.com,female,23,2.14,FALSE,FALSE,3.7,8.1,Telegram,3.24195614,7,Chemistry,67,AA,65,75,97,61,76,81
+115,Robert,robert.turner.115@gslingacademy.com,male,18,3.75,FALSE,TRUE,3.8,8.4,Instagram,2.471388798,3,Biology,75,BA,91,65,75,64,94,100
+116,Robert,robert.hill.116@gslingacademy.com,male,25,2.2,FALSE,FALSE,7.1,8,Telegram,2.029021075,10,Physics,71,AA,69,66,65,72,84,77
+117,Alyssa,alyssa.ritter.117@gslingacademy.com,female,20,2.77,FALSE,FALSE,2.8,8.1,TikTok,1.418675282,6,Biology,45,AA,50,71,55,54,97,95
+118,Beth,beth.bell.118@gslingacademy.com,female,21,2.99,FALSE,FALSE,2.2,8.2,TikTok,4.230857741,4,Biology,51,AA,64,96,70,74,63,75
+119,Andrew,andrew.dixon.119@gslingacademy.com,male,23,2.48,FALSE,TRUE,3.9,9.1,Twitter,2.970205027,8,Computer Science,43,AA,94,73,65,60,63,93
+120,Crystal,crystal.walker.120@gslingacademy.com,female,20,3.63,FALSE,FALSE,3.7,7.5,Facebook,2.049001851,3,Computer Science,51,BA,67,93,74,55,60,64
+121,Jordan,jordan.bennett.121@gslingacademy.com,female,23,3.03,TRUE,FALSE,3.3,8,Instagram,1.786630934,6,Chemistry,52,AA,83,90,80,76,90,91
+122,Antonio,antonio.caldwell.122@gslingacademy.com,male,23,3.65,FALSE,FALSE,6.7,5.7,TikTok,2.080004427,2,Physics,56,Fail,91,92,99,97,88,75
+123,Jacob,jacob.reyes.123@gslingacademy.com,male,18,3.32,FALSE,FALSE,7.3,8.4,Facebook,1.834772504,9,Physics,68,BA,94,94,89,85,86,85
+124,Wendy,wendy.lewis.124@gslingacademy.com,female,22,3.37,FALSE,FALSE,3.3,8.6,Telegram,2.186843041,9,Biology,45,AA,96,100,91,91,96,89
+125,Jennifer,jennifer.miller.125@gslingacademy.com,female,25,2.41,FALSE,FALSE,1.2,5.8,Instagram,1,2,Computer Science,53,BB,82,62,89,81,72,71
+126,Lisa,lisa.ware.126@gslingacademy.com,female,23,3.8,FALSE,FALSE,3.8,10,Instagram,2.257144501,10,Computer Science,52,BA,98,95,69,60,89,71
+127,Brian,brian.lee.127@gslingacademy.com,male,24,2.9,FALSE,FALSE,3.6,8.1,Twitter,3.306719991,7,Chemistry,61,BB,86,67,87,87,68,78
+128,Mario,mario.taylor.128@gslingacademy.com,male,18,3.44,FALSE,TRUE,8,6.4,Facebook,2.230478865,3,Physics,60,AA,80,67,83,86,77,75
+129,Amanda,amanda.williamson.129@gslingacademy.com,female,20,2.51,FALSE,FALSE,8.1,5.8,Instagram,0,5,Physics,64,Fail,80,70,70,96,69,86
+130,Michael,michael.miller.130@gslingacademy.com,male,21,2.02,FALSE,TRUE,3.6,5.6,Telegram,3.436939035,7,Physics,50,BB,64,97,90,87,68,69
+131,Amanda,amanda.vasquez.131@gslingacademy.com,female,21,3.37,TRUE,FALSE,3.4,8.5,Telegram,1.567527717,3,Physics,43,AA,90,73,85,63,84,87
+132,Chelsea,chelsea.obrien.132@gslingacademy.com,female,18,3.72,TRUE,FALSE,6.9,8.8,TikTok,5,1,Physics,52,CB,66,82,63,67,92,69
+133,Tina,tina.perkins.133@gslingacademy.com,female,21,2.04,FALSE,FALSE,6,9.8,TikTok,6.310082717,5,Computer Science,51,BB,69,63,80,99,69,79
+134,Cory,cory.perez.134@gslingacademy.com,male,22,2.08,TRUE,FALSE,3.6,8.4,Telegram,1.677437289,8,Chemistry,69,BB,53,52,56,85,93,78
+135,Christopher,christopher.jenkins.135@gslingacademy.com,male,24,2.5,FALSE,FALSE,5,8.3,Facebook,4.810442061,9,Computer Science,75,AA,87,62,96,85,90,74
+136,Joanne,joanne.campos.136@gslingacademy.com,female,22,2.9,FALSE,FALSE,6,8.7,Facebook,2.175830415,5,Physics,82,BA,84,83,75,83,85,86
+137,David,david.patel.137@gslingacademy.com,male,18,3.18,FALSE,FALSE,4.2,5.3,Telegram,2.384882172,5,Chemistry,50,Fail,60,65,78,81,96,76
+138,Michelle,michelle.hill.138@gslingacademy.com,female,24,3.77,FALSE,TRUE,3.5,9.7,Telegram,3.755642539,6,Computer Science,51,BA,76,97,67,61,90,95
+139,Jessica,jessica.boyd.139@gslingacademy.com,female,21,2.02,FALSE,FALSE,7.7,8.3,TikTok,0,6,Mathematics,59,Fail,98,94,96,68,82,81
+140,Lawrence,lawrence.russell.140@gslingacademy.com,male,25,3.26,FALSE,FALSE,4,9.7,Telegram,0,9,Mathematics,66,Fail,82,71,80,97,93,78
+141,James,james.singh.141@gslingacademy.com,male,21,2.3,FALSE,FALSE,3.2,6.2,TikTok,3.114817468,4,Mathematics,47,CC,87,69,81,77,67,93
+142,Marc,marc.villanueva.142@gslingacademy.com,male,23,3.86,TRUE,TRUE,8.8,6.7,TikTok,0,6,Physics,61,CC,77,85,89,98,63,100
+143,Cathy,cathy.wilson.143@gslingacademy.com,female,25,3.98,FALSE,FALSE,4,8.2,TikTok,5.170530868,3,Chemistry,51,AA,79,99,96,60,97,100
+144,Adam,adam.mitchell.144@gslingacademy.com,male,19,3.07,FALSE,TRUE,7.7,9,Twitter,5.670088628,5,Chemistry,59,CB,76,68,99,80,80,75
+145,Sherry,sherry.phillips.145@gslingacademy.com,female,22,2.14,FALSE,FALSE,8.2,5.7,Facebook,3.707248529,8,Chemistry,76,BB,81,79,61,86,72,88
+146,Victor,victor.jones.146@gslingacademy.com,male,21,3.85,FALSE,FALSE,3.9,8.7,Telegram,2.738590873,6,Biology,63,AA,68,72,94,100,98,92
+147,Mark,mark.young.147@gslingacademy.com,male,18,3.19,FALSE,FALSE,7.7,8.8,Twitter,5.217943294,3,Computer Science,83,AA,51,97,93,68,58,78
+148,Matthew,matthew.jackson.148@gslingacademy.com,male,24,2.03,FALSE,FALSE,3.6,8.2,TikTok,2.070318064,1,Chemistry,56,AA,65,90,79,96,87,74
+149,Tanya,tanya.nichols.149@gslingacademy.com,female,21,3.64,FALSE,TRUE,3.4,6.9,Twitter,2.246007994,7,Physics,46,AA,82,91,99,94,75,74
+150,Julie,julie.gray.150@gslingacademy.com,female,19,2.55,TRUE,FALSE,8.8,6.8,Twitter,6,2,Biology,69,AA,72,72,65,82,71,93
+151,Courtney,courtney.perry.151@gslingacademy.com,female,22,2.71,FALSE,FALSE,1.8,8.3,Facebook,1.344959438,6,Physics,47,AA,79,92,73,73,61,60
+152,Stephen,stephen.rodriguez.152@gslingacademy.com,male,18,2.51,TRUE,FALSE,7.2,9.5,Instagram,5.583121918,8,Computer Science,53,BA,97,57,56,50,98,83
+153,Elizabeth,elizabeth.robinson.153@gslingacademy.com,female,19,3.99,FALSE,FALSE,5.9,8.4,TikTok,5.521179711,5,Mathematics,78,CC,84,100,72,84,90,82
+154,William,william.graves.154@gslingacademy.com,male,21,3.47,FALSE,FALSE,3.2,5.8,Twitter,1.11818391,7,Physics,43,BA,82,67,70,65,68,81
+155,Nancy,nancy.moore.155@gslingacademy.com,female,19,3.78,FALSE,FALSE,3.6,8.3,Telegram,1.500618882,9,Physics,74,CC,85,73,84,73,81,98
+156,Matthew,matthew.newman.156@gslingacademy.com,male,18,3.71,FALSE,TRUE,6.2,9.9,Instagram,2.301460876,2,Computer Science,47,Fail,88,71,74,80,92,65
+157,Anita,anita.moore.157@gslingacademy.com,female,20,2.59,FALSE,TRUE,3.6,8.8,Instagram,5.404169652,10,Chemistry,53,BA,85,99,90,76,64,95
+158,Brian,brian.sanchez.158@gslingacademy.com,male,19,2.62,TRUE,FALSE,3.6,8.6,Twitter,2.29109841,5,Chemistry,54,Fail,62,54,66,58,69,96
+159,Dennis,dennis.phillips.159@gslingacademy.com,male,20,3,TRUE,TRUE,7.8,7.9,Instagram,3.314460933,1,Computer Science,60,Fail,97,64,61,62,72,65
+160,Michael,michael.rivas.160@gslingacademy.com,male,20,2.78,TRUE,TRUE,8.7,5.9,Instagram,0.865554592,5,Physics,72,AA,96,66,82,65,76,79
+161,Ryan,ryan.smith.161@gslingacademy.com,male,20,2.45,FALSE,FALSE,3.6,8.8,Twitter,6.043881188,7,Biology,59,BA,77,64,61,76,72,87
+162,Anthony,anthony.sullivan.162@gslingacademy.com,male,24,2.58,TRUE,FALSE,6.3,9.9,Facebook,0.661608307,5,Computer Science,54,BA,92,66,88,65,76,72
+163,Troy,troy.shepherd.163@gslingacademy.com,male,21,2.98,FALSE,FALSE,3.8,9.3,Telegram,2.176956399,6,Chemistry,67,AA,99,88,79,93,97,91
+164,Nicholas,nicholas.clayton.164@gslingacademy.com,male,23,3.14,FALSE,TRUE,3.1,8.3,TikTok,0,8,Physics,49,BA,100,100,96,95,97,93
+165,Denise,denise.schneider.165@gslingacademy.com,female,22,3.59,FALSE,FALSE,3,9.7,Facebook,5.469999836,5,Computer Science,42,BA,96,72,60,90,80,88
+166,Lisa,lisa.silva.166@gslingacademy.com,female,22,2.22,FALSE,FALSE,6.2,7.7,TikTok,2.937259818,3,Chemistry,70,BB,99,81,98,77,80,73
+167,Laura,laura.reilly.167@gslingacademy.com,female,19,3.12,TRUE,FALSE,4,8.9,Twitter,6.557241375,8,Physics,56,AA,71,76,65,64,81,61
+168,Amy,amy.peterson.168@gslingacademy.com,female,24,3.44,FALSE,FALSE,3.7,9.5,TikTok,1.038254271,6,Computer Science,53,AA,67,94,68,69,92,76
+169,Fernando,fernando.sexton.169@gslingacademy.com,male,25,2.54,FALSE,FALSE,5.5,8.2,Facebook,5.09860174,2,Chemistry,83,BB,66,96,96,71,97,66
+170,Evan,evan.christian.170@gslingacademy.com,male,23,2.1,FALSE,TRUE,1.4,8.3,Telegram,3.786920471,3,Biology,58,AA,67,62,97,73,84,99
+171,Rebecca,rebecca.norris.171@gslingacademy.com,female,25,3.98,FALSE,FALSE,6.3,8.5,Facebook,1.413357468,3,Biology,71,BA,76,98,99,65,98,71
+172,Erica,erica.marks.172@gslingacademy.com,female,19,3.71,FALSE,FALSE,6.9,8.8,Instagram,1.68154317,2,Computer Science,58,BB,65,87,85,74,64,81
+173,Rhonda,rhonda.webster.173@gslingacademy.com,female,25,2.98,FALSE,TRUE,3.7,5.1,Instagram,4.095573595,4,Biology,55,AA,89,66,76,68,83,79
+174,John,john.bennett.174@gslingacademy.com,male,25,2.01,FALSE,FALSE,6.2,8,Facebook,2.923854482,4,Physics,64,AA,75,96,68,77,97,81
+175,Amanda,amanda.murphy.175@gslingacademy.com,female,25,2.09,FALSE,TRUE,5.6,8.1,Instagram,1.631124327,6,Physics,65,BB,80,100,83,57,81,81
+176,Jeremy,jeremy.barnes.176@gslingacademy.com,male,22,3.11,FALSE,FALSE,4.9,8.4,Facebook,6.496492824,4,Physics,76,CC,89,100,75,84,78,90
+177,John,john.brown.177@gslingacademy.com,male,19,2,FALSE,FALSE,3.7,9.6,Facebook,3.088809281,6,Computer Science,52,CC,95,92,75,95,90,83
+178,Traci,traci.boyd.178@gslingacademy.com,female,22,3.9,FALSE,FALSE,3.6,8.5,Telegram,2.249868976,7,Computer Science,51,BB,77,94,88,85,91,61
+179,Elizabeth,elizabeth.butler.179@gslingacademy.com,female,24,2.63,FALSE,FALSE,6.5,9.3,Telegram,0.836716249,2,Mathematics,57,AA,94,99,94,95,98,89
+180,Alex,alex.clark.180@gslingacademy.com,male,18,2.61,FALSE,FALSE,3.9,8.1,Telegram,1.959183399,4,Biology,69,BA,89,73,73,97,66,79
+181,Christopher,christopher.wolfe.181@gslingacademy.com,male,22,2.04,FALSE,TRUE,4.9,10,Instagram,0,2,Physics,54,BA,86,69,87,72,80,93
+182,Jason,jason.bell.182@gslingacademy.com,male,21,3.27,FALSE,FALSE,6.5,9.3,Instagram,2,7,Mathematics,81,AA,75,99,70,100,86,62
+183,Victoria,victoria.donaldson.183@gslingacademy.com,female,24,3.27,FALSE,TRUE,6.6,9.1,TikTok,4.466570312,5,Chemistry,57,BA,75,90,96,91,93,85
+184,Logan,logan.cox.184@gslingacademy.com,male,24,3.41,FALSE,TRUE,6.3,10,Facebook,5.870445544,7,Mathematics,61,AA,75,79,86,91,88,77
+185,Rachel,rachel.hill.185@gslingacademy.com,female,24,2.08,FALSE,FALSE,7.4,8,Facebook,2.164988001,10,Computer Science,46,BA,85,84,77,81,69,95
+186,Jenny,jenny.lloyd.186@gslingacademy.com,female,23,3.96,FALSE,FALSE,3.2,6.4,Telegram,3.958799324,4,Physics,43,AA,69,78,70,100,88,85
+187,Joan,joan.cohen.187@gslingacademy.com,female,24,3.42,FALSE,TRUE,2,6.8,Instagram,2.30760264,6,Physics,47,AA,64,99,99,65,84,80
+188,Kimberly,kimberly.lopez.188@gslingacademy.com,female,21,2.51,TRUE,TRUE,4.3,9.8,Telegram,1.5,4,Mathematics,67,AA,86,62,97,54,76,76
+189,Steven,steven.walker.189@gslingacademy.com,male,21,2.14,FALSE,FALSE,5.3,8.1,Instagram,0,2,Chemistry,74,AA,91,77,96,100,89,67
+190,Sonia,sonia.bowers.190@gslingacademy.com,female,22,2.34,FALSE,FALSE,6.9,7.8,Instagram,2.781608478,1,Biology,50,CB,98,79,95,89,99,87
+191,Penny,penny.perez.191@gslingacademy.com,female,21,2.92,FALSE,FALSE,6.2,8.2,Facebook,0,5,Mathematics,66,AA,93,82,83,92,90,60
+192,Mike,mike.harris.192@gslingacademy.com,male,23,2.24,FALSE,TRUE,7.7,8.3,Instagram,2.489326258,4,Physics,64,BB,79,66,80,88,61,85
+193,Vanessa,vanessa.sweeney.193@gslingacademy.com,female,25,2.06,FALSE,FALSE,5.3,8.8,Instagram,2.143438776,9,Computer Science,51,CC,85,90,74,96,71,80
+194,Adam,adam.edwards.194@gslingacademy.com,male,18,2.17,FALSE,FALSE,1.5,8.3,Facebook,0,8,Biology,43,BB,82,94,100,68,66,69
+195,Angelica,angelica.johnson.195@gslingacademy.com,female,23,2.57,FALSE,FALSE,3.6,9.5,TikTok,0,8,Chemistry,68,AA,93,64,80,82,70,94
+196,Tiffany,tiffany.hernandez.196@gslingacademy.com,female,22,2.71,FALSE,FALSE,3.9,7.1,Facebook,1.525531597,9,Physics,84,BA,61,73,68,65,85,67
+197,Mark,mark.myers.197@gslingacademy.com,male,19,2.22,FALSE,FALSE,3.5,10,Instagram,5.934808473,1,Chemistry,47,AA,62,69,87,84,83,64
+198,Erica,erica.cochran.198@gslingacademy.com,female,21,3.23,FALSE,FALSE,2.5,7.1,Instagram,3.496395874,8,Mathematics,42,CB,83,90,70,83,91,67
+199,Karen,karen.watson.199@gslingacademy.com,female,19,3.9,FALSE,FALSE,3.8,5.9,Instagram,1.504164454,3,Computer Science,58,AA,94,72,96,91,61,94
+200,Kathryn,kathryn.frazier.200@gslingacademy.com,female,20,3.15,FALSE,FALSE,2.5,9.7,Instagram,1.362015721,8,Mathematics,52,CC,65,88,88,60,81,78
+201,Anthony,anthony.jackson.201@gslingacademy.com,male,19,3.16,FALSE,TRUE,3.6,6.6,Instagram,3.660778628,8,Mathematics,55,BB,100,81,81,60,79,96
+202,Jordan,jordan.perez.202@gslingacademy.com,male,19,3.75,FALSE,TRUE,3,9.7,Facebook,1.25,10,Chemistry,46,BB,91,73,91,93,80,100
+203,Jennifer,jennifer.burgess.203@gslingacademy.com,female,23,2.95,FALSE,FALSE,2.6,8.6,TikTok,4.304478443,8,Physics,59,CC,84,62,80,37,80,71
+204,Christina,christina.davis.204@gslingacademy.com,female,22,3.55,FALSE,TRUE,3.2,8.2,Facebook,6.48733058,8,Physics,47,CB,60,87,92,46,67,96
+205,April,april.ryan.205@gslingacademy.com,female,24,2.29,FALSE,FALSE,1.7,9.4,Facebook,4.23,9,Chemistry,52,BB,90,95,81,82,86,98
+206,Maxwell,maxwell.davis.206@gslingacademy.com,male,18,3.3,FALSE,FALSE,3.9,9.8,Telegram,5.129362216,6,Mathematics,71,CC,81,78,67,90,95,79
+207,Matthew,matthew.guzman.207@gslingacademy.com,male,23,2.44,FALSE,FALSE,6.1,7.3,Instagram,2.718882866,9,Chemistry,57,BA,68,86,94,97,77,92
+208,Robert,robert.mayer.208@gslingacademy.com,male,20,3.44,FALSE,TRUE,5.5,7.5,Instagram,0,8,Mathematics,61,CC,77,73,74,62,68,99
+209,Amanda,amanda.willis.209@gslingacademy.com,female,20,3.27,FALSE,FALSE,3.3,9,Twitter,0,2,Computer Science,56,BB,70,83,71,86,95,76
+210,Michele,michele.thomas.210@gslingacademy.com,female,25,3.09,FALSE,TRUE,9.3,6.8,Instagram,3.894169618,2,Physics,59,CC,99,80,78,60,84,86
+211,Tim,tim.turner.211@gslingacademy.com,male,18,3.42,FALSE,FALSE,4.5,9.1,TikTok,1.799800108,6,Physics,62,BB,90,88,100,94,87,96
+212,Joe,joe.strickland.212@gslingacademy.com,male,20,2.33,FALSE,FALSE,1.5,6.6,Facebook,6.203677865,7,Chemistry,44,BA,86,73,73,84,60,71
+213,Trevor,trevor.cruz.213@gslingacademy.com,male,20,3.76,TRUE,FALSE,3.6,6.8,TikTok,5.848874826,2,Mathematics,65,CC,60,58,97,93,89,68
+214,Melissa,melissa.roberts.214@gslingacademy.com,female,22,2.02,FALSE,FALSE,3.4,9.1,Twitter,3.162590441,5,Computer Science,61,AA,80,71,82,95,64,64
+215,Tammy,tammy.miller.215@gslingacademy.com,female,20,3.35,FALSE,FALSE,5.3,8.7,Instagram,1.950414374,7,Computer Science,47,CC,92,62,74,73,98,91
+216,Chad,chad.morgan.216@gslingacademy.com,male,23,3.21,FALSE,FALSE,4.1,7.6,Twitter,2.3,8,Physics,75,CC,82,90,79,94,83,78
+217,Samantha,samantha.maldonado.217@gslingacademy.com,female,24,3.92,FALSE,FALSE,3.6,9.3,Telegram,6.14423649,9,Computer Science,72,DD,93,71,90,90,76,97
+218,Marie,marie.martin.218@gslingacademy.com,female,24,3.42,FALSE,FALSE,7.3,6.2,Telegram,3.251775575,6,Chemistry,79,DC,65,88,80,76,94,97
+219,Theresa,theresa.tucker.219@gslingacademy.com,female,22,3.43,TRUE,FALSE,10,6.2,Twitter,1.513904412,8,Computer Science,48,DC,94,71,72,96,70,63
+220,Joseph,joseph.morris.220@gslingacademy.com,male,21,2.05,FALSE,TRUE,3.2,8.7,Twitter,2.740355004,3,Physics,55,DC,72,88,76,68,92,72
+221,Charles,charles.parker.221@gslingacademy.com,male,23,2.33,FALSE,FALSE,7.4,7.7,Instagram,2.447460549,7,Computer Science,76,DD,94,76,88,75,66,84
+222,Rachel,rachel.alvarez.222@gslingacademy.com,female,18,3.68,FALSE,FALSE,6.3,7.8,TikTok,6.526855928,3,Physics,58,DD,79,87,95,84,90,74
+223,Charles,charles.robertson.223@gslingacademy.com,male,23,3.84,FALSE,FALSE,8.4,5.4,Instagram,3.34397914,4,Mathematics,86,CB,75,61,68,66,90,99
+224,Steven,steven.york.224@gslingacademy.com,male,25,3.82,FALSE,FALSE,9.7,6.1,Twitter,3.032751441,5,Chemistry,89,DD,96,72,69,78,93,72
+225,Robert,robert.dougherty.225@gslingacademy.com,male,21,2.99,FALSE,FALSE,6.5,8.8,Facebook,0.263062272,9,Computer Science,40,CB,74,55,71,66,50,99
+226,Vanessa,vanessa.wheeler.226@gslingacademy.com,female,22,2.49,FALSE,TRUE,3.2,8.2,Twitter,2.234,4,Biology,54,BB,57,78,72,71,96,87
+227,Emily,emily.mcclure.227@gslingacademy.com,female,22,3.16,FALSE,FALSE,1.3,9.5,Telegram,3.086149248,9,Mathematics,42,CB,88,76,65,97,83,85
+228,Angela,angela.thomas.228@gslingacademy.com,female,19,3.56,FALSE,TRUE,3.5,9,Telegram,2.321,2,Physics,57,BB,72,78,69,77,91,96
+229,Roberto,roberto.evans.229@gslingacademy.com,male,24,3.58,FALSE,FALSE,3.6,7.4,Facebook,3.10593457,3,Physics,71,DD,61,95,98,89,85,80
+230,Christopher,christopher.perez.230@gslingacademy.com,male,25,2.82,FALSE,FALSE,5,5.9,Instagram,2.307754062,9,Chemistry,61,DD,65,64,86,67,94,68
+231,William,william.torres.231@gslingacademy.com,male,19,2.98,TRUE,FALSE,4.2,5.9,Telegram,3.09925723,5,Physics,56,DD,98,91,94,100,87,89
+232,Lisa,lisa.gardner.232@gslingacademy.com,female,21,3.21,FALSE,FALSE,1.8,9.1,Telegram,1.454657017,6,Chemistry,41,CB,87,88,61,86,92,94
+233,Catherine,catherine.owens.233@gslingacademy.com,female,24,2.15,FALSE,FALSE,3.6,8.5,TikTok,3.308485471,2,Chemistry,58,CC,79,92,88,92,99,85
+234,Keith,keith.summers.234@gslingacademy.com,male,22,2.73,FALSE,FALSE,7.6,8.6,Facebook,5.582183385,6,Computer Science,46,DC,92,88,84,90,90,71
+235,Linda,linda.adams.235@gslingacademy.com,female,19,2.92,FALSE,FALSE,1.4,9.3,Telegram,4.763714705,4,Physics,42,DC,88,67,95,82,75,84
+236,Michael,michael.wright.236@gslingacademy.com,male,25,3.51,TRUE,FALSE,4.2,8.9,Telegram,2.416658317,1,Mathematics,62,DC,81,89,56,72,74,94
+237,Kyle,kyle.james.237@gslingacademy.com,male,25,2.75,FALSE,FALSE,6.9,8.1,Telegram,2.582417489,3,Biology,57,DC,95,82,81,85,84,73
+238,Christopher,christopher.cook.238@gslingacademy.com,male,19,3.26,FALSE,FALSE,7.2,6.4,Instagram,4.170777579,6,Chemistry,48,DC,86,80,94,63,72,75
+239,John,john.conley.239@gslingacademy.com,male,22,3.74,FALSE,FALSE,3.6,7.9,Facebook,3.745652049,2,Chemistry,52,DD,77,74,95,81,76,91
+240,David,david.barnett.240@gslingacademy.com,male,24,3.26,FALSE,FALSE,0.9,8.6,TikTok,2.998379967,8,Biology,46,CB,99,72,64,70,93,67
+241,Peter,peter.garner.241@gslingacademy.com,male,19,2.37,FALSE,FALSE,6.6,5.1,Telegram,1.886515643,10,Physics,59,DC,91,81,76,100,92,87
+242,Douglas,douglas.stewart.242@gslingacademy.com,male,24,2.67,FALSE,FALSE,6.4,8.2,TikTok,1.224248606,4,Mathematics,72,CC,85,62,64,63,61,85
+243,Heidi,heidi.jones.243@gslingacademy.com,female,19,2.02,FALSE,FALSE,4.1,7.7,TikTok,1.197740605,5,Mathematics,58,DD,84,95,87,78,82,86
+244,Jeremy,jeremy.daniels.244@gslingacademy.com,male,22,2.7,TRUE,FALSE,3.6,9.6,TikTok,2.676778955,2,Chemistry,67,DC,61,78,71,94,92,65
+245,Dustin,dustin.dodson.245@gslingacademy.com,male,18,3.5,FALSE,TRUE,3.9,9.1,Facebook,3.673747949,8,Computer Science,60,DD,97,62,96,74,68,69
+246,Christopher,christopher.cohen.246@gslingacademy.com,male,18,3.6,FALSE,FALSE,5.8,10,Facebook,0,8,Chemistry,68,DD,92,64,78,30,78,88
+247,Willie,willie.ellis.247@gslingacademy.com,male,18,3.47,FALSE,FALSE,2,9.2,Facebook,4.462676186,10,Biology,54,DC,94,91,66,78,71,93
+248,Robert,robert.hawkins.248@gslingacademy.com,male,20,3.05,FALSE,FALSE,1,8.2,Twitter,0.868215623,2,Computer Science,48,DD,68,81,96,99,92,79
+249,Stacy,stacy.jordan.249@gslingacademy.com,female,25,3.06,FALSE,FALSE,4.4,7.5,TikTok,1.630633503,5,Physics,69,DD,95,84,72,62,80,83
+250,Robert,robert.swanson.250@gslingacademy.com,male,25,3.94,FALSE,FALSE,3.4,6.2,Twitter,0,9,Chemistry,49,DD,94,88,99,92,87,97
+251,Holly,holly.henderson.251@gslingacademy.com,female,19,2.13,FALSE,FALSE,5.2,7.4,Instagram,3.768462221,7,Mathematics,66,BB,87,100,66,85,96,87
+252,Debra,debra.valdez.252@gslingacademy.com,female,22,3.64,FALSE,FALSE,6,8.8,TikTok,6.015348266,3,Chemistry,49,DD,88,63,73,83,74,94
+253,Vincent,vincent.robertson.253@gslingacademy.com,male,23,3.56,FALSE,FALSE,1.2,7.8,Telegram,2.069436647,6,Physics,57,DD,80,80,65,91,67,84
+254,Karen,karen.spencer.254@gslingacademy.com,female,22,3.16,FALSE,FALSE,2,8.8,TikTok,5.161708579,2,Chemistry,58,DC,80,72,92,41,90,78
+255,Nathan,nathan.riley.255@gslingacademy.com,male,20,3.56,FALSE,FALSE,6,8.4,Facebook,2.19576177,10,Chemistry,58,DC,92,85,86,99,86,93
+256,Andrea,andrea.sutton.256@gslingacademy.com,female,25,2.81,FALSE,TRUE,3.7,9.8,TikTok,5.659078615,6,Physics,66,DD,89,87,97,93,87,100
+257,Tracey,tracey.turner.257@gslingacademy.com,female,19,2.94,FALSE,TRUE,3.7,9.3,Instagram,2.857807835,10,Chemistry,66,BA,92,95,62,73,75,93
+258,Tammy,tammy.olsen.258@gslingacademy.com,female,23,3.8,TRUE,FALSE,3.9,8.8,Facebook,0.027450268,10,Computer Science,58,BA,87,56,97,62,74,61
+259,Sheila,sheila.wilkinson.259@gslingacademy.com,female,19,2.62,FALSE,TRUE,3.8,9.8,Facebook,1.574075829,10,Mathematics,47,BA,73,71,51,80,84,65
+260,Nathan,nathan.padilla.260@gslingacademy.com,male,21,2.1,FALSE,FALSE,4.8,9.9,Facebook,3.019825115,7,Biology,63,AA,82,65,65,76,95,62
+261,Sarah,sarah.santiago.261@gslingacademy.com,female,25,2.39,FALSE,FALSE,3.7,6.1,Telegram,2.582438522,7,Biology,66,BA,92,91,96,90,96,90
+262,Christopher,christopher.cruz.262@gslingacademy.com,male,23,3.29,FALSE,FALSE,3.2,5.2,Instagram,0.96878067,5,Mathematics,47,AA,65,93,95,76,88,88
+263,Nicholas,nicholas.sanders.263@gslingacademy.com,male,23,3.51,TRUE,FALSE,3.6,9.5,Twitter,0,5,Physics,63,AA,63,68,72,81,67,67
+264,Jessica,jessica.waters.264@gslingacademy.com,female,22,2.79,FALSE,FALSE,3.7,9,Telegram,4.59981121,5,Chemistry,57,AA,77,96,76,80,97,80
+265,James,james.miller.265@gslingacademy.com,male,24,2.47,FALSE,FALSE,4.9,9.8,Twitter,0,1,Computer Science,70,AA,80,66,77,60,88,74
+266,Adam,adam.kane.266@gslingacademy.com,male,18,3.88,FALSE,FALSE,3.8,9.5,Facebook,4.008788972,7,Computer Science,61,BA,81,94,97,79,86,63
+267,Patricia,patricia.gonzalez.267@gslingacademy.com,female,24,2.75,FALSE,TRUE,3.9,9,Facebook,0.803130892,7,Computer Science,55,AA,74,86,96,80,99,76
+268,Whitney,whitney.holmes.268@gslingacademy.com,female,19,2.18,FALSE,FALSE,9.2,5.2,Twitter,6.790118187,4,Computer Science,45,Fail,87,68,96,91,68,65
+269,Rachel,rachel.hamilton.269@gslingacademy.com,female,19,3.18,FALSE,FALSE,4.8,6.3,TikTok,0,2,Mathematics,58,BA,100,64,71,84,92,99
+270,Melissa,melissa.marshall.270@gslingacademy.com,female,19,2.33,FALSE,FALSE,3.7,7.2,Instagram,0,2,Chemistry,67,AA,80,68,75,80,81,60
+271,Jacob,jacob.henderson.271@gslingacademy.com,male,20,3.46,FALSE,FALSE,6.1,8.3,TikTok,2.147963568,6,Chemistry,63,BB,98,71,95,94,71,77
+272,Melissa,melissa.huerta.272@gslingacademy.com,female,22,3.92,FALSE,FALSE,3.2,8,Facebook,5.031289098,10,Physics,55,BA,58,64,66,87,62,68
+273,Kevin,kevin.camacho.273@gslingacademy.com,male,20,3.92,FALSE,FALSE,3.5,9.5,Twitter,12.51883198,3,Physics,57,BB,73,70,95,100,70,94
+274,Anthony,anthony.martinez.274@gslingacademy.com,male,19,2.87,TRUE,FALSE,7.3,8.6,Telegram,4.974971121,10,Mathematics,65,AA,67,91,79,58,52,75
+275,Randy,randy.rodriguez.275@gslingacademy.com,male,20,3.68,FALSE,FALSE,7.1,9.2,Facebook,0,8,Chemistry,68,Fail,82,89,74,67,92,82
+276,Patrick,patrick.vazquez.276@gslingacademy.com,male,18,2.53,FALSE,FALSE,4.2,8.2,Facebook,1.056377252,10,Computer Science,83,BB,90,92,66,73,68,70
+277,Kim,kim.flores.277@gslingacademy.com,female,23,3.23,TRUE,FALSE,2.4,7.1,Telegram,1.471120363,2,Computer Science,41,AA,61,73,91,84,92,94
+278,Robert,robert.salazar.278@gslingacademy.com,male,25,2.6,FALSE,TRUE,2,9.5,TikTok,1.680739049,7,Biology,48,CB,96,81,74,75,80,98
+279,Victoria,victoria.vasquez.279@gslingacademy.com,female,25,3.84,FALSE,FALSE,4,10,TikTok,2.18628253,7,Computer Science,79,BB,96,98,60,90,79,72
+280,Ricardo,ricardo.macias.280@gslingacademy.com,male,22,3.35,FALSE,FALSE,4.1,6.2,TikTok,2.492890083,4,Chemistry,57,BB,87,60,71,91,84,98
+281,Brandi,brandi.bauer.281@gslingacademy.com,female,19,2.83,FALSE,TRUE,2.1,9,Facebook,3.398457494,7,Computer Science,48,AA,76,88,93,69,75,97
+282,Jorge,jorge.roth.282@gslingacademy.com,male,20,2.74,FALSE,FALSE,1,8.5,Instagram,1.832651704,9,Biology,52,BA,96,95,100,89,64,91
+283,Benjamin,benjamin.davis.283@gslingacademy.com,male,18,3.5,FALSE,FALSE,6.9,9,Twitter,3.321914331,4,Mathematics,70,Fail,83,94,76,77,81,92
+284,Nancy,nancy.pierce.284@gslingacademy.com,female,23,3.67,TRUE,TRUE,6.6,9.7,Twitter,3.75509416,3,Mathematics,61,BA,75,85,92,76,95,85
+285,Catherine,catherine.weiss.285@gslingacademy.com,female,22,3.28,FALSE,FALSE,4.5,8.6,Instagram,0.8059382,8,Physics,65,Fail,94,77,63,69,88,100
+286,Jacob,jacob.perez.286@gslingacademy.com,male,24,3.97,FALSE,TRUE,3.5,9.8,TikTok,0.497472562,10,Computer Science,69,Fail,94,96,84,91,67,68
+287,Penny,penny.zuniga.287@gslingacademy.com,female,24,3.07,FALSE,TRUE,3.6,5.3,Twitter,5.194409745,8,Biology,63,CC,60,97,100,83,88,94
+288,Anthony,anthony.cox.288@gslingacademy.com,male,19,2.14,FALSE,FALSE,6.4,9.5,TikTok,3.247950875,2,Computer Science,56,CC,76,95,60,61,98,77
+289,Angela,angela.nelson.289@gslingacademy.com,female,25,3.52,FALSE,FALSE,4.3,6.8,Facebook,2.69833204,4,Physics,66,AA,84,64,67,78,51,62
+290,Lisa,lisa.white.290@gslingacademy.com,female,18,3.16,FALSE,FALSE,3.2,8.5,Instagram,0.149546084,5,Physics,49,CB,60,70,94,87,90,86
+291,Robin,robin.parker.291@gslingacademy.com,female,21,2.84,FALSE,TRUE,3.6,9.7,Twitter,4.538713395,7,Mathematics,52,BB,61,93,61,74,94,64
+292,Cynthia,cynthia.shields.292@gslingacademy.com,female,18,3.86,TRUE,FALSE,3.8,8,Facebook,2.996241643,4,Biology,58,BB,97,67,67,75,94,93
+293,Pamela,pamela.wilkinson.293@gslingacademy.com,female,25,2.3,FALSE,FALSE,2.1,8.7,Instagram,1.4124,4,Chemistry,49,AA,84,88,87,36,96,86
+294,Brenda,brenda.nichols.294@gslingacademy.com,female,23,2.7,FALSE,FALSE,5.1,9.4,Facebook,3.385058624,8,Physics,46,AA,93,82,99,66,93,86
+295,Laura,laura.rodriguez.295@gslingacademy.com,female,20,3.77,TRUE,FALSE,5.6,8.5,Facebook,2.481948682,9,Mathematics,75,AA,67,92,100,70,94,81
+296,Julie,julie.carey.296@gslingacademy.com,female,25,3.39,FALSE,TRUE,9.7,7.1,Telegram,1.766208694,3,Chemistry,90,AA,68,89,90,68,99,74
+297,Barbara,barbara.andrews.297@gslingacademy.com,female,22,3.2,FALSE,FALSE,3.6,8.8,TikTok,6.15877179,7,Chemistry,66,AA,78,69,68,70,80,73
+298,Tracy,tracy.johnson.298@gslingacademy.com,male,21,3.95,FALSE,FALSE,1.1,9.5,Twitter,4.981340681,8,Biology,47,BA,97,74,60,65,90,97
+299,Sarah,sarah.oconnor.299@gslingacademy.com,female,21,2.11,FALSE,FALSE,4.5,9,Facebook,3.442179803,5,Physics,63,CC,94,92,77,84,63,64
+300,Joseph,joseph.landry.300@gslingacademy.com,male,20,2.76,FALSE,FALSE,0.8,7.4,Facebook,4.88372018,8,Biology,54,BA,81,60,85,87,90,76
+301,Terry,terry.chen.301@gslingacademy.com,male,23,3,FALSE,TRUE,3.7,5.3,Facebook,3.673068691,8,Mathematics,62,CC,70,82,72,78,60,81
+302,Heather,heather.faulkner.302@gslingacademy.com,female,25,2.85,FALSE,FALSE,5.1,6.3,Instagram,3.123,6,Chemistry,56,Fail,97,62,82,74,98,95
+303,Wanda,wanda.baxter.303@gslingacademy.com,female,22,3.97,FALSE,FALSE,1.8,9.9,Telegram,4.882849466,2,Physics,46,BA,99,81,71,67,74,89
+304,Amanda,amanda.davis.304@gslingacademy.com,female,24,3.52,FALSE,TRUE,3.8,7.9,Twitter,4.400688871,9,Computer Science,73,Fail,66,69,65,90,76,60
+305,Gina,gina.powell.305@gslingacademy.com,female,23,3.37,TRUE,FALSE,3.6,8.6,TikTok,0.812998588,3,Physics,46,Fail,76,55,63,70,61,60
+306,Sabrina,sabrina.hall.306@gslingacademy.com,female,20,3.41,FALSE,FALSE,4,9.6,Telegram,4.174499757,10,Computer Science,61,AA,61,60,91,62,78,91
+307,Lauren,lauren.miller.307@gslingacademy.com,female,25,2.86,FALSE,FALSE,4.4,9.1,Instagram,1.325914576,6,Biology,64,BA,88,70,70,62,70,75
+308,Jessica,jessica.diaz.308@gslingacademy.com,female,20,3.86,FALSE,FALSE,3.7,9.3,Telegram,2.146509016,2,Physics,57,BA,100,96,87,100,90,89
+309,Ashley,ashley.garcia.309@gslingacademy.com,female,21,2.99,FALSE,FALSE,3.8,5.4,Instagram,4.123,6,Computer Science,51,AA,90,87,96,61,61,76
+310,Miranda,miranda.johnson.310@gslingacademy.com,female,19,3.23,FALSE,FALSE,5.6,5.6,Instagram,3.199700966,6,Computer Science,77,BA,74,64,97,95,77,88
+311,Tracy,tracy.johnston.311@gslingacademy.com,female,20,2.51,TRUE,FALSE,3.1,9.2,Telegram,1.32,7,Biology,64,BA,54,55,62,75,79,96
+312,Erik,erik.butler.312@gslingacademy.com,male,21,2.38,FALSE,FALSE,3.4,6.4,Twitter,3.132,8,Computer Science,41,BB,89,90,88,93,87,70
+313,Tiffany,tiffany.jones.313@gslingacademy.com,female,24,3.25,FALSE,TRUE,5.6,5.2,Instagram,3.092373253,6,Chemistry,52,AA,96,98,85,81,69,90
+314,Brandy,brandy.campbell.314@gslingacademy.com,female,24,2.14,FALSE,FALSE,3.7,9.7,TikTok,6.345161357,5,Chemistry,75,AA,98,85,99,92,70,96
+315,Joel,joel.hicks.315@gslingacademy.com,male,23,3.75,FALSE,FALSE,3.7,8,Twitter,4.213,3,Biology,46,BB,87,87,90,91,91,99
+316,John,john.miller.316@gslingacademy.com,male,18,2.2,FALSE,FALSE,4.8,9.2,Facebook,2.642147499,5,Physics,57,AA,74,93,76,79,65,74
+317,Nancy,nancy.jones.317@gslingacademy.com,female,25,2.77,TRUE,FALSE,3.6,7.7,Twitter,4.381495899,10,Biology,53,BA,92,60,88,90,68,100
+318,Jody,jody.mueller.318@gslingacademy.com,female,20,2.99,FALSE,FALSE,3.3,7.8,Facebook,3.299785191,4,Biology,40,BB,87,99,80,89,78,87
+319,Steven,steven.fox.319@gslingacademy.com,male,21,2.48,FALSE,FALSE,3.3,9.7,Twitter,2.15699041,5,Computer Science,40,AA,51,88,96,77,71,61
+320,Taylor,taylor.klein.320@gslingacademy.com,female,23,3.63,FALSE,FALSE,5.7,7.1,Twitter,4.829339299,6,Computer Science,56,AA,62,84,76,89,83,93
+321,David,david.barron.321@gslingacademy.com,male,20,3.03,TRUE,FALSE,3.8,6.7,Telegram,3.524598725,2,Chemistry,58,BB,71,75,64,97,89,88
+322,Kevin,kevin.thompson.322@gslingacademy.com,male,23,3.65,FALSE,FALSE,3.6,9.5,Twitter,3.814590017,1,Physics,68,CC,99,83,100,94,91,69
+323,Andrea,andrea.walters.323@gslingacademy.com,female,23,3.32,TRUE,FALSE,3.7,8.1,Twitter,2.602165938,8,Physics,68,CC,81,76,83,81,70,65
+324,David,david.wright.324@gslingacademy.com,male,18,3.37,FALSE,FALSE,6.6,9,Telegram,2.80056425,4,Biology,66,BB,95,81,78,79,65,86
+325,Anthony,anthony.oconnor.325@gslingacademy.com,male,22,2.41,FALSE,FALSE,3.6,8.2,Facebook,4.596223091,5,Computer Science,66,AA,85,69,73,79,93,74
+326,Laura,laura.miller.326@gslingacademy.com,female,25,3.8,FALSE,TRUE,3.4,6.6,TikTok,1.98887162,10,Computer Science,54,BA,81,92,79,74,85,86
+327,Steven,steven.barrett.327@gslingacademy.com,male,23,2.9,FALSE,FALSE,4,8.4,Twitter,7.641183172,1,Chemistry,49,BA,96,91,69,70,99,70
+328,Miranda,miranda.ruiz.328@gslingacademy.com,female,24,3.44,FALSE,TRUE,6.3,9.7,Facebook,1.819891787,10,Physics,78,AA,62,77,98,76,99,82
+329,Matthew,matthew.anderson.329@gslingacademy.com,male,18,2.51,FALSE,FALSE,6.1,8.5,Facebook,1.782575071,10,Physics,57,BA,60,88,68,66,82,60
+330,Kenneth,kenneth.flores.330@gslingacademy.com,male,20,2.02,FALSE,FALSE,3.6,9.1,Facebook,5.071290524,2,Physics,61,AA,62,91,87,80,65,94
+331,Sydney,sydney.johnson.331@gslingacademy.com,female,21,3.37,FALSE,FALSE,3.5,9.6,Telegram,2.953517599,10,Physics,53,BA,86,65,66,88,85,60
+332,Carla,carla.lewis.332@gslingacademy.com,female,21,3.72,FALSE,FALSE,5.8,9,TikTok,12.29639434,2,Physics,53,AA,78,72,61,78,88,74
+333,Jeffrey,jeffrey.shannon.333@gslingacademy.com,male,18,2.04,FALSE,FALSE,3,8.2,TikTok,2.432,4,Computer Science,43,AA,86,100,60,80,78,96
+334,Angela,angela.park.334@gslingacademy.com,female,21,2.08,FALSE,FALSE,3.8,9.4,Facebook,3.813867387,8,Chemistry,47,AA,78,99,85,98,86,73
+335,Brandon,brandon.smith.335@gslingacademy.com,male,22,2.5,TRUE,FALSE,5.8,8.5,TikTok,3.670157848,3,Computer Science,51,AA,50,99,62,97,60,84
+336,Kenneth,kenneth.moody.336@gslingacademy.com,male,24,2.9,FALSE,FALSE,8.1,8.2,TikTok,1.896897207,8,Physics,70,CB,78,95,65,74,69,63
+337,Scott,scott.hughes.337@gslingacademy.com,male,22,3.18,FALSE,FALSE,3.3,9.3,Twitter,1.299542877,9,Chemistry,55,AA,88,81,82,97,83,74
+338,Cody,cody.jimenez.338@gslingacademy.com,male,18,3.77,FALSE,FALSE,2.1,5.1,Telegram,0,1,Computer Science,43,BB,95,89,63,67,92,75
+339,Allen,allen.farmer.339@gslingacademy.com,male,24,2.02,FALSE,TRUE,5.2,8.5,Twitter,1.412,6,Mathematics,48,CC,78,70,66,69,62,100
+340,James,james.young.340@gslingacademy.com,male,21,3.26,FALSE,FALSE,3.9,8.7,Telegram,2.050570072,10,Mathematics,42,BB,95,98,66,84,83,100
+341,Laura,laura.dawson.341@gslingacademy.com,female,25,2.3,FALSE,FALSE,6.2,6.9,Facebook,1.51177558,7,Mathematics,71,AA,94,75,82,71,90,75
+342,Donald,donald.carson.342@gslingacademy.com,male,21,3.86,FALSE,FALSE,4.2,8.5,Instagram,2.491375488,8,Physics,53,BA,96,83,97,72,77,61
+343,Wayne,wayne.lane.343@gslingacademy.com,male,23,3.98,FALSE,TRUE,3.5,9.2,Twitter,2.050717699,9,Chemistry,72,AA,61,95,72,71,83,96
+344,Robert,robert.johnson.344@gslingacademy.com,male,25,3.07,FALSE,FALSE,2.6,6.5,TikTok,4.686604262,4,Chemistry,49,CB,96,72,93,93,79,64
+345,Melissa,melissa.le.345@gslingacademy.com,female,19,2.14,FALSE,FALSE,3.7,6.9,Twitter,0.379810127,7,Chemistry,66,AA,69,69,60,90,88,95
+346,David,david.rice.346@gslingacademy.com,male,22,3.85,TRUE,FALSE,3.5,5.9,Instagram,4.979821656,1,Biology,66,CC,76,52,95,54,59,85
+347,Dawn,dawn.gomez.347@gslingacademy.com,female,21,3.19,TRUE,FALSE,5.7,9.8,Instagram,4.364072981,4,Computer Science,54,BB,65,74,76,100,95,68
+348,Ricky,ricky.nichols.348@gslingacademy.com,male,18,2.03,FALSE,FALSE,3.6,5.7,Telegram,1.153018068,2,Chemistry,79,BB,68,90,99,74,82,86
+349,Henry,henry.pitts.349@gslingacademy.com,male,24,3.64,FALSE,FALSE,6.1,7,TikTok,0.451112071,8,Physics,60,CC,95,81,87,86,91,80
+350,Christopher,christopher.price.350@gslingacademy.com,male,21,2.55,FALSE,FALSE,4,8.2,TikTok,4.121239341,5,Biology,63,CB,94,88,67,62,66,96
+351,Aimee,aimee.adams.351@gslingacademy.com,female,19,2.71,FALSE,FALSE,4.5,9.4,TikTok,4.117185468,1,Physics,51,BB,64,64,60,75,92,61
+352,Tammy,tammy.barry.352@gslingacademy.com,female,22,2.51,FALSE,FALSE,8.2,6.1,Instagram,1.415192091,6,Computer Science,90,CC,91,76,76,89,60,85
+353,Ryan,ryan.hull.353@gslingacademy.com,male,18,3.99,FALSE,TRUE,8,5.5,Telegram,0.350591099,7,Mathematics,84,BA,98,98,83,77,93,83
+354,Samuel,samuel.jackson.354@gslingacademy.com,male,19,3.47,FALSE,FALSE,3.2,9.6,Facebook,4.123,1,Physics,52,CC,90,64,94,68,97,61
+355,Joshua,joshua.smith.355@gslingacademy.com,male,21,3.78,FALSE,FALSE,4.7,9.9,Telegram,0,1,Physics,57,BB,96,91,60,91,73,88
+356,Sydney,sydney.stevenson.356@gslingacademy.com,female,19,3.71,FALSE,FALSE,4.8,9.7,Facebook,4.092139868,5,Computer Science,76,CC,58,58,100,60,52,82
+357,Christopher,christopher.rios.357@gslingacademy.com,male,18,2.59,FALSE,FALSE,5.5,9,Instagram,1.734507754,2,Chemistry,80,BB,66,77,100,88,77,62
+358,Brenda,brenda.collins.358@gslingacademy.com,female,20,2.62,FALSE,TRUE,3.4,7.5,Twitter,3.396515869,9,Chemistry,48,BA,99,81,74,74,82,67
+359,Diana,diana.griffin.359@gslingacademy.com,female,19,3,FALSE,FALSE,3.8,8.5,Facebook,6.584790681,3,Computer Science,68,CC,97,94,83,84,77,79
+360,Gary,gary.gray.360@gslingacademy.com,male,20,2.78,FALSE,TRUE,5.1,8.7,Twitter,2.214059935,1,Physics,79,AA,96,76,77,99,64,83
+361,Kimberly,kimberly.torres.361@gslingacademy.com,female,20,2.45,FALSE,FALSE,3.9,8.4,Twitter,4.355359032,6,Biology,69,CC,88,87,82,95,70,87
+362,Jeffrey,jeffrey.booker.362@gslingacademy.com,male,20,2.58,FALSE,FALSE,7.1,6.2,Telegram,2.487131767,9,Computer Science,59,CC,81,86,100,66,98,97
+363,Nicole,nicole.buchanan.363@gslingacademy.com,female,24,2.98,FALSE,FALSE,3.6,9.1,Telegram,5.423,9,Chemistry,77,DD,71,79,65,99,91,98
+364,Kristin,kristin.johnson.364@gslingacademy.com,female,21,3.14,FALSE,FALSE,4,5.8,Facebook,6.05462508,9,Physics,65,DC,95,76,83,84,96,61
+365,Emily,emily.bell.365@gslingacademy.com,female,23,3.59,FALSE,FALSE,3.4,10,Twitter,1.889970765,10,Computer Science,43,DC,92,92,76,49,93,75
+366,Francis,francis.nelson.366@gslingacademy.com,male,22,2.22,FALSE,FALSE,3.9,9.1,Instagram,4.095283005,7,Chemistry,54,DC,67,64,74,65,94,96
+367,Tracy,tracy.harris.367@gslingacademy.com,male,22,3.12,FALSE,FALSE,3.1,6.8,Telegram,3.630875126,9,Physics,41,DD,70,73,67,96,86,89
+368,Sheila,sheila.sosa.368@gslingacademy.com,female,19,3.44,FALSE,FALSE,6.9,9.1,TikTok,3.837657218,2,Computer Science,49,DD,89,70,97,60,79,79
+369,Ashley,ashley.mendez.369@gslingacademy.com,female,24,2.54,FALSE,FALSE,3.5,9.9,Instagram,2.532,3,Chemistry,55,CB,78,53,77,59,95,80
+370,Matthew,matthew.griffin.370@gslingacademy.com,male,25,2.1,FALSE,FALSE,0.8,8,Instagram,4.033702141,9,Biology,41,DD,79,61,99,66,60,76
+371,Timothy,timothy.mann.371@gslingacademy.com,male,23,3.98,FALSE,FALSE,7.7,5.3,Facebook,1.871814188,7,Biology,63,CB,87,96,63,69,69,81
+372,Christine,christine.foster.372@gslingacademy.com,female,25,3.71,TRUE,FALSE,8.3,6.1,TikTok,2.136925918,10,Computer Science,68,BB,87,55,74,73,77,61
+373,Julie,julie.yates.373@gslingacademy.com,female,19,2.98,FALSE,FALSE,7.7,8.8,TikTok,3.550119771,8,Biology,63,CB,54,95,94,99,58,94
+374,William,william.ballard.374@gslingacademy.com,male,25,2.01,TRUE,TRUE,3.7,9.3,TikTok,4.312,5,Physics,62,BB,73,65,78,77,97,96
+375,Kristen,kristen.adams.375@gslingacademy.com,female,25,2.09,FALSE,TRUE,7,8.4,Telegram,3.732527678,9,Physics,59,DD,81,72,63,69,73,80
+376,Chelsea,chelsea.mitchell.376@gslingacademy.com,female,25,3.11,FALSE,FALSE,7.8,9,TikTok,1.847063173,3,Physics,47,DD,65,87,91,71,90,90
+377,Patrick,patrick.everett.377@gslingacademy.com,male,22,2,FALSE,FALSE,4.1,10,Instagram,5.08863077,5,Computer Science,69,DD,94,94,62,68,79,68
+378,Carla,carla.parker.378@gslingacademy.com,female,19,3.9,FALSE,FALSE,6.5,8.5,Facebook,0,10,Computer Science,67,CB,94,69,78,76,63,71
+379,Casey,casey.galvan.379@gslingacademy.com,male,22,2.63,FALSE,FALSE,3.5,5.4,Telegram,3.928598582,8,Mathematics,67,CC,96,89,89,60,99,93
+380,Eric,eric.moran.380@gslingacademy.com,male,24,2.61,FALSE,TRUE,3.3,9.1,Twitter,4.312,2,Biology,44,DC,92,79,100,93,63,98
+381,Tabitha,tabitha.hudson.381@gslingacademy.com,female,18,2.04,FALSE,TRUE,4.5,7.6,TikTok,3.309712655,10,Physics,47,DC,85,83,65,76,94,60
+382,Lance,lance.salazar.382@gslingacademy.com,male,22,3.27,FALSE,FALSE,4.4,5.9,Telegram,5.639692982,1,Mathematics,51,DC,77,83,91,84,74,62
+383,Melissa,melissa.williamson.383@gslingacademy.com,female,21,3.27,TRUE,FALSE,1.3,7.1,Facebook,3.030561826,2,Chemistry,51,DC,89,79,74,79,74,61
+384,James,james.castro.384@gslingacademy.com,male,24,3.41,FALSE,FALSE,4,6.5,Twitter,3.504759605,7,Mathematics,63,DC,75,61,65,90,92,80
+385,Joseph,joseph.johnson.385@gslingacademy.com,male,24,2.08,TRUE,FALSE,9.7,5,Instagram,0.561684914,4,Computer Science,70,DD,69,69,67,70,78,66
+386,Gene,gene.woodward.386@gslingacademy.com,male,24,3.96,FALSE,TRUE,3.4,5.1,TikTok,3.256832867,1,Physics,51,CB,97,94,77,63,98,98
+387,Patricia,patricia.watson.387@gslingacademy.com,female,23,3.42,FALSE,FALSE,1.4,8.8,TikTok,2.487468378,4,Physics,50,DC,93,87,85,98,85,95
+388,John,john.carey.388@gslingacademy.com,male,24,2.51,FALSE,FALSE,5.6,9.8,Facebook,2.456557666,2,Mathematics,47,CC,100,98,93,100,77,76
+389,Sara,sara.cochran.389@gslingacademy.com,female,21,2.14,FALSE,FALSE,8.3,6.2,Telegram,0,7,Chemistry,83,DD,70,51,84,66,64,88
+390,Jamie,jamie.suarez.390@gslingacademy.com,female,21,2.34,TRUE,TRUE,3.7,8.5,Telegram,6.459268294,8,Biology,51,DC,68,96,71,86,94,89
+391,Steven,steven.frazier.391@gslingacademy.com,male,22,2.92,FALSE,FALSE,3.5,8.3,Twitter,1.089040512,5,Mathematics,56,DD,89,88,89,98,89,96
+392,Nicholas,nicholas.hart.392@gslingacademy.com,male,21,2.24,FALSE,TRUE,3.4,6.7,TikTok,2.414485301,6,Physics,60,DD,60,67,82,77,72,72
+393,Cheryl,cheryl.arias.393@gslingacademy.com,female,23,2.06,FALSE,FALSE,4,7.1,Facebook,0.027674833,8,Computer Science,70,DC,80,81,88,78,94,85
+394,Marc,marc.brock.394@gslingacademy.com,male,25,2.17,TRUE,FALSE,4.4,7.6,Telegram,0.103203125,4,Biology,43,DD,67,65,61,76,58,84
+395,Timothy,timothy.perez.395@gslingacademy.com,male,18,2.57,FALSE,FALSE,9.1,5,TikTok,0.138126212,6,Chemistry,65,DD,97,86,60,66,74,96
+396,Courtney,courtney.rodriguez.396@gslingacademy.com,female,23,2.71,FALSE,FALSE,3.6,8.2,Telegram,6.098436824,3,Physics,74,DD,68,97,85,86,85,73
+397,Samantha,samantha.clark.397@gslingacademy.com,female,22,2.22,FALSE,FALSE,5.1,9.4,Instagram,0,10,Chemistry,62,BB,97,65,100,56,73,95
+398,Francisco,francisco.reilly.398@gslingacademy.com,male,19,3.23,FALSE,FALSE,2.9,5.4,Instagram,1.852371373,6,Mathematics,42,DD,88,97,61,80,80,84
+399,Denise,denise.young.399@gslingacademy.com,female,21,3.9,FALSE,FALSE,6.6,9.3,TikTok,2.19932807,7,Computer Science,81,DD,89,68,64,79,66,66
+400,Darrell,darrell.williams.400@gslingacademy.com,male,19,3.15,FALSE,FALSE,3.9,9.9,TikTok,1.524697332,2,Mathematics,62,DC,91,87,63,95,88,62
+401,Andrew,andrew.smith.401@gslingacademy.com,male,20,3.5,FALSE,FALSE,6.2,8.5,TikTok,5.132,7,Chemistry,53,DC,90,86,100,96,77,60
+402,Teresa,teresa.stafford.402@gslingacademy.com,female,22,3.16,FALSE,FALSE,4.1,6.6,Twitter,2.140940354,2,Mathematics,57,DD,63,92,91,89,92,76
+403,Cory,cory.harris.403@gslingacademy.com,male,19,3.75,FALSE,FALSE,3.6,7.8,Facebook,0.523970981,5,Chemistry,49,BA,87,72,72,68,85,78
+404,Douglas,douglas.irwin.404@gslingacademy.com,male,23,2.95,FALSE,FALSE,1.9,9.5,Twitter,4.863159197,7,Physics,53,BA,92,79,92,67,68,72
+405,Deborah,deborah.miller.405@gslingacademy.com,female,22,3.55,FALSE,FALSE,5.4,8.9,Instagram,6.114075606,2,Physics,71,BA,68,61,91,60,86,62
+406,Autumn,autumn.hernandez.406@gslingacademy.com,female,24,2.29,FALSE,FALSE,3.4,5.5,Instagram,5.500330598,7,Chemistry,52,AA,71,70,95,79,77,68
+407,Paul,paul.serrano.407@gslingacademy.com,male,18,3.3,FALSE,FALSE,6,8.4,Instagram,0,7,Mathematics,56,BA,76,82,71,70,89,76
+408,Matthew,matthew.griffin.408@gslingacademy.com,male,23,2.44,TRUE,FALSE,3.8,7,Telegram,0,7,Chemistry,51,AA,69,63,67,69,92,77
+409,Evan,evan.holmes.409@gslingacademy.com,male,20,3.44,FALSE,TRUE,3.7,8.1,Instagram,0,5,Mathematics,51,AA,75,77,74,80,94,74
+410,Cynthia,cynthia.baker.410@gslingacademy.com,female,20,3.27,FALSE,FALSE,3.3,5.9,Instagram,4.076803574,8,Computer Science,42,AA,87,84,97,94,87,85
+411,Sandra,sandra.melendez.411@gslingacademy.com,female,25,3.09,FALSE,FALSE,4.1,9,Telegram,2.312,2,Physics,71,AA,98,76,89,93,85,75
+412,Claudia,claudia.munoz.412@gslingacademy.com,female,18,3.42,FALSE,FALSE,3.7,7.2,TikTok,7.794076036,6,Physics,58,BA,96,66,71,87,89,61
+413,Christopher,christopher.nguyen.413@gslingacademy.com,male,20,2.33,FALSE,TRUE,8.2,8.5,Facebook,4.312,7,Chemistry,83,AA,99,93,100,97,92,90
+414,David,david.jennings.414@gslingacademy.com,male,20,3.76,FALSE,FALSE,3.5,9.9,Telegram,5.136273076,9,Mathematics,48,Fail,74,82,87,36,61,88
+415,Joel,joel.morris.415@gslingacademy.com,male,22,2.02,TRUE,FALSE,3.3,5.5,Twitter,5.171044005,1,Computer Science,45,BA,56,76,71,66,54,91
+416,Rhonda,rhonda.bradley.416@gslingacademy.com,female,20,3.35,FALSE,FALSE,3.3,8.6,Instagram,1.002075447,3,Computer Science,50,AA,68,89,63,81,92,97
+417,Melissa,melissa.brown.417@gslingacademy.com,female,23,3.21,FALSE,FALSE,3.4,9.8,Facebook,1.320538437,5,Physics,44,BB,93,78,85,48,68,75
+418,Matthew,matthew.kramer.418@gslingacademy.com,male,24,3.92,TRUE,FALSE,3.7,9,Telegram,6.088921546,1,Computer Science,49,BA,53,56,75,98,92,73
+419,Austin,austin.bass.419@gslingacademy.com,male,24,3.42,FALSE,TRUE,3,8,Telegram,0,5,Chemistry,45,BB,95,99,94,92,90,77
+420,Jennifer,jennifer.west.420@gslingacademy.com,female,22,3.43,FALSE,FALSE,3.7,6.8,Facebook,2.679777182,10,Computer Science,61,AA,100,97,91,95,90,95
+421,Patricia,patricia.mccormick.421@gslingacademy.com,female,21,2.05,FALSE,FALSE,2.9,7.7,Facebook,4.394332723,2,Physics,58,Fail,84,69,100,69,77,87
+422,Sandra,sandra.jacobs.422@gslingacademy.com,female,23,2.33,FALSE,FALSE,5.5,5.4,Facebook,3.953270524,5,Computer Science,51,BB,75,62,60,82,91,96
+423,Jasmine,jasmine.clark.423@gslingacademy.com,female,18,3.68,FALSE,FALSE,3,5.7,Twitter,2.206418072,6,Physics,58,AA,97,79,78,31,99,84
+424,Jeffrey,jeffrey.young.424@gslingacademy.com,male,23,3.84,FALSE,FALSE,3.2,9.1,Instagram,2.122428017,6,Mathematics,40,CB,80,96,64,91,68,71
+425,Jason,jason.hernandez.425@gslingacademy.com,male,25,3.82,FALSE,FALSE,7.1,9.6,Telegram,0.481720869,1,Chemistry,42,BB,90,79,73,76,68,95
+426,Christopher,christopher.hamilton.426@gslingacademy.com,male,21,2.99,FALSE,FALSE,3.8,9.7,Telegram,1.160271875,10,Computer Science,70,BB,100,68,95,95,88,83
+427,Monique,monique.peterson.427@gslingacademy.com,female,22,2.49,FALSE,FALSE,3.6,8.1,Facebook,6.26137351,6,Biology,58,AA,81,69,92,65,89,69
+428,Jill,jill.sexton.428@gslingacademy.com,female,22,3.16,FALSE,TRUE,3.6,8.4,Facebook,3.407209307,8,Mathematics,51,BA,66,84,75,93,84,69
+429,Jennifer,jennifer.kemp.429@gslingacademy.com,female,19,3.56,FALSE,FALSE,2,9.4,Facebook,1.771187935,2,Physics,45,Fail,67,93,74,81,87,76
+430,David,david.harris.430@gslingacademy.com,male,24,3.58,FALSE,FALSE,3.5,5.8,Instagram,4.236075693,9,Physics,68,BA,83,99,94,93,95,93
+431,Cheryl,cheryl.snyder.431@gslingacademy.com,female,25,2.82,FALSE,FALSE,3.6,8.7,TikTok,2.081666286,1,Chemistry,68,Fail,79,89,76,86,61,81
+432,Nathan,nathan.armstrong.432@gslingacademy.com,male,19,2.98,FALSE,FALSE,3.8,5.5,Twitter,5.21,9,Physics,51,Fail,74,96,61,87,94,60
+433,Patrick,patrick.ryan.433@gslingacademy.com,male,21,3.21,FALSE,FALSE,3.8,7,Twitter,1.834051356,10,Chemistry,49,CC,86,55,51,54,94,61
+434,Christian,christian.wilkins.434@gslingacademy.com,male,24,2.15,FALSE,FALSE,9,7.8,Telegram,0.170022862,6,Chemistry,87,CC,71,87,68,66,67,99
+435,Clinton,clinton.martin.435@gslingacademy.com,male,22,2.73,TRUE,FALSE,4.3,9,TikTok,6.189539512,10,Computer Science,63,AA,89,83,91,94,93,69
+436,Adriana,adriana.sandoval.436@gslingacademy.com,female,19,2.92,FALSE,FALSE,3.9,5.8,Instagram,4.254818928,2,Physics,53,CB,93,90,81,88,90,74
+437,Jeremy,jeremy.harvey.437@gslingacademy.com,male,25,3.51,FALSE,FALSE,1.6,9.5,Twitter,4.239852378,6,Mathematics,40,BB,67,87,97,62,60,79
+438,Caitlin,caitlin.murillo.438@gslingacademy.com,female,25,2.75,FALSE,FALSE,7,8.5,Facebook,1.921519138,3,Biology,75,CB,88,86,75,60,50,79
+439,Andrew,andrew.green.439@gslingacademy.com,male,19,3.26,FALSE,FALSE,6.6,8.8,Facebook,2.88080065,7,Chemistry,65,AA,100,60,99,98,75,94
+440,Rodney,rodney.bennett.440@gslingacademy.com,male,22,3.74,FALSE,FALSE,7.3,8.2,Telegram,2.006574352,7,Chemistry,59,AA,91,63,65,69,94,98
+441,Megan,megan.moyer.441@gslingacademy.com,female,24,3.26,TRUE,FALSE,2.4,7.6,Twitter,0.172020399,9,Biology,47,AA,68,95,64,97,99,60
+442,Mathew,mathew.burns.442@gslingacademy.com,male,19,2.37,FALSE,FALSE,3.9,9.2,Twitter,4.802936758,4,Physics,68,AA,74,74,75,99,99,85
+443,Tammie,tammie.stanley.443@gslingacademy.com,female,24,2.67,FALSE,FALSE,3.6,7.9,Twitter,4.589073177,6,Mathematics,83,AA,65,70,67,93,81,63
+444,James,james.glover.444@gslingacademy.com,male,19,2.02,FALSE,FALSE,3.9,5.6,Telegram,3.795251824,10,Mathematics,66,BA,98,87,76,65,94,67
+445,Michelle,michelle.reeves.445@gslingacademy.com,female,22,2.7,FALSE,FALSE,3.8,7.4,Telegram,3.054202638,3,Chemistry,67,CC,90,69,78,39,95,82
+446,Rhonda,rhonda.hall.446@gslingacademy.com,female,18,3.5,TRUE,FALSE,3.4,8.8,Telegram,1.227971284,9,Computer Science,52,BA,95,90,59,91,77,99
+447,Matthew,matthew.kidd.447@gslingacademy.com,male,18,3.6,FALSE,FALSE,3.2,9.6,Instagram,3.666401137,8,Chemistry,40,CC,52,64,56,63,82,83
+448,Joseph,joseph.stone.448@gslingacademy.com,male,18,3.47,FALSE,FALSE,3.6,7.4,Telegram,1.053161118,8,Biology,68,Fail,77,61,73,79,65,89
+449,Jessica,jessica.mendoza.449@gslingacademy.com,female,20,3.05,FALSE,FALSE,3.8,9.8,Twitter,1.327199081,2,Computer Science,67,BA,73,96,89,93,87,96
+450,Susan,susan.brown.450@gslingacademy.com,female,25,3.06,FALSE,FALSE,2.9,6.3,Twitter,1.06802088,1,Physics,45,Fail,81,82,90,76,97,86
+451,Lori,lori.ryan.451@gslingacademy.com,female,25,3.94,FALSE,FALSE,4.2,7.1,Instagram,1.69268737,8,Chemistry,57,Fail,63,87,83,64,85,72
+452,Ryan,ryan.cruz.452@gslingacademy.com,male,19,2.13,FALSE,FALSE,5.5,9.8,Facebook,1.497903981,4,Mathematics,54,AA,68,67,93,98,75,88
+453,Nicholas,nicholas.johnson.453@gslingacademy.com,male,22,3.64,FALSE,FALSE,4.6,8.5,Twitter,4.458406825,4,Chemistry,60,BA,87,98,85,96,77,96
+454,Joseph,joseph.schmidt.454@gslingacademy.com,male,23,3.56,FALSE,FALSE,5.1,9.6,Facebook,0.973930047,8,Physics,48,BA,90,94,75,92,86,87
+455,Daniel,daniel.brown.455@gslingacademy.com,male,22,3.16,FALSE,FALSE,4.1,9.3,Telegram,2.973961749,2,Chemistry,57,AA,84,78,96,92,99,97
+456,Harold,harold.vazquez.456@gslingacademy.com,male,20,3.56,FALSE,FALSE,4.1,6.6,Facebook,4.214967949,7,Chemistry,51,BA,80,76,72,100,69,71
+457,Lance,lance.parsons.457@gslingacademy.com,male,25,2.81,FALSE,TRUE,7.9,8.4,Twitter,4.132,9,Physics,58,BA,82,88,89,72,60,69
+458,Jill,jill.mathews.458@gslingacademy.com,female,19,2.94,FALSE,TRUE,3.6,8.8,Instagram,3.765859306,2,Chemistry,64,BB,76,87,67,68,89,77
+459,Crystal,crystal.nguyen.459@gslingacademy.com,female,23,3.8,FALSE,FALSE,4.1,6.4,TikTok,0,8,Computer Science,69,AA,79,73,81,82,69,100
+460,Susan,susan.perez.460@gslingacademy.com,female,19,2.62,FALSE,FALSE,3.9,6.6,Facebook,2.540477119,1,Mathematics,55,AA,68,72,81,95,90,99
+461,Brenda,brenda.powers.461@gslingacademy.com,female,21,2.1,FALSE,TRUE,2.9,8.3,Facebook,4.428412335,4,Biology,53,BB,70,76,89,88,87,62
+462,Samuel,samuel.thompson.462@gslingacademy.com,male,25,2.39,FALSE,FALSE,6.9,6.5,TikTok,1.033048295,4,Biology,69,AA,86,97,77,83,79,62
+463,Taylor,taylor.nelson.463@gslingacademy.com,female,23,3.29,FALSE,TRUE,3.5,7.9,Facebook,5.657469212,3,Mathematics,65,BA,63,81,79,96,96,89
+464,Kimberly,kimberly.west.464@gslingacademy.com,female,23,3.51,FALSE,FALSE,8.9,7.2,Facebook,5.613188141,4,Physics,83,BB,94,71,92,92,60,78
+465,Brad,brad.lee.465@gslingacademy.com,male,22,2.79,TRUE,FALSE,2.8,6.8,Facebook,4.005965379,7,Chemistry,43,AA,88,90,73,50,93,71
+466,Clayton,clayton.green.466@gslingacademy.com,male,24,2.47,FALSE,FALSE,3.7,8.6,Telegram,4.910192151,1,Computer Science,72,AA,90,88,67,77,83,64
+467,Richard,richard.anderson.467@gslingacademy.com,male,18,3.88,FALSE,FALSE,3.5,9.4,Telegram,5.418719458,5,Computer Science,72,BB,86,95,80,64,66,97
+468,Antonio,antonio.flores.468@gslingacademy.com,male,24,2.75,FALSE,FALSE,3.3,8.8,Facebook,3.125832223,8,Computer Science,53,CC,80,84,97,87,97,91
+469,Margaret,margaret.mullins.469@gslingacademy.com,female,19,2.18,FALSE,FALSE,3.1,8.7,TikTok,4.757433654,7,Computer Science,40,CC,81,82,85,72,90,71
+470,Michael,michael.ball.470@gslingacademy.com,male,19,3.18,FALSE,FALSE,3.7,8.9,Facebook,0.694098811,4,Mathematics,66,BB,96,85,83,74,87,74
+471,Allen,allen.booth.471@gslingacademy.com,male,19,2.33,TRUE,TRUE,3.6,5.7,Facebook,4.450974044,6,Chemistry,73,AA,94,71,60,63,93,67
+472,Stephanie,stephanie.clark.472@gslingacademy.com,female,20,3.46,FALSE,FALSE,3.8,8.6,TikTok,3.789588808,3,Chemistry,57,BA,99,93,98,96,79,88
+473,Sharon,sharon.nelson.473@gslingacademy.com,female,22,3.92,FALSE,FALSE,4.6,9.2,Twitter,7.985673403,1,Physics,60,BA,92,68,73,66,69,87
+474,Marco,marco.clark.474@gslingacademy.com,male,20,3.92,FALSE,FALSE,3.8,6.3,Telegram,2.321,9,Physics,69,AA,90,98,82,86,86,89
+475,Victor,victor.smith.475@gslingacademy.com,male,19,2.87,TRUE,TRUE,2.6,8,TikTok,5.551311144,2,Mathematics,49,BA,64,78,94,79,92,63
+476,Christina,christina.patterson.476@gslingacademy.com,female,20,3.68,FALSE,FALSE,3.5,9.3,Instagram,4.900779117,5,Chemistry,45,AA,69,90,100,90,91,90
+477,Jerry,jerry.knight.477@gslingacademy.com,male,18,2.53,FALSE,TRUE,3.5,9.3,Facebook,2.785056794,7,Computer Science,62,BA,93,60,79,72,76,85
+478,Madison,madison.jacobs.478@gslingacademy.com,female,23,3.23,FALSE,FALSE,5.7,7.8,Facebook,2.124,10,Computer Science,47,AA,100,87,84,63,62,95
+479,Douglas,douglas.watson.479@gslingacademy.com,male,25,2.6,FALSE,FALSE,3.2,9.3,Instagram,2.201092104,10,Biology,43,AA,60,84,85,91,83,84
+480,Manuel,manuel.barrett.480@gslingacademy.com,male,25,3.84,FALSE,TRUE,3.8,8.5,Twitter,2.776416751,9,Computer Science,74,AA,71,98,100,71,92,63
+481,Janet,janet.martin.481@gslingacademy.com,female,22,3.35,TRUE,FALSE,2.9,9.3,TikTok,4.908976686,1,Chemistry,40,AA,81,54,87,67,74,85
+482,Teresa,teresa.flores.482@gslingacademy.com,female,19,2.83,FALSE,TRUE,4.2,8.8,Twitter,3.557816398,4,Computer Science,62,CB,71,77,62,94,69,72
+483,Anthony,anthony.mullins.483@gslingacademy.com,male,20,2.74,FALSE,TRUE,3.8,8.4,Instagram,3.068121242,2,Biology,72,AA,67,88,72,83,87,62
+484,Julie,julie.zamora.484@gslingacademy.com,female,18,3.5,FALSE,TRUE,1.9,8.9,Facebook,4.647831495,7,Mathematics,45,BB,93,82,98,98,60,65
+485,Maria,maria.nguyen.485@gslingacademy.com,female,23,3.67,FALSE,TRUE,5.4,7.9,Facebook,5.321,3,Mathematics,66,CC,80,83,91,88,61,61
+486,Selena,selena.castro.486@gslingacademy.com,female,22,3.28,TRUE,FALSE,3.5,5.5,Instagram,4.938455978,9,Physics,55,BB,65,96,61,78,77,95
+487,Whitney,whitney.miller.487@gslingacademy.com,female,24,3.97,FALSE,FALSE,3.6,9.6,Instagram,1.29788276,2,Computer Science,52,AA,94,89,91,95,70,75
+488,Brenda,brenda.mooney.488@gslingacademy.com,female,24,3.07,FALSE,FALSE,6.4,8.3,Instagram,4.941416336,10,Biology,61,BA,97,60,53,93,78,81
+489,Angela,angela.allen.489@gslingacademy.com,female,19,2.14,TRUE,FALSE,0.8,9.4,Twitter,5.604004801,6,Computer Science,56,AA,64,93,74,94,74,76
+490,Erica,erica.cohen.490@gslingacademy.com,female,25,3.52,FALSE,FALSE,3.4,9,Facebook,8.343672153,1,Physics,49,CB,50,67,78,73,90,91
+491,Kelly,kelly.sanders.491@gslingacademy.com,female,18,3.16,FALSE,TRUE,4,9.2,Telegram,3.992446985,2,Physics,55,AA,76,61,75,62,79,94
+492,Michael,michael.clark.492@gslingacademy.com,male,21,2.84,FALSE,FALSE,5.5,8.9,TikTok,5.18100562,9,Mathematics,47,CC,83,63,83,69,94,80
+493,Tammy,tammy.fields.493@gslingacademy.com,female,18,3.86,FALSE,TRUE,3.7,8.2,Facebook,3.919391574,6,Biology,43,BB,97,96,64,76,77,61
+494,Steven,steven.pennington.494@gslingacademy.com,male,25,2.3,FALSE,FALSE,3.7,6.9,Telegram,4.26534015,3,Chemistry,73,BB,99,98,86,100,86,87
+495,Matthew,matthew.chavez.495@gslingacademy.com,male,23,2.7,FALSE,FALSE,3.9,9.7,Instagram,5.183425747,7,Physics,50,CC,65,98,68,99,94,79
+496,Stephen,stephen.gallagher.496@gslingacademy.com,male,20,3.77,FALSE,FALSE,7.7,6.6,TikTok,0,9,Mathematics,57,CB,62,82,76,64,91,79
+497,Victoria,victoria.anderson.497@gslingacademy.com,female,25,3.39,FALSE,FALSE,5.7,9.2,Facebook,3.588492329,4,Chemistry,73,BB,84,81,80,80,84,70
+498,Thomas,thomas.schroeder.498@gslingacademy.com,male,22,3.2,FALSE,FALSE,4,9.3,TikTok,3.652249214,3,Chemistry,44,CC,72,93,97,69,78,87
+499,Mark,mark.sanchez.499@gslingacademy.com,male,21,3.95,FALSE,FALSE,3.2,6.9,Twitter,1.788185601,3,Biology,55,BA,84,70,68,71,85,70
+500,Katelyn,katelyn.moses.500@gslingacademy.com,female,21,2.11,FALSE,FALSE,3.9,8.9,TikTok,4.132,2,Physics,49,CC,78,96,90,94,76,88
+501,Corey,corey.davis.501@gslingacademy.com,male,20,2.76,FALSE,FALSE,3.4,9.2,Facebook,2.072584424,6,Biology,44,BB,72,99,100,94,77,84
+502,Susan,susan.klein.502@gslingacademy.com,female,23,3,TRUE,TRUE,3.5,9.4,Instagram,3.123,7,Mathematics,41,CC,81,99,67,87,76,60
+503,John,john.martinez.503@gslingacademy.com,male,25,2.85,FALSE,FALSE,8,7.9,Instagram,2.576179159,2,Chemistry,76,BB,78,79,95,86,89,100
+504,Kendra,kendra.robertson.504@gslingacademy.com,female,22,3.97,FALSE,FALSE,5.6,6.2,TikTok,3.568090875,9,Physics,46,BA,77,99,61,72,92,70
+505,Tamara,tamara.olson.505@gslingacademy.com,female,24,3.52,FALSE,FALSE,4,9.4,Facebook,1.137736381,10,Computer Science,62,CC,85,80,93,68,75,90
+506,Sara,sara.frazier.506@gslingacademy.com,female,23,3.37,FALSE,FALSE,4.3,9,Instagram,3.305583057,1,Physics,48,AA,94,94,83,91,65,96
+507,Morgan,morgan.moore.507@gslingacademy.com,female,20,3.41,FALSE,TRUE,3.5,8.8,TikTok,3.685117751,8,Computer Science,42,CC,89,95,93,92,99,88
+508,Eric,eric.snyder.508@gslingacademy.com,male,25,2.86,FALSE,TRUE,6.9,5.4,Facebook,0.477405844,10,Biology,58,CC,62,91,82,76,70,64
+509,Paul,paul.hale.509@gslingacademy.com,male,20,3.86,FALSE,FALSE,4.1,8.5,Instagram,0.262815365,4,Physics,67,DD,95,92,61,84,81,82
+510,Dale,dale.martinez.510@gslingacademy.com,male,21,2.99,FALSE,FALSE,3.9,9.7,Twitter,4.600620573,2,Computer Science,62,DC,89,94,74,60,77,77
+511,Sandra,sandra.prince.511@gslingacademy.com,female,19,3.23,FALSE,FALSE,5.1,8.9,Telegram,3.264989518,6,Computer Science,57,DC,67,94,74,84,95,65
+512,Dawn,dawn.poole.512@gslingacademy.com,female,20,2.51,FALSE,FALSE,4.5,9.1,TikTok,0.963205988,8,Biology,50,DC,70,75,96,63,82,80
+513,Emily,emily.jordan.513@gslingacademy.com,female,21,2.38,FALSE,FALSE,3.5,8.3,Facebook,2.171225376,5,Computer Science,43,DD,99,96,94,95,92,95
+514,John,john.owen.514@gslingacademy.com,male,24,3.25,FALSE,FALSE,3,6.7,Facebook,3.945596479,1,Chemistry,52,DD,72,85,69,63,99,68
+515,Andrew,andrew.best.515@gslingacademy.com,male,24,2.14,TRUE,FALSE,3.4,9.6,Instagram,1.160381421,6,Chemistry,42,CB,92,79,69,85,71,95
+516,Holly,holly.burns.516@gslingacademy.com,female,23,3.75,FALSE,FALSE,3.8,9,Twitter,6.088068756,2,Biology,47,DD,100,88,95,85,94,93
+517,Alicia,alicia.rodriguez.517@gslingacademy.com,female,18,2.2,FALSE,FALSE,5.1,8.3,TikTok,4.120919423,7,Physics,53,CB,78,87,72,91,88,93
+518,Erin,erin.ray.518@gslingacademy.com,female,25,2.77,FALSE,FALSE,1.5,9.7,Telegram,4.659399523,9,Biology,52,BB,84,61,98,63,66,80
+519,Todd,todd.griffith.519@gslingacademy.com,male,20,2.99,FALSE,FALSE,9.7,6.8,Instagram,3.34356508,5,Biology,81,CB,87,92,61,75,62,94
+520,Melinda,melinda.payne.520@gslingacademy.com,female,21,2.48,FALSE,FALSE,3.8,8.3,TikTok,4.218155506,9,Computer Science,41,BB,91,69,97,89,84,66
+521,Cynthia,cynthia.williams.521@gslingacademy.com,female,23,3.63,FALSE,FALSE,5.7,8,TikTok,7.231509705,5,Computer Science,69,DD,77,98,63,88,64,60
+522,Jenny,jenny.washington.522@gslingacademy.com,female,20,3.03,FALSE,FALSE,3,9.7,TikTok,2.119988383,2,Chemistry,44,DD,65,55,62,56,91,81
+523,Angela,angela.joyce.523@gslingacademy.com,female,23,3.65,FALSE,FALSE,4.2,5.9,Facebook,2.225167374,7,Physics,73,DD,100,100,98,83,75,72
+524,William,william.alvarado.524@gslingacademy.com,male,23,3.32,TRUE,FALSE,3.1,8,Twitter,7.211682783,7,Physics,59,CB,78,95,82,53,59,66
+525,Michael,michael.mercer.525@gslingacademy.com,male,18,3.37,FALSE,FALSE,2.7,9.1,Facebook,5.601007693,6,Biology,43,CC,90,87,70,96,75,93
+526,Erin,erin.miller.526@gslingacademy.com,female,22,2.41,TRUE,FALSE,2,9.2,Instagram,321.12,9,Computer Science,45,DC,77,96,95,63,57,90
+527,Robert,robert.heath.527@gslingacademy.com,male,25,3.8,FALSE,FALSE,6,9.3,Telegram,1.430970353,1,Computer Science,54,DC,68,91,79,98,71,89
+528,Deborah,deborah.rojas.528@gslingacademy.com,female,23,2.9,FALSE,TRUE,6.7,6.9,TikTok,2.169230155,0,Chemistry,75,DC,96,55,72,55,50,64
+529,Diana,diana.jones.529@gslingacademy.com,female,24,3.44,FALSE,FALSE,3.5,8.6,Instagram,7.067398737,5,Physics,62,DC,93,96,94,91,96,87
+530,Meredith,meredith.clark.530@gslingacademy.com,female,18,2.51,FALSE,TRUE,7,9.1,Twitter,3.180424153,1,Physics,61,DC,69,77,72,63,84,99
+531,Christina,christina.garrett.531@gslingacademy.com,female,20,2.02,FALSE,FALSE,3.2,6.3,Facebook,5.107831806,10,Physics,50,DD,90,76,95,94,99,94
+532,Daniel,daniel.jackson.532@gslingacademy.com,male,21,3.37,FALSE,FALSE,3.2,5.4,Twitter,3.481334012,2,Physics,40,CB,66,89,69,100,88,79
+533,Bradley,bradley.robinson.533@gslingacademy.com,male,21,3.72,TRUE,FALSE,3.9,5,Twitter,3.643753054,1,Physics,50,DC,70,92,81,85,55,76
+534,Phyllis,phyllis.schneider.534@gslingacademy.com,female,18,2.04,TRUE,FALSE,3.5,7.2,Instagram,4.188820268,4,Computer Science,55,CC,63,87,73,89,77,66
+535,Thomas,thomas.clark.535@gslingacademy.com,male,21,2.08,FALSE,TRUE,5.3,9.5,Instagram,3.180424153,8,Chemistry,54,DD,74,79,66,92,57,61
+536,Gregory,gregory.gonzalez.536@gslingacademy.com,male,22,2.5,FALSE,FALSE,1.4,6.4,Instagram,2.489209928,9,Computer Science,46,DC,98,70,64,65,78,83
+537,Michelle,michelle.roth.537@gslingacademy.com,female,24,2.9,FALSE,FALSE,3.1,6.4,Twitter,6.164068142,4,Physics,58,DD,85,69,91,77,88,75
+538,Christopher,christopher.murphy.538@gslingacademy.com,male,22,3.18,FALSE,FALSE,3,5.7,TikTok,2.56701627,4,Chemistry,62,DD,76,88,72,92,81,89
+539,Mark,mark.davis.539@gslingacademy.com,male,18,3.77,FALSE,FALSE,3.7,5.9,Instagram,4.051643486,3,Computer Science,58,DC,74,83,61,81,72,98
+540,Lauren,lauren.harrington.540@gslingacademy.com,female,24,2.02,FALSE,TRUE,4.8,8.5,Facebook,5.15322069,4,Mathematics,52,DD,90,96,92,68,97,73
+541,Michelle,michelle.owens.541@gslingacademy.com,female,21,3.26,TRUE,FALSE,5.8,10,Instagram,4.143277318,10,Mathematics,56,DD,53,52,64,89,76,70
+542,Scott,scott.weaver.542@gslingacademy.com,male,25,2.3,FALSE,FALSE,2.8,8.5,Facebook,4.523372354,8,Mathematics,51,DD,91,90,95,99,95,99
+543,Monica,monica.williams.543@gslingacademy.com,female,21,3.86,FALSE,FALSE,3.6,9.5,Instagram,0,1,Physics,53,BB,99,95,65,56,79,98
+544,Kathryn,kathryn.hampton.544@gslingacademy.com,female,23,3.98,FALSE,FALSE,7,8.6,Instagram,3.468978228,8,Chemistry,75,DD,63,92,84,79,66,96
+545,Christina,christina.shields.545@gslingacademy.com,female,25,3.07,TRUE,FALSE,3.9,9.5,Telegram,5.57504838,2,Chemistry,58,DD,98,87,90,92,88,100
+546,Andrew,andrew.thomas.546@gslingacademy.com,male,19,2.14,FALSE,FALSE,5.2,6,TikTok,7.513480011,8,Chemistry,55,DC,75,87,63,85,88,75
+547,Holly,holly.sexton.547@gslingacademy.com,female,22,3.85,FALSE,FALSE,5.9,8.8,Twitter,3.180424153,4,Biology,66,DC,54,58,97,58,51,80
+548,Christopher,christopher.peterson.548@gslingacademy.com,male,21,3.19,FALSE,TRUE,3.6,6.3,Facebook,3.519524198,6,Computer Science,59,DD,65,89,99,84,84,86
+549,Eric,eric.murray.549@gslingacademy.com,male,18,2.03,FALSE,FALSE,3.1,9.4,TikTok,4.177823298,1,Chemistry,46,BA,97,99,94,85,97,97
+550,Kristina,kristina.watson.550@gslingacademy.com,female,24,3.64,TRUE,FALSE,4.9,10,Telegram,4.457246049,6,Physics,53,BA,93,90,89,64,63,82
+551,Greg,greg.martin.551@gslingacademy.com,male,21,2.55,TRUE,FALSE,1.2,8.7,Telegram,0,7,Biology,60,BA,50,54,88,90,91,95
+552,Paul,paul.shaffer.552@gslingacademy.com,male,19,2.71,FALSE,FALSE,4,7.7,Instagram,0.692379615,1,Physics,40,AA,90,100,94,97,98,98
+553,Alexander,alexander.daniel.553@gslingacademy.com,male,22,2.51,TRUE,FALSE,3.6,8.6,Facebook,3.287594369,7,Computer Science,55,BA,84,92,98,98,83,87
+554,Carla,carla.davis.554@gslingacademy.com,female,18,3.99,FALSE,FALSE,3.9,9.7,TikTok,2.844807789,9,Mathematics,61,AA,63,71,73,66,90,91
+555,Chelsea,chelsea.clark.555@gslingacademy.com,female,19,3.47,FALSE,FALSE,2.8,9.9,Facebook,2.24999068,4,Physics,58,AA,95,92,90,67,81,66
+556,Justin,justin.douglas.556@gslingacademy.com,male,21,3.78,FALSE,FALSE,3.6,9.5,Facebook,3.776817541,5,Physics,72,AA,98,92,100,94,93,86
+557,Charles,charles.reid.557@gslingacademy.com,male,19,3.71,FALSE,TRUE,9.9,6.6,Twitter,4.007987018,4,Computer Science,57,AA,99,87,69,89,93,85
+558,Courtney,courtney.moreno.558@gslingacademy.com,female,18,2.59,FALSE,FALSE,6.3,8.4,Instagram,0,4,Chemistry,81,BA,94,62,65,77,77,95
+559,Justin,justin.mitchell.559@gslingacademy.com,male,20,2.62,FALSE,TRUE,1.4,9.9,Telegram,0.253044831,1,Chemistry,42,AA,79,67,60,69,80,98
+560,Bruce,bruce.woods.560@gslingacademy.com,male,19,3,FALSE,TRUE,6.4,6.5,Twitter,2.170445314,0,Computer Science,51,Fail,68,61,75,64,76,66
+561,Christopher,christopher.hines.561@gslingacademy.com,male,20,2.78,FALSE,FALSE,2.5,7.7,Telegram,4.125957865,6,Physics,42,BA,94,64,84,66,61,72
+562,Theodore,theodore.williams.562@gslingacademy.com,male,20,2.45,FALSE,FALSE,8.1,8.2,TikTok,2.588997192,2,Biology,92,AA,73,89,75,99,89,71
+563,Jennifer,jennifer.valdez.563@gslingacademy.com,female,20,2.58,TRUE,FALSE,3.9,8.4,Twitter,1.917767834,1,Computer Science,72,BB,92,81,73,71,71,84
+564,Alexandra,alexandra.day.564@gslingacademy.com,female,24,2.98,FALSE,FALSE,9.5,6,Telegram,5.858850759,3,Chemistry,74,BA,75,83,73,92,91,71
+565,John,john.pacheco.565@gslingacademy.com,male,21,3.14,FALSE,FALSE,5.4,7.2,Facebook,4.33390553,10,Physics,68,BB,91,75,64,67,93,65
+566,Sherry,sherry.brown.566@gslingacademy.com,female,23,3.59,FALSE,TRUE,2.3,7.2,Facebook,3.180424153,1,Computer Science,62,AA,88,82,100,73,96,75
+567,Douglas,douglas.clark.567@gslingacademy.com,male,22,2.22,FALSE,FALSE,5.1,8.9,Instagram,6.612663135,4,Chemistry,56,Fail,88,97,77,96,96,74
+568,Alex,alex.farmer.568@gslingacademy.com,male,22,3.12,TRUE,TRUE,3.7,6.6,Telegram,3.202255881,1,Physics,51,BB,82,96,64,82,94,81
+569,Brandon,brandon.gonzales.569@gslingacademy.com,male,19,3.44,FALSE,TRUE,3.2,9.7,Twitter,4.910629015,5,Computer Science,44,AA,77,65,72,94,88,77
+570,Wayne,wayne.trevino.570@gslingacademy.com,male,24,2.54,FALSE,TRUE,6.6,5.2,TikTok,1.076038289,9,Chemistry,53,CB,92,100,82,85,70,69
+571,Pamela,pamela.horne.571@gslingacademy.com,female,25,2.1,FALSE,TRUE,3.8,8,Facebook,0.204468656,10,Biology,65,BB,90,88,100,71,98,96
+572,Michael,michael.schaefer.572@gslingacademy.com,male,23,3.98,TRUE,TRUE,6.2,7.5,Twitter,1.388152429,5,Biology,56,BB,68,78,51,77,72,78
+573,Carlos,carlos.ramirez.573@gslingacademy.com,male,25,3.71,FALSE,FALSE,7.9,5.7,Instagram,4.072406291,4,Computer Science,79,AA,72,92,88,92,77,84
+574,Antonio,antonio.lucero.574@gslingacademy.com,male,19,2.98,FALSE,TRUE,5.3,6.2,Instagram,2.74442347,4,Biology,56,BA,70,76,73,81,85,80
+575,Terry,terry.ashley.575@gslingacademy.com,male,25,2.01,TRUE,FALSE,3,9.1,TikTok,2.658163892,10,Physics,52,Fail,51,54,72,75,60,88
+576,Rita,rita.cochran.576@gslingacademy.com,female,25,2.09,FALSE,FALSE,3.2,9,Facebook,3.47054918,10,Physics,46,BA,78,91,97,86,93,77
+577,Joseph,joseph.gregory.577@gslingacademy.com,male,25,3.11,FALSE,FALSE,3.8,10,Telegram,3.304627749,8,Physics,69,Fail,76,98,68,86,91,82
+578,Alexandra,alexandra.robinson.578@gslingacademy.com,female,22,2,FALSE,FALSE,2.6,9.9,Telegram,5.458430331,2,Computer Science,52,Fail,92,87,96,92,90,88
+579,Tina,tina.sparks.579@gslingacademy.com,female,19,3.9,FALSE,TRUE,3.8,6.1,Facebook,3.180424153,8,Computer Science,53,CC,69,70,61,100,65,81
+580,Christopher,christopher.buchanan.580@gslingacademy.com,male,22,2.63,TRUE,FALSE,3.7,6,TikTok,0.15503691,3,Mathematics,55,CC,89,59,68,79,83,68
+581,Christina,christina.guerrero.581@gslingacademy.com,female,24,2.61,FALSE,TRUE,4.7,9.5,TikTok,6.271657999,3,Biology,72,AA,83,75,99,100,91,74
+582,Jessica,jessica.hutchinson.582@gslingacademy.com,female,18,2.04,FALSE,FALSE,3.5,9.7,Instagram,2.0652201,8,Physics,63,CB,85,91,69,76,92,94
+583,Tyler,tyler.carrillo.583@gslingacademy.com,male,22,3.27,FALSE,FALSE,6.9,5.5,Telegram,5.408926923,7,Mathematics,62,BB,74,88,92,72,97,64
+584,Lindsay,lindsay.brady.584@gslingacademy.com,female,21,3.27,FALSE,FALSE,3.3,9.8,Instagram,3.806225888,3,Chemistry,50,BB,74,70,65,99,74,62
+585,Gary,gary.rivera.585@gslingacademy.com,male,24,3.41,FALSE,FALSE,4.4,9.5,Telegram,5.938628736,9,Mathematics,66,AA,85,89,74,78,87,82
+586,Luke,luke.moore.586@gslingacademy.com,male,24,2.08,FALSE,FALSE,7.5,8.3,Twitter,1.755075485,4,Computer Science,71,AA,78,63,78,80,67,97
+587,Tanya,tanya.green.587@gslingacademy.com,female,24,3.96,FALSE,FALSE,4.3,9.9,Twitter,4.742281229,9,Physics,46,AA,91,65,65,61,88,95
+588,Bryan,bryan.lee.588@gslingacademy.com,male,23,3.42,FALSE,FALSE,7.6,5.8,TikTok,0,5,Physics,64,AA,91,89,90,90,91,99
+589,Melanie,melanie.bridges.589@gslingacademy.com,female,24,2.51,FALSE,FALSE,3.9,8.2,Telegram,1.662388261,4,Mathematics,61,AA,85,90,90,96,89,96
+590,Eric,eric.bowers.590@gslingacademy.com,male,21,2.14,TRUE,FALSE,3.6,9.8,TikTok,6.36193642,4,Chemistry,45,BA,90,85,95,100,96,88
+591,Meredith,meredith.reed.591@gslingacademy.com,female,21,2.34,TRUE,FALSE,3.8,8.3,Instagram,1.507857749,6,Biology,77,CC,64,80,97,85,94,60
+592,David,david.brown.592@gslingacademy.com,male,22,2.92,TRUE,FALSE,3.9,7,Instagram,1.41819374,0,Mathematics,65,BA,84,62,95,71,85,87
+593,William,william.johns.593@gslingacademy.com,male,21,2.24,TRUE,FALSE,3,8.9,Instagram,0.764528233,3,Physics,54,CC,73,70,85,67,91,98
+594,Eric,eric.patton.594@gslingacademy.com,male,23,2.06,TRUE,FALSE,6.1,8.1,Instagram,0,10,Computer Science,69,Fail,99,95,61,62,77,99
+595,Wendy,wendy.warner.595@gslingacademy.com,female,25,2.17,FALSE,FALSE,4.2,8.2,Twitter,3.316876871,10,Biology,60,BA,93,93,94,81,81,78
+596,Timothy,timothy.powell.596@gslingacademy.com,male,18,2.57,FALSE,TRUE,3.6,6.2,TikTok,2.673961782,6,Chemistry,47,Fail,100,97,94,65,62,76
+597,Victoria,victoria.thompson.597@gslingacademy.com,female,23,2.71,TRUE,TRUE,3.2,9.5,Telegram,3.777299537,1,Physics,56,Fail,91,63,67,74,71,88
+598,Jeremy,jeremy.brown.598@gslingacademy.com,male,22,2.22,FALSE,TRUE,3.2,8.2,Telegram,0,4,Chemistry,45,AA,95,84,66,99,91,70
+599,Barbara,barbara.schneider.599@gslingacademy.com,female,19,3.23,FALSE,TRUE,8.8,5.4,TikTok,2.921834679,6,Mathematics,98,BA,83,73,93,46,91,70
+600,Lindsay,lindsay.morales.600@gslingacademy.com,female,21,3.9,FALSE,FALSE,3.3,9.7,TikTok,0.149776886,1,Computer Science,50,BA,97,91,84,89,82,75
+601,Gary,gary.patel.601@gslingacademy.com,male,19,3.15,FALSE,FALSE,6.1,8.1,TikTok,2.119723494,6,Mathematics,42,AA,98,88,89,75,91,92
+602,Michelle,michelle.ortiz.602@gslingacademy.com,female,20,2.8,FALSE,FALSE,5,8.9,TikTok,2.524310224,4,Physics,57,BA,77,62,62,80,88,83
+603,Susan,susan.lynch.603@gslingacademy.com,female,23,3.16,FALSE,FALSE,6.1,6.4,Instagram,2.937152273,3,Mathematics,83,BA,93,91,92,97,95,99
+604,Tammy,tammy.hernandez.604@gslingacademy.com,female,19,3.75,FALSE,FALSE,3.6,8.8,Facebook,3.180424153,6,Chemistry,64,BB,85,91,67,98,61,64
+605,Jennifer,jennifer.guerra.605@gslingacademy.com,female,23,2.95,FALSE,FALSE,3.8,8.4,Telegram,0.476176565,2,Physics,64,AA,67,85,60,100,63,64
+606,Kelly,kelly.schwartz.606@gslingacademy.com,female,22,3.55,FALSE,TRUE,3.4,7.8,Telegram,2.102860297,1,Physics,44,AA,74,89,79,86,93,95
+607,Brittany,brittany.orozco.607@gslingacademy.com,female,24,2.29,FALSE,TRUE,4,9.8,Telegram,7.570500483,8,Chemistry,64,BB,74,94,84,77,82,85
+608,Samantha,samantha.alvarado.608@gslingacademy.com,female,18,3.3,TRUE,FALSE,4,8.1,Telegram,2.843363372,4,Mathematics,58,AA,64,79,75,93,82,60
+609,Christopher,christopher.anderson.609@gslingacademy.com,male,23,2.44,FALSE,FALSE,4.7,8.6,Twitter,2.614266617,2,Chemistry,73,BA,73,61,70,87,75,100
+610,William,william.smith.610@gslingacademy.com,male,20,3.44,FALSE,FALSE,3.9,9.8,Twitter,3.180424153,4,Mathematics,60,BB,88,80,84,84,92,82
+611,Courtney,courtney.patterson.611@gslingacademy.com,female,20,3.27,FALSE,FALSE,5.3,5.9,TikTok,3.3347144,5,Computer Science,64,AA,90,82,69,66,93,94
+612,Kevin,kevin.hess.612@gslingacademy.com,male,25,3.09,FALSE,FALSE,3.6,9.5,TikTok,3.180424153,8,Physics,48,AA,76,84,88,84,89,87
+613,Melissa,melissa.higgins.613@gslingacademy.com,female,18,3.42,FALSE,FALSE,3.4,9.5,Twitter,3.180424153,7,Physics,45,BB,92,90,78,67,86,71
+614,Elizabeth,elizabeth.chavez.614@gslingacademy.com,female,20,2.33,FALSE,FALSE,3.2,6.6,Instagram,3.879685854,5,Chemistry,45,CC,61,99,67,95,98,89
+615,Mary,mary.taylor.615@gslingacademy.com,female,20,3.76,FALSE,FALSE,3.1,8.9,TikTok,3.868448562,7,Mathematics,46,CC,80,70,96,72,99,65
+616,Joshua,joshua.parker.616@gslingacademy.com,male,22,2.02,FALSE,FALSE,1.2,9.7,Instagram,0,7,Computer Science,45,BB,98,89,70,79,60,92
+617,Joshua,joshua.kelly.617@gslingacademy.com,male,20,3.35,FALSE,FALSE,4.2,9.7,Twitter,0.189643354,6,Computer Science,61,AA,52,51,98,50,90,63
+618,Travis,travis.ross.618@gslingacademy.com,male,23,3.21,FALSE,FALSE,5.4,8.4,Instagram,1.435851103,7,Physics,67,BA,89,85,93,90,91,88
+619,Kenneth,kenneth.buchanan.619@gslingacademy.com,male,24,3.92,FALSE,FALSE,3.8,8.2,Instagram,2,7,Computer Science,61,BA,90,85,94,91,84,85
+620,Ryan,ryan.clarke.620@gslingacademy.com,male,24,3.42,FALSE,TRUE,3.8,7.4,Instagram,0,2,Chemistry,50,AA,89,93,90,100,86,93
+621,Gina,gina.solomon.621@gslingacademy.com,female,22,3.43,FALSE,FALSE,3.8,9,TikTok,4.153052116,10,Computer Science,72,BA,89,55,67,55,64,70
+622,David,david.madden.622@gslingacademy.com,male,21,2.05,FALSE,FALSE,6.9,8.6,Instagram,5.458377883,7,Physics,45,AA,67,75,85,64,95,96
+623,William,william.brennan.623@gslingacademy.com,male,23,2.33,FALSE,FALSE,2.2,9.1,TikTok,6.046184311,3,Computer Science,50,BA,81,95,67,66,71,66
+624,Judy,judy.mckenzie.624@gslingacademy.com,female,18,3.68,TRUE,FALSE,3.9,9.9,Facebook,3.288905558,5,Physics,66,AA,98,88,66,62,95,90
+625,Logan,logan.lindsey.625@gslingacademy.com,male,23,3.84,FALSE,FALSE,3.7,9.4,Instagram,3.913670758,2,Mathematics,66,AA,68,78,72,77,89,70
+626,Kyle,kyle.williams.626@gslingacademy.com,male,25,3.82,FALSE,FALSE,3,7.1,Facebook,3.033631469,7,Chemistry,42,AA,62,92,95,65,89,95
+627,Mark,mark.padilla.627@gslingacademy.com,male,21,2.99,FALSE,FALSE,3.7,6,Instagram,0,3,Computer Science,64,AA,86,78,87,64,65,64
+628,Eugene,eugene.clark.628@gslingacademy.com,male,22,2.49,FALSE,TRUE,4.6,9.1,Facebook,3.577926222,5,Biology,55,CB,60,80,62,43,68,67
+629,Sean,sean.wagner.629@gslingacademy.com,male,22,3.16,FALSE,TRUE,5.6,6.4,Twitter,1.907820932,10,Mathematics,78,AA,79,89,95,71,61,62
+630,Christine,christine.larson.630@gslingacademy.com,female,19,3.56,TRUE,FALSE,1.5,7.9,Facebook,0,9,Physics,44,BB,98,66,83,92,82,91
+631,Melinda,melinda.freeman.631@gslingacademy.com,female,24,3.58,FALSE,TRUE,9.6,6.2,Facebook,1.441816704,2,Physics,83,CC,84,80,70,65,89,64
+632,Elizabeth,elizabeth.smith.632@gslingacademy.com,female,25,2.82,FALSE,TRUE,3.3,9.7,Telegram,3.180424153,,Chemistry,60,BB,99,89,100,73,86,88
+633,Walter,walter.king.633@gslingacademy.com,male,19,2.98,FALSE,FALSE,3,9.9,Facebook,4.831341118,2,Physics,49,AA,72,89,68,85,80,75
+634,Lisa,lisa.bean.634@gslingacademy.com,female,21,3.21,FALSE,FALSE,7.5,5.9,Facebook,2.683501291,8,Chemistry,69,BA,99,72,84,60,95,93
+635,Douglas,douglas.hayes.635@gslingacademy.com,male,24,2.15,FALSE,TRUE,2.8,8.7,TikTok,2.4,2,Chemistry,50,AA,74,75,67,76,82,79
+636,Heather,heather.jefferson.636@gslingacademy.com,female,22,2.73,FALSE,FALSE,7.1,5.9,Instagram,0.35511033,9,Computer Science,56,CB,98,62,70,67,71,70
+637,Melinda,melinda.byrd.637@gslingacademy.com,female,19,2.92,TRUE,FALSE,3.6,8.7,Telegram,2.536915652,5,Physics,72,AA,95,60,99,87,58,66
+638,Alexander,alexander.burnett.638@gslingacademy.com,male,25,3.51,FALSE,FALSE,4.8,8.1,TikTok,3.285707119,8,Mathematics,59,CC,64,99,88,72,87,99
+639,Maria,maria.campos.639@gslingacademy.com,female,25,2.75,TRUE,FALSE,3.8,9.8,Telegram,4.102989251,2,Biology,71,BB,84,84,61,88,67,92
+640,Lindsey,lindsey.anthony.640@gslingacademy.com,female,19,3.26,FALSE,TRUE,7.7,5.1,Instagram,4.627706768,8,Chemistry,55,BB,89,77,77,84,71,71
+641,Darryl,darryl.schultz.641@gslingacademy.com,male,22,3.74,FALSE,FALSE,8.3,5.9,Facebook,0.133900039,4,Chemistry,79,CC,84,100,93,70,56,74
+642,Bethany,bethany.french.642@gslingacademy.com,female,24,3.26,FALSE,TRUE,2.4,7.8,Instagram,3.490941794,2,Biology,45,CB,88,77,60,93,61,96
+643,Tyler,tyler.scott.643@gslingacademy.com,male,19,2.37,FALSE,TRUE,4.2,9.2,Facebook,2.653258138,5,Physics,65,BB,86,62,80,47,85,71
+644,Patricia,patricia.hall.644@gslingacademy.com,female,24,2.67,FALSE,FALSE,3.9,8,Telegram,7.2315,4,Mathematics,69,CC,85,90,89,85,80,68
+645,Ryan,ryan.williams.645@gslingacademy.com,male,19,2.02,FALSE,FALSE,3.8,6.8,Facebook,8,6,Mathematics,62,BA,92,74,50,77,98,100
+646,Levi,levi.mason.646@gslingacademy.com,male,22,2.7,FALSE,FALSE,7.6,8.5,Instagram,3.180424153,5,Chemistry,57,CC,72,64,61,75,68,83
+647,Michael,michael.vang.647@gslingacademy.com,male,18,3.5,FALSE,FALSE,3.6,8.3,Facebook,2.400957826,6,Computer Science,60,BB,75,79,80,97,94,68
+648,April,april.humphrey.648@gslingacademy.com,female,18,3.6,FALSE,FALSE,3.6,8.6,Instagram,3.202021373,5,Chemistry,62,CC,94,89,95,60,90,90
+649,Steven,steven.hancock.649@gslingacademy.com,male,18,3.47,TRUE,FALSE,7,8.2,Instagram,0.996206305,1,Biology,59,BB,92,76,86,93,61,97
+650,Chelsea,chelsea.olson.650@gslingacademy.com,female,20,3.05,FALSE,FALSE,1.5,7.3,TikTok,0.782269875,8,Computer Science,40,BA,77,95,84,60,90,89
+651,Emily,emily.huang.651@gslingacademy.com,female,25,3.06,FALSE,FALSE,5.9,8.1,Instagram,,2,Physics,45,CC,68,85,62,64,99,66
+652,Rachel,rachel.jones.652@gslingacademy.com,female,25,3.94,FALSE,FALSE,3.7,9.8,TikTok,0,5,Chemistry,67,AA,94,77,87,44,85,61
+653,Philip,philip.walker.653@gslingacademy.com,male,19,2.13,FALSE,FALSE,3.2,8.8,Twitter,1.651451545,8,Mathematics,42,CC,90,86,80,72,99,85
+654,Laura,laura.rivera.654@gslingacademy.com,female,22,3.64,FALSE,TRUE,3.7,6.5,TikTok,6.522262844,5,Chemistry,70,CC,66,85,83,70,71,80
+655,Pamela,pamela.henry.655@gslingacademy.com,female,23,3.56,FALSE,FALSE,6.1,8.7,Facebook,1.398316805,10,Physics,60,DD,94,95,90,86,85,95
+656,Nicole,nicole.davidson.656@gslingacademy.com,female,22,3.16,FALSE,TRUE,4,7.6,Twitter,2.316037998,5,Chemistry,43,DC,63,88,87,71,93,84
+657,Jeffery,jeffery.parker.657@gslingacademy.com,male,20,3.56,FALSE,TRUE,6.3,9.6,TikTok,0.160452048,9,Chemistry,67,DC,93,84,96,97,70,95
+658,Christopher,christopher.banks.658@gslingacademy.com,male,25,2.81,TRUE,TRUE,7.3,8,TikTok,2.551846544,6,Physics,60,DC,62,70,99,63,83,60
+659,Tara,tara.griffin.659@gslingacademy.com,female,19,2.94,TRUE,TRUE,3.7,7.9,Telegram,0.819121901,2,Chemistry,65,DD,79,99,78,64,87,76
+660,Lisa,lisa.lloyd.660@gslingacademy.com,female,23,3.8,TRUE,FALSE,3.3,5.8,TikTok,2.308245117,8,Computer Science,41,DD,74,89,75,73,78,61
+661,Elizabeth,elizabeth.maldonado.661@gslingacademy.com,female,19,2.62,FALSE,TRUE,5.3,6,Twitter,2.294110444,3,Mathematics,54,CB,79,86,93,68,92,99
+662,Samuel,samuel.anderson.662@gslingacademy.com,male,21,2.1,TRUE,FALSE,4.2,9.3,Facebook,2.759044449,2,Biology,53,DD,94,95,70,83,86,94
+663,Xavier,xavier.johnson.663@gslingacademy.com,male,25,2.39,FALSE,TRUE,9.3,5.3,TikTok,5.213233169,3,Biology,72,CB,84,75,68,95,80,88
+664,Lauren,lauren.cordova.664@gslingacademy.com,female,23,3.29,TRUE,FALSE,7.3,8.8,Facebook,6.566354962,5,Mathematics,67,BB,100,93,96,97,81,72
+665,Amanda,amanda.hawkins.665@gslingacademy.com,female,23,3.51,TRUE,FALSE,3.8,8.9,Instagram,6.546479726,4,Physics,53,CB,93,88,88,96,85,94
+666,Donald,donald.coleman.666@gslingacademy.com,male,22,2.79,FALSE,TRUE,5.2,5,TikTok,3.215764904,9,Chemistry,51,BB,84,82,69,63,85,69
+667,Phillip,phillip.bennett.667@gslingacademy.com,male,24,2.47,FALSE,FALSE,7.3,6.7,Facebook,3.345493434,8,Computer Science,70,DD,86,87,84,66,83,81
+668,John,john.george.668@gslingacademy.com,male,18,3.88,FALSE,FALSE,7.4,9.4,Instagram,3.187463318,7,Computer Science,41,DD,64,95,95,66,67,74
+669,Katherine,katherine.moore.669@gslingacademy.com,female,24,2.75,TRUE,FALSE,4.1,8.4,Twitter,4.538232596,5,Computer Science,52,DD,88,100,79,71,86,89
+670,Jose,jose.dominguez.670@gslingacademy.com,male,19,2.18,FALSE,FALSE,3.5,9.2,Instagram,1.621466547,4,Computer Science,42,CB,98,70,82,100,72,78
+671,Lauren,lauren.morrow.671@gslingacademy.com,female,19,3.18,FALSE,FALSE,4.1,8.7,Instagram,7.52134,5,Mathematics,72,CC,95,79,68,75,70,88
+672,Katie,katie.davenport.672@gslingacademy.com,female,19,2.33,FALSE,FALSE,3.3,9.8,TikTok,0,2,Chemistry,48,DC,86,96,84,90,85,91
+673,Michelle,michelle.martinez.673@gslingacademy.com,female,20,3.46,TRUE,TRUE,3.9,6.5,TikTok,4.783174936,10,Chemistry,74,DC,53,86,63,50,87,77
+674,Jeremiah,jeremiah.stanley.674@gslingacademy.com,male,22,3.92,FALSE,FALSE,3.7,8.1,Facebook,3.447950509,10,Physics,65,DC,90,89,96,72,90,86
+675,Isaac,isaac.tucker.675@gslingacademy.com,male,20,3.92,FALSE,TRUE,7.5,9.4,Instagram,1.357075157,8,Physics,64,DC,95,93,88,72,76,71
+676,Hannah,hannah.garcia.676@gslingacademy.com,female,19,2.87,TRUE,FALSE,3.5,6.8,Instagram,6.210727985,5,Mathematics,56,DC,76,74,72,62,69,90
+677,Thomas,thomas.nelson.677@gslingacademy.com,male,20,3.68,FALSE,FALSE,5.4,9.1,Instagram,1.677202779,7,Chemistry,52,DD,74,77,61,81,96,96
+678,William,william.kennedy.678@gslingacademy.com,male,18,2.53,FALSE,FALSE,4.4,5.9,Telegram,6.01681681,10,Computer Science,66,CB,85,88,89,81,91,98
+679,Jennifer,jennifer.williams.679@gslingacademy.com,female,23,3.23,FALSE,FALSE,8.2,5.2,Facebook,1.256324464,7,Computer Science,90,DC,53,91,78,55,91,74
+680,Jeffrey,jeffrey.price.680@gslingacademy.com,male,25,2.6,FALSE,FALSE,3.7,6.9,TikTok,3.362809152,7,Biology,65,CC,96,65,73,84,92,73
+681,Zachary,zachary.burns.681@gslingacademy.com,male,25,3.84,FALSE,FALSE,7.2,9.7,Twitter,3.87969884,3,Computer Science,63,DD,83,88,84,78,72,79
+682,Curtis,curtis.duffy.682@gslingacademy.com,male,22,3.35,FALSE,FALSE,3.6,5.9,Instagram,1.937104948,10,Chemistry,60,DC,100,64,87,88,60,62
+683,Allison,allison.alvarado.683@gslingacademy.com,female,19,2.83,FALSE,FALSE,3,9.1,Twitter,0.418288603,9,Computer Science,42,DD,91,81,62,36,79,69
+684,Jeffery,jeffery.kelley.684@gslingacademy.com,male,20,2.74,FALSE,FALSE,3.8,9.7,Twitter,3.062871564,5,Biology,74,DD,65,68,64,95,82,87
+685,Kenneth,kenneth.clark.685@gslingacademy.com,male,18,3.5,FALSE,TRUE,3.7,8.9,TikTok,1.446974627,10,Mathematics,65,DC,72,97,90,95,99,76
+686,Hayley,hayley.case.686@gslingacademy.com,female,23,3.67,FALSE,FALSE,5.9,9.3,Facebook,0,2,Mathematics,62,DD,66,68,83,92,81,80
+687,Vanessa,vanessa.martinez.687@gslingacademy.com,female,22,3.28,FALSE,FALSE,1.4,7.1,Telegram,7.51234,10,Physics,47,DD,100,87,90,86,86,90
+688,Tara,tara.thomas.688@gslingacademy.com,female,24,3.97,FALSE,FALSE,5.4,7.4,Facebook,3.373133945,10,Computer Science,63,DD,87,71,85,100,78,78
+689,Aaron,aaron.williamson.689@gslingacademy.com,male,24,3.07,FALSE,TRUE,3.4,5.7,Twitter,0,7,Biology,53,BB,76,69,64,90,78,80
+690,Phillip,phillip.nelson.690@gslingacademy.com,male,19,2.14,FALSE,FALSE,8.7,5.2,Facebook,2.414625873,2,Computer Science,81,DD,68,61,88,86,87,66
+691,Michael,michael.hinton.691@gslingacademy.com,male,25,3.52,FALSE,TRUE,8.1,6.2,Telegram,7.4351,8,Physics,46,DD,99,66,80,71,88,89
+692,Alex,alex.shelton.692@gslingacademy.com,male,18,3.16,FALSE,TRUE,3.6,8.7,Telegram,7.1346524,2,Physics,67,DC,91,77,85,69,91,91
+693,Ross,ross.esparza.693@gslingacademy.com,male,21,2.84,TRUE,FALSE,4.4,5.3,Telegram,0.295278155,7,Mathematics,54,DC,64,75,85,53,95,81
+694,Lisa,lisa.murphy.694@gslingacademy.com,female,18,3.86,FALSE,FALSE,3,9.8,Twitter,3.627557583,6,Biology,44,DD,82,79,67,64,90,65
+695,Richard,richard.gibson.695@gslingacademy.com,male,25,2.3,FALSE,FALSE,3.8,7.8,Facebook,7.243,9,Chemistry,61,BA,61,84,61,79,62,99
+696,Jackson,jackson.olson.696@gslingacademy.com,male,23,2.7,FALSE,FALSE,8.8,8.2,TikTok,2.856508963,6,Physics,80,BA,86,99,97,98,97,93
+697,Michael,michael.waters.697@gslingacademy.com,male,20,3.77,FALSE,FALSE,3.6,8.1,Telegram,2.011941605,9,Mathematics,54,BA,94,88,94,100,99,99
+698,Daniel,daniel.mcneil.698@gslingacademy.com,male,25,3.39,FALSE,FALSE,8.2,5.8,TikTok,5.876946191,6,Chemistry,73,AA,61,92,87,61,94,69
+699,James,james.mcgee.699@gslingacademy.com,male,22,3.2,FALSE,FALSE,6.2,9.6,TikTok,6.190839567,2,Chemistry,58,BA,98,74,69,69,64,96
+700,Dennis,dennis.park.700@gslingacademy.com,male,21,3.95,FALSE,FALSE,6.2,6.8,Twitter,3.652525183,3,Biology,69,AA,87,72,62,69,93,72
+701,Gregory,gregory.jones.701@gslingacademy.com,male,21,2.11,FALSE,FALSE,0.8,5.1,Telegram,1.587071792,9,Physics,55,AA,95,61,82,77,87,95
+702,Barbara,barbara.petersen.702@gslingacademy.com,female,20,2.76,FALSE,TRUE,3.6,8.7,Twitter,3.150926092,1,Biology,69,AA,99,100,95,91,96,96
+703,Andrea,andrea.baker.703@gslingacademy.com,female,23,3,FALSE,FALSE,1.2,8.3,Twitter,4.742942975,1,Mathematics,45,AA,78,66,79,79,96,81
+704,Robert,robert.holmes.704@gslingacademy.com,male,25,2.85,FALSE,TRUE,3.6,8.6,Facebook,4.391478814,2,Chemistry,63,BA,60,89,66,79,81,65
+705,Autumn,autumn.jones.705@gslingacademy.com,female,22,3.97,FALSE,FALSE,3.3,9,Twitter,0,9,Physics,49,AA,79,69,78,77,73,77
+706,Richard,richard.davis.706@gslingacademy.com,male,24,3.52,FALSE,FALSE,3.5,6.4,Facebook,0.04636468,2,Computer Science,61,Fail,87,88,98,96,85,96
+707,Anthony,anthony.armstrong.707@gslingacademy.com,male,23,3.37,FALSE,FALSE,3.5,5.8,Facebook,4.497798158,2,Physics,70,BA,99,87,65,98,79,93
+708,Julian,julian.ortiz.708@gslingacademy.com,male,20,3.41,FALSE,FALSE,6.4,9,Telegram,0.422597581,1,Computer Science,66,AA,77,75,61,93,61,75
+709,Melinda,melinda.sanchez.709@gslingacademy.com,female,25,2.86,FALSE,FALSE,4,9.6,TikTok,3.662754815,7,Biology,56,BB,79,84,96,76,71,71
+710,James,james.carter.710@gslingacademy.com,male,20,3.86,TRUE,FALSE,3.8,8.4,Telegram,4.623176063,2,Physics,69,BA,84,74,74,86,81,100
+711,Alejandra,alejandra.johns.711@gslingacademy.com,female,21,2.99,FALSE,FALSE,4.3,8,Facebook,4.182363757,4,Computer Science,61,BB,68,91,61,34,60,63
+712,Susan,susan.long.712@gslingacademy.com,female,19,3.23,FALSE,FALSE,3.8,8.7,Instagram,7.3125,9,Computer Science,55,AA,97,73,89,88,63,70
+713,Sharon,sharon.allen.713@gslingacademy.com,female,20,2.51,FALSE,FALSE,3.4,7.8,TikTok,7.324,8,Biology,42,Fail,98,95,95,96,97,85
+714,Leah,leah.brown.714@gslingacademy.com,female,21,2.38,FALSE,FALSE,3.5,9.5,TikTok,0.227334371,9,Computer Science,50,BB,71,99,94,69,87,84
+715,Maria,maria.barker.715@gslingacademy.com,female,24,3.25,TRUE,FALSE,7.2,9.7,Instagram,6.580666323,4,Chemistry,69,AA,83,71,76,99,95,94
+716,Kelly,kelly.church.716@gslingacademy.com,female,24,2.14,FALSE,FALSE,3.9,9,Telegram,0,3,Chemistry,64,CB,85,72,90,75,94,65
+717,Michael,michael.walsh.717@gslingacademy.com,male,23,3.75,FALSE,FALSE,1.4,7.9,Instagram,3.223992947,8,Biology,46,BB,75,89,68,87,69,96
+718,Alyssa,alyssa.gallagher.718@gslingacademy.com,female,18,2.2,FALSE,FALSE,4.3,7.6,Instagram,1.857784679,8,Physics,73,BB,66,98,65,78,81,82
+719,Kelly,kelly.morris.719@gslingacademy.com,female,25,2.77,FALSE,FALSE,6.7,10,Telegram,5.641161013,2,Biology,49,AA,89,95,90,95,98,99
+720,Ryan,ryan.brown.720@gslingacademy.com,male,20,2.99,FALSE,FALSE,4,7.1,Instagram,3.054060282,4,Biology,73,BA,86,67,95,65,91,76
+721,Maria,maria.hall.721@gslingacademy.com,female,21,2.48,FALSE,FALSE,6.7,8.3,Instagram,1.23946816,4,Computer Science,55,Fail,99,64,93,89,61,67
+722,Mark,mark.brown.722@gslingacademy.com,male,23,3.63,FALSE,TRUE,4.8,6.5,Facebook,2.046504224,5,Computer Science,42,BA,98,88,90,93,95,98
+723,William,william.kerr.723@gslingacademy.com,male,20,3.03,FALSE,FALSE,3.8,8,Twitter,4.762166473,5,Chemistry,66,Fail,73,63,83,74,91,83
+724,Jake,jake.gonzalez.724@gslingacademy.com,male,23,3.65,FALSE,TRUE,3.2,9.7,Telegram,5.123737252,1,Physics,46,Fail,63,87,92,93,87,88
+725,Theresa,theresa.gray.725@gslingacademy.com,female,23,3.32,FALSE,FALSE,3.4,6.3,Facebook,4.283840272,10,Physics,47,CC,80,68,75,85,82,85
+726,Ashley,ashley.ayers.726@gslingacademy.com,female,18,3.37,FALSE,FALSE,3.6,8.3,Telegram,3.202050776,2,Biology,51,CC,99,99,76,70,80,90
+727,Ann,ann.mccann.727@gslingacademy.com,female,22,2.41,FALSE,FALSE,9.6,7,Instagram,1.045756496,1,Computer Science,85,AA,84,86,81,92,84,93
+728,Curtis,curtis.bennett.728@gslingacademy.com,male,25,3.8,FALSE,TRUE,4.4,5.7,Facebook,1.527170519,5,Computer Science,58,CB,63,83,86,97,88,79
+729,Debra,debra.gutierrez.729@gslingacademy.com,female,23,2.9,FALSE,FALSE,7.2,7,TikTok,3.909037151,6,Chemistry,71,BB,90,83,68,96,94,87
+730,Linda,linda.west.730@gslingacademy.com,female,24,3.44,TRUE,FALSE,3.3,8.7,TikTok,5.016377954,1,Physics,45,BB,89,82,65,85,89,81
+731,Justin,justin.hughes.731@gslingacademy.com,male,18,2.51,FALSE,TRUE,3.5,5.1,Instagram,0.020133726,7,Physics,48,AA,96,65,87,87,95,100
+732,Jose,jose.jackson.732@gslingacademy.com,male,20,2.02,TRUE,FALSE,4.4,8.4,TikTok,0,2,Physics,73,AA,61,81,73,96,72,86
+733,Larry,larry.smith.733@gslingacademy.com,male,21,3.37,TRUE,FALSE,5.4,7.7,Instagram,2.571773997,1,Physics,41,AA,68,69,92,86,67,73
+734,Austin,austin.dunn.734@gslingacademy.com,male,21,3.72,FALSE,FALSE,3.4,9.6,Twitter,7.43516,3,Physics,71,AA,65,94,74,92,81,79
+735,Michael,michael.heath.735@gslingacademy.com,male,18,2.04,FALSE,FALSE,3.5,9,Facebook,3.316373926,1,Computer Science,59,AA,99,87,99,86,86,85
+736,Beth,beth.acosta.736@gslingacademy.com,female,21,2.08,FALSE,FALSE,6.9,9,Telegram,4.054395536,7,Chemistry,70,BA,100,91,87,87,94,100
+737,Tracie,tracie.weeks.737@gslingacademy.com,female,22,2.5,FALSE,FALSE,3.9,5.7,Twitter,1.912278482,9,Computer Science,48,CC,79,98,87,92,80,93
+738,Brandi,brandi.ray.738@gslingacademy.com,female,24,2.9,FALSE,FALSE,6.2,9.6,Instagram,5.454175018,8,Physics,70,BA,87,94,92,99,93,88
+739,Carla,carla.brandt.739@gslingacademy.com,female,22,3.18,FALSE,FALSE,1.7,8.5,TikTok,6.013504415,7,Chemistry,59,CC,96,69,61,72,78,99
+740,Thomas,thomas.cruz.740@gslingacademy.com,male,18,3.77,FALSE,TRUE,3.6,9.7,Telegram,4.047490091,1,Computer Science,59,Fail,70,51,94,86,65,80
+741,Nicholas,nicholas.martin.741@gslingacademy.com,male,24,2.02,FALSE,FALSE,6.4,8.5,Facebook,1.959244863,9,Mathematics,60,BA,91,73,71,72,74,76
+742,Breanna,breanna.lee.742@gslingacademy.com,female,21,3.26,FALSE,TRUE,6.6,9.4,Instagram,0,1,Mathematics,68,Fail,93,62,80,96,94,67
+743,Angie,angie.white.743@gslingacademy.com,female,25,2.3,FALSE,FALSE,6.9,5.6,Facebook,1.64824131,10,Mathematics,60,Fail,75,79,65,71,75,93
+744,William,william.lester.744@gslingacademy.com,male,21,3.86,TRUE,FALSE,2.9,5.3,Telegram,3.254131696,0,Physics,45,AA,96,79,94,59,83,64
+745,Joshua,joshua.miller.745@gslingacademy.com,male,23,3.98,FALSE,FALSE,3.9,9,Facebook,4.258965071,10,Chemistry,66,BA,90,100,93,94,97,98
+746,Thomas,thomas.stone.746@gslingacademy.com,male,25,3.07,FALSE,FALSE,3.7,8.4,TikTok,2.275483974,4,Chemistry,61,BA,66,95,65,89,84,100
+747,Sarah,sarah.king.747@gslingacademy.com,female,19,2.14,TRUE,FALSE,3.7,6.8,Telegram,2.769455026,6,Chemistry,84,AA,99,68,91,88,63,61
+748,Jeffery,jeffery.carlson.748@gslingacademy.com,male,22,3.85,TRUE,FALSE,3.5,8,Telegram,6.363067528,5,Biology,59,BA,86,79,73,53,84,79
+749,Ashley,ashley.gutierrez.749@gslingacademy.com,female,21,3.19,FALSE,FALSE,6.3,7.3,Instagram,0.78566727,10,Computer Science,71,BA,73,94,98,87,97,98
+750,Adam,adam.herring.750@gslingacademy.com,male,18,2.03,TRUE,TRUE,8.8,6,Twitter,0,1,Chemistry,70,BB,65,67,61,61,96,65
+751,David,david.ramirez.751@gslingacademy.com,male,24,3.64,FALSE,FALSE,7.5,8.5,TikTok,0,2,Physics,57,AA,75,93,72,84,63,63
+752,Angela,angela.brown.752@gslingacademy.com,female,21,2.55,FALSE,FALSE,3.8,9.4,Instagram,4.893289792,6,Biology,61,AA,98,88,92,71,66,90
+753,Eric,eric.jones.753@gslingacademy.com,male,19,2.71,FALSE,TRUE,6.2,9,Telegram,7.15235123,3,Physics,47,BB,98,67,71,92,79,99
+754,Angel,angel.garner.754@gslingacademy.com,male,22,2.51,FALSE,FALSE,7.2,9.2,TikTok,2.276131469,5,Computer Science,60,AA,88,74,92,77,89,96
+755,Lisa,lisa.cowan.755@gslingacademy.com,female,18,3.99,FALSE,FALSE,7.1,5.3,Telegram,4.621578247,3,Mathematics,77,BA,73,63,97,63,61,90
+756,Nicole,nicole.perry.756@gslingacademy.com,female,19,3.47,FALSE,FALSE,4.6,8.4,Telegram,6.074902731,3,Physics,61,BB,94,67,88,86,89,98
+757,Annette,annette.wells.757@gslingacademy.com,female,21,3.78,TRUE,FALSE,6.3,6.5,Instagram,3.083610271,10,Physics,68,AA,94,76,93,79,84,96
+758,Ian,ian.scott.758@gslingacademy.com,male,19,3.71,FALSE,FALSE,4.8,8.2,TikTok,0.972957875,4,Computer Science,79,AA,74,74,89,67,93,96
+759,Kari,kari.hernandez.759@gslingacademy.com,female,18,2.59,TRUE,FALSE,4.5,8.5,Facebook,3.679272979,6,Chemistry,67,BB,75,69,94,98,80,74
+760,Mary,mary.haynes.760@gslingacademy.com,female,20,2.62,FALSE,TRUE,8.3,8.3,Telegram,0.863037325,3,Chemistry,65,CC,64,75,81,66,82,92
+761,Raymond,raymond.smith.761@gslingacademy.com,male,19,3,FALSE,FALSE,3.3,8.8,Telegram,2.842574924,3,Computer Science,45,CC,100,82,93,91,61,83
+762,Christopher,christopher.ayala.762@gslingacademy.com,male,20,2.78,TRUE,FALSE,3.7,9.1,Instagram,0.1861838,6,Physics,63,BB,93,79,92,92,71,87
+763,Jacqueline,jacqueline.frazier.763@gslingacademy.com,female,20,2.45,FALSE,FALSE,4,9.1,Facebook,1.309363369,6,Biology,59,AA,84,84,89,52,97,76
+764,Jesse,jesse.kelly.764@gslingacademy.com,male,20,2.58,FALSE,FALSE,3.5,9.7,TikTok,7.485003656,8,Computer Science,43,BA,83,65,99,86,75,67
+765,Teresa,teresa.lee.765@gslingacademy.com,female,24,2.98,FALSE,FALSE,3.1,7.9,Facebook,5.135750364,9,Chemistry,46,BA,97,98,70,80,67,82
+766,Michael,michael.aguirre.766@gslingacademy.com,male,21,3.14,FALSE,FALSE,7.7,6,TikTok,1.638170211,8,Physics,59,AA,66,93,77,72,82,82
+767,April,april.delgado.767@gslingacademy.com,female,23,3.59,FALSE,FALSE,5,9.4,TikTok,2.104203939,10,Computer Science,60,BA,91,81,83,97,83,80
+768,Troy,troy.prince.768@gslingacademy.com,male,22,2.22,FALSE,FALSE,3.1,8.4,Facebook,4.431408082,9,Chemistry,41,AA,64,72,65,64,55,79
+769,Martha,martha.summers.769@gslingacademy.com,female,22,3.12,TRUE,FALSE,3.5,8.1,Instagram,2.162300268,2,Physics,58,BA,99,59,59,75,54,70
+770,William,william.dean.770@gslingacademy.com,male,19,3.44,TRUE,FALSE,7.3,8,Facebook,5.42262237,6,Computer Science,60,AA,72,83,77,99,84,67
+771,Cheryl,cheryl.gutierrez.771@gslingacademy.com,female,24,2.54,TRUE,TRUE,1,8.6,Instagram,0,0,Chemistry,67,AA,93,51,100,76,60,99
+772,Diane,diane.spears.772@gslingacademy.com,female,25,2.1,FALSE,TRUE,6.3,9.4,Instagram,2.854650008,2,Biology,63,AA,71,81,91,79,79,75
+773,Brian,brian.david.773@gslingacademy.com,male,23,3.98,FALSE,FALSE,3.6,7,Facebook,7.3415,7,Biology,66,AA,75,68,96,91,72,78
+774,Heather,heather.brooks.774@gslingacademy.com,female,25,3.71,FALSE,FALSE,6.6,8.7,Telegram,3.507304062,5,Computer Science,64,CB,68,81,70,60,65,71
+775,Pamela,pamela.rodgers.775@gslingacademy.com,female,19,2.98,FALSE,TRUE,3.9,6.9,Twitter,3.234928472,7,Biology,73,AA,94,100,83,62,92,71
+776,Betty,betty.nash.776@gslingacademy.com,female,25,2.01,FALSE,FALSE,2.7,9.2,Instagram,3.043960525,8,Physics,51,BB,65,72,65,65,67,97
+777,Heather,heather.donaldson.777@gslingacademy.com,female,25,2.09,FALSE,FALSE,3.7,9,Instagram,3.846568702,5,Physics,50,CC,69,64,60,92,76,74
+778,Ebony,ebony.shepherd.778@gslingacademy.com,female,25,3.11,FALSE,FALSE,0.9,5.3,TikTok,3.543177952,4,Physics,44,BB,96,84,96,79,80,81
+779,Sean,sean.thomas.779@gslingacademy.com,male,22,2,FALSE,TRUE,3.2,9.2,Telegram,0.715701968,5,Computer Science,45,AA,80,79,71,67,76,63
+780,Todd,todd.howard.780@gslingacademy.com,male,19,3.9,FALSE,FALSE,5.1,9.4,TikTok,2.771474497,6,Computer Science,88,BA,100,96,95,100,94,95
+781,Julia,julia.richmond.781@gslingacademy.com,female,22,2.63,FALSE,FALSE,7.5,7,Facebook,2.777676428,9,Mathematics,43,AA,95,69,83,90,93,89
+782,Mary,mary.mccormick.782@gslingacademy.com,female,24,2.61,FALSE,FALSE,6.3,7.3,Telegram,2.895713965,4,Biology,60,CB,75,80,63,71,86,63
+783,Jimmy,jimmy.warren.783@gslingacademy.com,male,18,2.04,FALSE,FALSE,3.7,5.2,Facebook,7.392623571,1,Physics,71,AA,61,61,85,64,76,88
+784,Henry,henry.spencer.784@gslingacademy.com,male,22,3.27,FALSE,FALSE,1.4,8.8,Facebook,3.053150841,7,Mathematics,50,CC,72,65,60,94,63,75
+785,Peter,peter.yates.785@gslingacademy.com,male,21,3.27,FALSE,FALSE,4,8.7,Telegram,6.272476196,9,Chemistry,69,BB,91,90,95,87,92,96
+786,Robert,robert.campbell.786@gslingacademy.com,male,24,3.41,FALSE,FALSE,3.7,9.6,Facebook,0,7,Mathematics,57,BB,68,92,93,69,78,89
+787,Matthew,matthew.conway.787@gslingacademy.com,male,24,2.08,FALSE,FALSE,8.3,7.2,Facebook,1.824777191,10,Computer Science,98,CC,86,84,97,90,83,92
+788,Tyler,tyler.calderon.788@gslingacademy.com,male,24,3.96,FALSE,FALSE,3.9,9.5,Twitter,2.491201435,8,Physics,62,CB,73,58,57,67,88,70
+789,Brittney,brittney.moon.789@gslingacademy.com,female,23,3.42,FALSE,FALSE,3.6,8.2,Telegram,6.081196254,5,Physics,62,BB,78,63,93,76,76,90
+790,Tracy,tracy.white.790@gslingacademy.com,female,24,2.51,FALSE,FALSE,3.6,9.5,Twitter,0,5,Mathematics,51,CC,94,100,91,85,91,88
+791,Gregory,gregory.welch.791@gslingacademy.com,male,21,2.14,FALSE,FALSE,7.5,9.4,Facebook,4.936538867,10,Chemistry,72,BA,99,88,92,98,85,95
+792,Caroline,caroline.cooper.792@gslingacademy.com,female,21,2.34,FALSE,FALSE,7.7,9.2,Telegram,7.2531,6,Biology,73,CC,98,72,65,61,87,89
+793,Kelly,kelly.rivera.793@gslingacademy.com,female,22,2.92,FALSE,FALSE,5.8,8.2,Twitter,4.073514788,10,Mathematics,51,BB,82,86,89,81,61,83
+794,Stacey,stacey.wilson.794@gslingacademy.com,female,21,2.24,FALSE,FALSE,4.2,9.6,Instagram,2.588979651,8,Physics,59,CC,62,67,80,61,61,82
+795,Craig,craig.graham.795@gslingacademy.com,male,23,2.06,FALSE,FALSE,4,8.3,Telegram,3.308801284,8,Computer Science,60,BB,96,87,97,83,93,88
+796,Earl,earl.santana.796@gslingacademy.com,male,25,2.17,FALSE,FALSE,6,9,Facebook,2.894064178,7,Biology,61,BA,78,91,94,81,88,86
+797,Lisa,lisa.mitchell.797@gslingacademy.com,female,18,2.57,FALSE,TRUE,5.9,6.2,Facebook,1.6373687,4,Chemistry,69,CC,99,99,100,98,96,94
+798,Michael,michael.williams.798@gslingacademy.com,male,23,2.71,FALSE,FALSE,4.1,8.5,Telegram,17.8179483,3,Physics,52,AA,85,88,92,96,81,95
+799,Jerry,jerry.jones.799@gslingacademy.com,male,22,2.22,FALSE,FALSE,6.9,6.2,Telegram,3.158958668,10,Chemistry,55,CC,100,85,68,65,97,94
+800,Matthew,matthew.miles.800@gslingacademy.com,male,19,3.23,FALSE,FALSE,8,7.2,Instagram,1.427949082,3,Mathematics,47,CC,72,68,99,83,53,83
+801,Mary,mary.cox.801@gslingacademy.com,female,21,3.9,FALSE,TRUE,5,9.3,Twitter,3.818139176,2,Computer Science,55,DD,77,100,85,73,95,86
+802,Jessica,jessica.young.802@gslingacademy.com,female,19,3.15,FALSE,TRUE,6.5,9.5,Facebook,2.577142035,3,Mathematics,57,DC,99,63,77,82,88,72
+803,Tiffany,tiffany.small.803@gslingacademy.com,female,20,2.1,TRUE,FALSE,3.2,8.2,Twitter,2.102032685,6,Biology,56,DC,60,75,77,71,70,88
+804,Mary,mary.wyatt.804@gslingacademy.com,female,21,3.16,FALSE,TRUE,4.6,9.4,Instagram,0,7,Mathematics,71,DC,96,75,62,81,91,84
+805,Maria,maria.mercer.805@gslingacademy.com,female,19,3.75,FALSE,TRUE,4.8,6.4,Facebook,1.95172873,5,Chemistry,68,DD,86,94,62,73,90,75
+806,Erin,erin.moore.806@gslingacademy.com,female,23,2.95,FALSE,FALSE,6.8,9.7,Telegram,1.850226075,1,Physics,69,DD,62,85,62,89,65,67
+807,Kendra,kendra.dalton.807@gslingacademy.com,female,22,3.55,FALSE,FALSE,3.9,9.1,Facebook,3.607171922,6,Physics,53,CB,71,84,93,65,98,61
+808,Anthony,anthony.gomez.808@gslingacademy.com,male,24,2.29,FALSE,FALSE,8.3,6.6,Facebook,2.230060279,10,Chemistry,60,DD,70,98,73,63,62,88
+809,Molly,molly.jackson.809@gslingacademy.com,female,18,3.3,FALSE,FALSE,4.8,8.6,TikTok,8.367301389,5,Mathematics,67,CB,72,97,98,86,86,63
+810,Brianna,brianna.gutierrez.810@gslingacademy.com,female,23,2.44,FALSE,FALSE,2.9,8.8,TikTok,0,7,Chemistry,41,BB,100,96,95,90,95,88
+811,John,john.henderson.811@gslingacademy.com,male,20,3.44,FALSE,TRUE,3.5,9.3,Instagram,0.507384881,5,Mathematics,73,CB,99,76,85,98,62,97
+812,Steven,steven.martin.812@gslingacademy.com,male,20,3.27,FALSE,TRUE,5.3,8.4,TikTok,1.919826662,6,Computer Science,49,BB,76,71,95,99,85,71
+813,Tina,tina.bowers.813@gslingacademy.com,female,25,3.09,FALSE,FALSE,3,9.6,Telegram,3.728193057,3,Physics,45,DD,62,88,85,82,94,73
+814,Luis,luis.jones.814@gslingacademy.com,male,18,3.42,TRUE,FALSE,5.3,5.1,Instagram,2.345251348,6,Physics,48,DD,53,69,75,86,95,61
+815,Jeffrey,jeffrey.thomas.815@gslingacademy.com,male,20,2.33,FALSE,FALSE,1.8,8.9,Twitter,1.775320676,3,Chemistry,47,DD,97,62,90,93,75,80
+816,Jeffrey,jeffrey.cox.816@gslingacademy.com,male,20,3.76,FALSE,FALSE,3.9,8.6,Twitter,0.608897443,8,Mathematics,58,CB,90,84,83,84,61,99
+817,Jennifer,jennifer.bautista.817@gslingacademy.com,female,22,2.02,FALSE,FALSE,3.4,6.4,Facebook,3.85796851,1,Computer Science,46,CC,71,67,85,68,88,67
+818,Judy,judy.pugh.818@gslingacademy.com,female,20,3.35,FALSE,FALSE,6.7,8.8,Facebook,8.469030498,6,Computer Science,50,DC,92,99,85,62,69,67
+819,Henry,henry.craig.819@gslingacademy.com,male,23,3.21,FALSE,FALSE,2.3,8.5,Twitter,0.881381049,4,Physics,46,DC,94,74,76,97,86,85
+820,Steven,steven.alvarez.820@gslingacademy.com,male,24,3.92,TRUE,TRUE,3.3,9.5,Telegram,4.149256695,10,Computer Science,57,DC,60,71,50,85,69,62
+821,Rebecca,rebecca.mckay.821@gslingacademy.com,female,24,3.42,FALSE,FALSE,2.5,7.5,TikTok,7.2314,3,Chemistry,52,DC,90,82,94,99,78,65
+822,James,james.reynolds.822@gslingacademy.com,male,22,3.43,TRUE,FALSE,3.8,9.6,Facebook,8,10,Computer Science,47,DC,68,62,64,71,87,60
+823,Heather,heather.bentley.823@gslingacademy.com,female,21,2.05,FALSE,TRUE,8.3,6.1,Instagram,7.253,10,Physics,57,DD,60,71,70,78,72,78
+824,Alexis,alexis.hall.824@gslingacademy.com,female,23,2.33,FALSE,FALSE,7.1,7.5,Twitter,2.838763318,6,Computer Science,60,CB,100,88,91,98,68,81
+825,Ryan,ryan.soto.825@gslingacademy.com,male,18,3.68,FALSE,FALSE,3.6,9.4,TikTok,6.579790019,6,Physics,43,DC,99,100,94,84,86,63
+826,Brent,brent.clements.826@gslingacademy.com,male,23,3.84,FALSE,FALSE,3.6,6.1,Facebook,4.596111056,1,Mathematics,62,CC,87,60,90,87,86,62
+827,Thomas,thomas.hernandez.827@gslingacademy.com,male,25,3.82,FALSE,TRUE,5.8,9.7,Telegram,5.276020632,7,Chemistry,60,DD,82,65,96,87,87,63
+828,Kevin,kevin.mack.828@gslingacademy.com,male,21,2.99,TRUE,FALSE,4.1,7.9,TikTok,2.739787819,1,Computer Science,55,DC,93,54,57,99,59,73
+829,Patrick,patrick.kirk.829@gslingacademy.com,male,22,2.49,FALSE,FALSE,3.4,8.8,Telegram,4.358217263,10,Biology,42,DD,60,92,73,74,86,94
+830,Christopher,christopher.jenkins.830@gslingacademy.com,male,22,3.16,FALSE,FALSE,3.8,7.5,Instagram,2.851019149,2,Mathematics,70,DD,99,77,87,95,94,85
+831,Cassandra,cassandra.hodges.831@gslingacademy.com,female,19,3.56,FALSE,FALSE,9.2,7.5,Telegram,8,1,Physics,99,DC,66,95,70,75,99,84
+832,Christian,christian.powers.832@gslingacademy.com,male,24,3.58,FALSE,FALSE,3.8,7.4,Twitter,8,3,Physics,50,DD,70,54,58,50,95,92
+833,Brittany,brittany.collier.833@gslingacademy.com,female,25,2.82,FALSE,FALSE,3.8,5.8,Twitter,5.337742764,7,Chemistry,58,DD,87,97,93,78,99,86
+834,James,james.bridges.834@gslingacademy.com,male,19,2.98,FALSE,FALSE,5.7,7.8,Facebook,,9,Physics,48,DD,85,63,77,82,65,88
+835,Alexander,alexander.fowler.835@gslingacademy.com,male,21,3.21,FALSE,FALSE,9.2,5.7,TikTok,2.08375101,5,Chemistry,72,BB,93,84,70,99,66,80
+836,Andrew,andrew.wong.836@gslingacademy.com,male,24,2.15,FALSE,FALSE,1.9,9.8,Facebook,4.750520805,7,Chemistry,59,DD,71,91,79,98,69,75
+837,Bobby,bobby.valdez.837@gslingacademy.com,male,22,2.73,TRUE,FALSE,6,8.8,Instagram,8,6,Computer Science,76,DD,67,80,71,75,96,100
+838,Mary,mary.bird.838@gslingacademy.com,female,19,2.92,FALSE,FALSE,3.5,5.6,Facebook,0.530909699,4,Physics,60,DC,95,65,60,93,69,82
+839,Andrew,andrew.rodriguez.839@gslingacademy.com,male,25,3.51,TRUE,FALSE,3.1,7.8,Telegram,2.439194777,6,Mathematics,46,DC,92,77,97,62,65,92
+840,Melanie,melanie.carter.840@gslingacademy.com,female,25,2.75,FALSE,FALSE,3.6,5.7,TikTok,8,1,Biology,55,DD,71,69,84,96,84,69
+841,Randy,randy.lopez.841@gslingacademy.com,male,19,3.26,FALSE,FALSE,7,9.7,Twitter,0.684810895,7,Chemistry,62,BA,87,100,90,96,86,93
+842,David,david.cole.842@gslingacademy.com,male,22,3.74,FALSE,FALSE,8.4,8.4,Twitter,3.998040785,10,Chemistry,93,BA,94,87,68,89,82,76
+843,Jennifer,jennifer.baxter.843@gslingacademy.com,female,24,3.26,FALSE,FALSE,8.6,6.2,Facebook,3.842882283,4,Biology,93,BA,91,62,83,97,83,63
+844,Shannon,shannon.graham.844@gslingacademy.com,female,19,2.37,FALSE,FALSE,7.6,8.9,TikTok,2.96940906,8,Physics,68,AA,99,72,67,83,78,65
+845,Stephanie,stephanie.bush.845@gslingacademy.com,female,24,2.67,FALSE,TRUE,3.6,6.7,Twitter,4.634998706,9,Mathematics,56,BA,69,81,70,95,97,62
+846,Keith,keith.tanner.846@gslingacademy.com,male,19,2.02,FALSE,FALSE,6.7,9.5,Twitter,2.269777071,9,Mathematics,55,AA,50,89,82,71,78,70
+847,Robert,robert.anderson.847@gslingacademy.com,male,22,2.7,TRUE,TRUE,7,8.3,Instagram,0.025522781,9,Chemistry,65,AA,91,69,95,82,85,60
+848,Matthew,matthew.cantu.848@gslingacademy.com,male,18,3.5,FALSE,TRUE,3.1,8.6,Twitter,1.700066849,10,Computer Science,51,AA,88,74,97,88,73,66
+849,Heather,heather.johnson.849@gslingacademy.com,female,18,3.6,FALSE,FALSE,7.2,7.4,Telegram,1.336311757,7,Chemistry,76,AA,81,90,82,100,82,98
+850,Lee,lee.taylor.850@gslingacademy.com,male,18,3.47,TRUE,FALSE,3.1,8.5,Facebook,2.268288419,3,Biology,43,BA,76,84,87,65,80,72
+851,Jessica,jessica.williams.851@gslingacademy.com,female,20,3.05,TRUE,FALSE,0.9,8.5,TikTok,3.203928341,6,Computer Science,50,AA,88,66,98,68,79,77
+852,Holly,holly.sanchez.852@gslingacademy.com,female,25,3.06,FALSE,FALSE,3.6,10,Telegram,7.046604178,7,Physics,57,Fail,83,85,69,82,91,69
+853,James,james.ray.853@gslingacademy.com,male,25,3.94,FALSE,FALSE,5.6,10,Instagram,0,7,Chemistry,58,BA,85,63,64,98,97,86
+854,William,william.hernandez.854@gslingacademy.com,male,19,2.13,FALSE,FALSE,1.6,8.2,Instagram,4.776773341,3,Mathematics,40,AA,98,66,96,64,65,91
+855,Lisa,lisa.brown.855@gslingacademy.com,female,22,3.64,FALSE,FALSE,0.9,8.5,Instagram,0.993736611,4,Chemistry,41,BB,72,94,93,44,92,83
+856,Kevin,kevin.york.856@gslingacademy.com,male,23,3.56,TRUE,FALSE,3.1,5.5,Telegram,8,8,Physics,47,BA,75,78,62,61,55,93
+857,Benjamin,benjamin.davis.857@gslingacademy.com,male,22,3.16,FALSE,FALSE,5.6,4.9,TikTok,1.72619192,3,Chemistry,52,BB,77,63,93,61,86,83
+858,Sarah,sarah.nielsen.858@gslingacademy.com,female,20,3.56,TRUE,FALSE,3.6,8.8,TikTok,3.463687446,10,Chemistry,54,AA,96,93,59,84,79,93
+859,Elizabeth,elizabeth.parks.859@gslingacademy.com,female,25,2.81,FALSE,TRUE,3.2,5.3,Telegram,8,2,Physics,52,Fail,64,100,68,86,89,91
+860,Deborah,deborah.moore.860@gslingacademy.com,female,19,2.94,FALSE,FALSE,3,9,Instagram,0.034422878,7,Chemistry,42,BB,93,99,82,97,70,79
+861,Michael,michael.anderson.861@gslingacademy.com,male,23,3.8,FALSE,FALSE,4.4,6.6,TikTok,3.620745182,9,Computer Science,63,AA,78,62,74,72,73,78
+862,Brian,brian.adams.862@gslingacademy.com,male,19,2.62,FALSE,FALSE,3,9,Telegram,3.705989262,9,Mathematics,52,CB,84,81,84,84,66,74
+863,Anthony,anthony.silva.863@gslingacademy.com,male,21,2.1,FALSE,FALSE,6.5,9.4,Twitter,5.046839183,7,Biology,67,BB,91,66,73,100,94,67
+864,Melinda,melinda.velazquez.864@gslingacademy.com,female,25,2.39,FALSE,FALSE,3.6,8.8,TikTok,3.14388808,9,Biology,47,BB,63,74,97,64,61,92
+865,Andre,andre.hoffman.865@gslingacademy.com,male,23,3.29,FALSE,FALSE,4.7,9.2,Facebook,9.88785152,1,Mathematics,75,AA,67,96,63,91,96,84
+866,Vanessa,vanessa.coleman.866@gslingacademy.com,female,23,3.51,TRUE,FALSE,4.9,9.8,Instagram,5.368464014,9,Physics,46,BA,67,84,96,88,94,86
+867,Stephanie,stephanie.hernandez.867@gslingacademy.com,female,22,2.79,FALSE,TRUE,5.9,5.7,Twitter,4.262832861,5,Chemistry,69,Fail,66,92,96,76,88,77
+868,Timothy,timothy.david.868@gslingacademy.com,male,24,2.47,TRUE,FALSE,7.3,7.6,Instagram,3.737256287,7,Computer Science,45,BA,74,65,71,63,59,67
+869,Carol,carol.cortez.869@gslingacademy.com,female,18,3.88,FALSE,FALSE,7.3,6.5,Twitter,4.184026665,9,Computer Science,66,Fail,91,69,67,67,70,71
+870,Justin,justin.kelly.870@gslingacademy.com,male,24,2.75,FALSE,FALSE,2.3,5.3,TikTok,3.273798577,7,Computer Science,59,Fail,100,67,65,67,92,67
+871,George,george.king.871@gslingacademy.com,male,19,2.18,FALSE,FALSE,3.6,8.3,Twitter,3.288117157,1,Computer Science,58,CC,90,73,84,64,75,62
+872,Ashley,ashley.craig.872@gslingacademy.com,female,19,3.18,FALSE,FALSE,3.6,9.1,Facebook,0,3,Mathematics,57,CC,94,67,74,71,98,74
+873,Patricia,patricia.sullivan.873@gslingacademy.com,female,19,2.33,TRUE,FALSE,8.8,5.9,TikTok,4.170692719,5,Chemistry,92,AA,90,98,54,77,80,71
+874,David,david.jones.874@gslingacademy.com,male,20,3.46,FALSE,FALSE,6.8,9.1,Instagram,4.149139464,2,Chemistry,57,CB,93,100,64,81,78,64
+875,Cody,cody.smith.875@gslingacademy.com,male,22,3.92,FALSE,FALSE,5.5,9.8,TikTok,3.709555446,4,Physics,78,BB,68,86,83,82,67,69
+876,Joseph,joseph.jackson.876@gslingacademy.com,male,20,3.92,FALSE,FALSE,1.7,9.5,Instagram,3.759622955,8,Physics,42,BB,87,63,92,81,78,74
+877,Adam,adam.edwards.877@gslingacademy.com,male,19,2.87,FALSE,FALSE,3.7,6.3,Twitter,4.52078258,5,Mathematics,57,AA,95,89,73,79,98,68
+878,Brian,brian.morales.878@gslingacademy.com,male,20,3.68,TRUE,TRUE,4,6.5,Facebook,3.92267113,10,Chemistry,51,AA,68,53,60,95,96,99
+879,Melissa,melissa.fry.879@gslingacademy.com,female,18,2.53,FALSE,FALSE,3.6,8,Telegram,3.175167816,8,Computer Science,56,AA,92,89,93,97,92,100
+880,Lori,lori.jacobson.880@gslingacademy.com,female,23,3.23,FALSE,FALSE,5.6,6.1,Twitter,3.661828416,9,Computer Science,61,AA,86,87,91,90,75,79
+881,Jessica,jessica.shannon.881@gslingacademy.com,female,25,2.6,FALSE,FALSE,3.5,8.4,TikTok,5.461615974,10,Biology,46,AA,70,96,92,65,90,84
+882,Sharon,sharon.ramirez.882@gslingacademy.com,female,25,3.84,FALSE,FALSE,0.8,8,Twitter,5.934212134,7,Computer Science,46,BA,68,91,86,81,72,89
+883,Nicole,nicole.rice.883@gslingacademy.com,female,22,3.35,FALSE,FALSE,3.8,8.9,TikTok,1.033424341,3,Chemistry,59,CC,99,100,82,79,95,89
+884,Alison,alison.webster.884@gslingacademy.com,female,19,2.83,TRUE,TRUE,5.3,8.6,Twitter,2.215061082,6,Computer Science,65,BA,68,75,63,63,73,79
+885,Alexander,alexander.mitchell.885@gslingacademy.com,male,20,2.74,FALSE,FALSE,5.9,6.9,Twitter,4.904829363,7,Biology,63,CC,89,90,98,100,97,95
+886,Bryan,bryan.grimes.886@gslingacademy.com,male,18,3.5,FALSE,FALSE,6.5,7.4,Facebook,4.118259472,6,Mathematics,57,Fail,65,61,77,97,90,90
+887,Nicole,nicole.mcdonald.887@gslingacademy.com,female,23,3.67,FALSE,FALSE,3.7,8.7,TikTok,7,9,Mathematics,44,BA,82,92,65,82,91,67
+888,Christopher,christopher.ramirez.888@gslingacademy.com,male,22,3.28,TRUE,FALSE,7.4,9.3,Facebook,3.12654132,5,Physics,53,Fail,63,91,83,75,73,74
+889,Lawrence,lawrence.fields.889@gslingacademy.com,male,24,3.97,TRUE,FALSE,3.4,5,Twitter,4.575071076,8,Computer Science,40,Fail,76,73,51,76,50,77
+890,Rebecca,rebecca.molina.890@gslingacademy.com,female,24,3.07,FALSE,FALSE,8.3,7,Twitter,6.837005207,10,Biology,87,AA,65,81,70,62,96,75
+891,John,john.castillo.891@gslingacademy.com,male,19,2.14,FALSE,FALSE,3.8,9.8,TikTok,7.70794687,8,Computer Science,78,BA,91,64,93,86,91,97
+892,Sandra,sandra.davis.892@gslingacademy.com,female,25,3.52,TRUE,FALSE,3.8,8.5,Facebook,0,4,Physics,55,BA,80,100,66,63,69,66
+893,Andrew,andrew.smith.893@gslingacademy.com,male,18,3.16,FALSE,TRUE,5.1,8.2,Telegram,4.702599179,4,Physics,68,AA,68,74,68,75,78,95
+894,Elizabeth,elizabeth.smith.894@gslingacademy.com,female,21,2.84,FALSE,FALSE,3.5,8.9,Facebook,1.748194657,7,Mathematics,43,BA,98,87,73,74,89,66
+895,Scott,scott.schultz.895@gslingacademy.com,male,18,3.86,TRUE,FALSE,4.9,7.7,Twitter,8,5,Biology,66,BA,66,88,72,92,52,70
+896,Joseph,joseph.harper.896@gslingacademy.com,male,25,2.3,FALSE,TRUE,3.8,8,Instagram,0.258405875,7,Chemistry,63,BB,66,96,68,90,91,99
+897,Ryan,ryan.salazar.897@gslingacademy.com,male,23,2.7,FALSE,TRUE,3.8,8.6,Facebook,1.633177682,8,Physics,62,AA,71,90,97,81,86,73
+898,Brenda,brenda.davis.898@gslingacademy.com,female,20,3.77,FALSE,FALSE,3.8,10,Telegram,2.651370162,9,Mathematics,75,AA,99,69,95,73,79,83
+899,Chad,chad.taylor.899@gslingacademy.com,male,25,3.39,FALSE,FALSE,1.3,9.6,Instagram,4.340752159,5,Chemistry,46,BB,89,92,64,77,80,66
+900,Natasha,natasha.edwards.900@gslingacademy.com,female,22,3.2,TRUE,TRUE,3.9,8.3,Facebook,2.259079244,9,Chemistry,59,AA,51,62,85,74,91,93
+901,Pamela,pamela.edwards.901@gslingacademy.com,female,21,3.95,FALSE,FALSE,4.5,8.2,Instagram,1.543407738,7,Biology,47,BA,88,67,82,90,74,96
+902,Cynthia,cynthia.richardson.902@gslingacademy.com,female,21,2.11,TRUE,TRUE,5.7,8.9,Twitter,0,3,Physics,67,BB,57,58,68,57,99,95
+903,Robert,robert.johnson.903@gslingacademy.com,male,20,2.76,FALSE,FALSE,9.5,5.7,Twitter,1.67080425,9,Biology,58,AA,84,80,65,91,84,65
+904,Kevin,kevin.ryan.904@gslingacademy.com,male,23,3,FALSE,FALSE,3,10,Telegram,4.352393023,7,Mathematics,40,AA,82,95,61,70,88,92
+905,Eileen,eileen.nicholson.905@gslingacademy.com,female,25,2.85,TRUE,TRUE,3.7,5.8,TikTok,5.976017168,1,Chemistry,57,BB,64,56,85,91,78,97
+906,Robert,robert.torres.906@gslingacademy.com,male,22,3.97,FALSE,FALSE,3.1,7.4,Instagram,0.914015351,4,Physics,49,CC,98,74,93,63,70,67
+907,Alicia,alicia.beltran.907@gslingacademy.com,female,24,3.52,FALSE,FALSE,4.2,8.5,Telegram,1.101432225,4,Computer Science,49,CC,52,54,52,65,54,69
+908,Jessica,jessica.wong.908@gslingacademy.com,female,23,3.37,FALSE,FALSE,3.7,9.6,Facebook,1.526450561,2,Physics,81,BB,71,83,98,93,95,99
+909,Ruben,ruben.meyer.909@gslingacademy.com,male,20,3.41,FALSE,TRUE,2.7,7.8,Twitter,2.765334732,3,Computer Science,46,AA,73,84,96,97,85,63
+910,Megan,megan.alexander.910@gslingacademy.com,female,25,2.86,FALSE,FALSE,4,9.6,Facebook,3.387500275,7,Biology,52,BA,88,91,95,98,99,71
+911,Jennifer,jennifer.gonzalez.911@gslingacademy.com,female,20,3.86,FALSE,TRUE,4.2,9,TikTok,2.386602057,4,Physics,49,BA,66,77,93,99,78,91
+912,Carl,carl.ferguson.912@gslingacademy.com,male,21,2.99,FALSE,FALSE,3.4,9,Instagram,0,9,Computer Science,47,AA,69,93,75,88,81,89
+913,Valerie,valerie.romero.913@gslingacademy.com,female,19,3.23,FALSE,FALSE,4.7,5.2,Telegram,0,5,Computer Science,41,BA,79,61,84,73,95,85
+914,Laura,laura.romero.914@gslingacademy.com,female,20,2.51,FALSE,FALSE,3.6,9.9,TikTok,2.013432667,8,Biology,59,AA,83,68,88,69,79,74
+915,Heidi,heidi.adams.915@gslingacademy.com,female,21,2.38,TRUE,FALSE,6.8,7.4,Instagram,4.06429566,7,Computer Science,78,BA,58,83,89,87,78,86
+916,Regina,regina.spencer.916@gslingacademy.com,female,24,3.25,FALSE,FALSE,7.5,6.5,Twitter,3.013538901,10,Chemistry,49,AA,66,85,94,62,86,92
+917,Lee,lee.campbell.917@gslingacademy.com,male,24,2.14,FALSE,FALSE,0.8,6.9,TikTok,6.36736629,4,Chemistry,41,AA,95,74,97,87,78,68
+918,Noah,noah.mcdaniel.918@gslingacademy.com,male,23,3.75,FALSE,FALSE,2.8,5.4,Facebook,0,8,Biology,62,AA,60,70,84,87,87,64
+919,Dorothy,dorothy.mitchell.919@gslingacademy.com,female,18,2.2,FALSE,FALSE,7,9.8,Telegram,6,2,Physics,66,AA,71,81,97,96,72,63
+920,Michael,michael.mccarthy.920@gslingacademy.com,male,25,2.77,FALSE,FALSE,5.1,8.2,Telegram,5.789097194,6,Biology,61,CB,65,92,62,76,84,100
+921,Matthew,matthew.jones.921@gslingacademy.com,male,20,2.99,FALSE,FALSE,0.9,8.2,Telegram,2.402484722,7,Biology,45,AA,87,62,63,77,71,68
+922,John,john.riley.922@gslingacademy.com,male,21,2.48,FALSE,FALSE,3.7,8.9,TikTok,0.44514586,9,Computer Science,56,BB,98,85,96,98,96,93
+923,Shelly,shelly.dominguez.923@gslingacademy.com,female,23,3.63,FALSE,FALSE,3.7,9.7,TikTok,0,10,Computer Science,73,CC,96,72,97,71,60,61
+924,Ann,ann.evans.924@gslingacademy.com,female,20,3.03,FALSE,FALSE,8.1,8.8,Twitter,2,9,Chemistry,72,BB,85,73,78,61,74,96
+925,David,david.perez.925@gslingacademy.com,male,23,3.65,TRUE,FALSE,3.7,8.4,TikTok,1.975966792,5,Physics,50,AA,67,60,88,99,56,92
+926,Nicole,nicole.bell.926@gslingacademy.com,female,23,3.32,FALSE,FALSE,8.1,8.2,Facebook,1.701008435,6,Physics,74,BA,82,64,82,72,96,100
+927,Amanda,amanda.garcia.927@gslingacademy.com,female,18,3.37,TRUE,FALSE,3.8,6.2,Facebook,5,3,Biology,57,AA,51,98,72,90,59,73
+928,Charles,charles.owens.928@gslingacademy.com,male,22,2.41,FALSE,FALSE,3.6,8.3,Facebook,6.631213679,1,Computer Science,72,CB,90,94,68,61,77,92
+929,Teresa,teresa.henry.929@gslingacademy.com,female,25,3.8,FALSE,FALSE,5.6,9.7,Twitter,0.252927846,3,Computer Science,67,AA,78,90,63,68,63,72
+930,Luis,luis.frank.930@gslingacademy.com,male,23,2.9,FALSE,FALSE,2.2,8.6,Instagram,1.078696934,9,Chemistry,43,CC,74,97,74,82,75,69
+931,Timothy,timothy.booth.931@gslingacademy.com,male,24,3.44,FALSE,FALSE,6.9,7.9,Telegram,2.70535041,1,Physics,60,BB,74,70,78,94,75,96
+932,Michael,michael.moon.932@gslingacademy.com,male,18,2.51,FALSE,FALSE,6.6,8.4,Instagram,3,4,Physics,49,BB,82,86,72,79,93,94
+933,Rachel,rachel.hall.933@gslingacademy.com,female,20,2.02,TRUE,FALSE,3.4,9.9,Facebook,2.23037565,6,Physics,41,CC,73,95,81,81,62,81
+934,Thomas,thomas.nguyen.934@gslingacademy.com,male,21,3.37,FALSE,TRUE,2.6,8.9,TikTok,4.166300997,2,Physics,48,CB,86,77,91,76,78,62
+935,Tiffany,tiffany.fields.935@gslingacademy.com,female,21,3.72,FALSE,FALSE,8.9,6.8,Telegram,0.121076066,4,Physics,78,BB,65,67,68,63,97,63
+936,Jessica,jessica.marshall.936@gslingacademy.com,female,18,2.04,FALSE,TRUE,7.7,6.3,Twitter,3.095165461,9,Computer Science,55,CC,98,60,77,72,74,63
+937,Maurice,maurice.nguyen.937@gslingacademy.com,male,21,2.08,FALSE,FALSE,4.1,8,TikTok,2.972178092,8,Chemistry,65,BA,92,74,67,85,63,87
+938,William,william.kelly.938@gslingacademy.com,male,22,2.5,FALSE,FALSE,7.6,6.3,Instagram,6.136495979,1,Computer Science,59,CC,88,90,92,75,98,91
+939,Harry,harry.hunter.939@gslingacademy.com,male,24,2.9,FALSE,TRUE,3.4,8.1,Instagram,5.268669029,7,Physics,57,BB,87,72,74,100,84,85
+940,Gary,gary.gentry.940@gslingacademy.com,male,22,3.18,FALSE,TRUE,3.7,9.1,Facebook,3.228933738,1,Chemistry,72,CC,79,74,82,71,87,67
+941,Maria,maria.malone.941@gslingacademy.com,female,18,3.77,TRUE,FALSE,3.8,9.7,Twitter,1.099351034,2,Computer Science,70,BB,71,97,70,73,81,85
+942,Jason,jason.vazquez.942@gslingacademy.com,male,24,2.02,FALSE,FALSE,6.1,7,Facebook,0,3,Mathematics,68,BA,76,75,67,60,77,100
+943,Patrick,patrick.west.943@gslingacademy.com,male,21,3.26,FALSE,FALSE,6.7,9.4,Twitter,1.229972381,1,Mathematics,47,CC,84,76,93,64,86,95
+944,Alexandra,alexandra.brown.944@gslingacademy.com,female,25,2.3,FALSE,FALSE,2.2,8.9,Twitter,7.372743181,10,Mathematics,47,AA,74,73,73,81,87,84
+945,Jennifer,jennifer.torres.945@gslingacademy.com,female,21,3.86,FALSE,FALSE,5,7.6,Telegram,0,8,Physics,64,CC,100,61,88,73,84,100
+946,Daniel,daniel.smith.946@gslingacademy.com,male,23,3.98,FALSE,FALSE,7.6,6.3,Twitter,1.17254221,9,Chemistry,66,CC,96,58,88,99,98,71
+947,Catherine,catherine.boyle.947@gslingacademy.com,female,25,3.07,FALSE,FALSE,3.2,8.9,Instagram,3.255492052,3,Chemistry,45,DD,76,88,73,67,88,76
+948,Amanda,amanda.bush.948@gslingacademy.com,female,19,2.14,FALSE,FALSE,3.1,9,Instagram,5.531961523,3,Chemistry,45,DC,60,68,86,90,84,81
+949,Emma,emma.copeland.949@gslingacademy.com,female,22,3.85,TRUE,FALSE,3.8,9.5,Instagram,0.442550533,7,Biology,87,DC,98,65,52,66,94,82
+950,Bradley,bradley.avery.950@gslingacademy.com,male,21,3.19,FALSE,FALSE,2.8,6.7,Instagram,3.928203332,3,Computer Science,49,DC,75,81,72,71,84,87
+951,Danielle,danielle.martinez.951@gslingacademy.com,female,18,2.03,FALSE,FALSE,4.8,5.4,TikTok,1.426593253,10,Chemistry,55,DD,85,84,94,95,74,83
+952,Anna,anna.wolf.952@gslingacademy.com,female,24,3.64,FALSE,TRUE,5.4,7.9,Telegram,0.562172261,3,Physics,69,DD,63,82,61,66,84,98
+953,Megan,megan.whitaker.953@gslingacademy.com,female,21,2.55,FALSE,FALSE,2.7,5.9,Facebook,1.809567769,2,Biology,44,CB,91,89,89,93,92,95
+954,Melissa,melissa.richard.954@gslingacademy.com,female,19,2.71,FALSE,FALSE,1.3,9.3,Facebook,2.909606764,10,Physics,57,DD,93,69,60,98,83,88
+955,Richard,richard.small.955@gslingacademy.com,male,22,2.51,TRUE,FALSE,4.2,9.7,TikTok,0.461752215,10,Computer Science,55,CB,87,75,67,96,86,85
+956,Victor,victor.phillips.956@gslingacademy.com,male,18,3.99,FALSE,FALSE,4,6,Facebook,5.2309868,1,Mathematics,62,BB,92,65,67,78,66,98
+957,Madison,madison.callahan.957@gslingacademy.com,female,19,3.47,FALSE,FALSE,6.9,9.4,TikTok,5.899239776,7,Physics,69,CB,84,68,92,96,88,60
+958,Connor,connor.olson.958@gslingacademy.com,male,21,3.78,FALSE,FALSE,8.1,8.5,Facebook,1.579413314,2,Physics,84,BB,76,92,74,65,96,87
+959,Hunter,hunter.allen.959@gslingacademy.com,male,19,3.71,FALSE,FALSE,3.3,8.9,Facebook,4.556688245,1,Computer Science,53,DD,95,77,81,83,73,76
+960,Shannon,shannon.johnson.960@gslingacademy.com,female,18,2.59,FALSE,FALSE,7.3,7.6,Telegram,0,5,Chemistry,53,DD,89,98,78,74,93,65
+961,Samantha,samantha.alexander.961@gslingacademy.com,female,20,2.62,FALSE,FALSE,9.3,7.4,Twitter,2.630794384,1,Chemistry,86,DD,62,68,76,72,94,89
+962,Justin,justin.lester.962@gslingacademy.com,male,19,3,FALSE,TRUE,3.6,6.8,Twitter,4.67497412,6,Computer Science,59,CB,75,85,66,73,88,85
+963,Hunter,hunter.miller.963@gslingacademy.com,male,20,2.78,FALSE,FALSE,3.8,7.4,TikTok,4.43438611,9,Physics,65,CC,94,84,63,62,72,68
+964,Shelia,shelia.rogers.964@gslingacademy.com,female,20,2.45,FALSE,FALSE,2.8,9.2,Instagram,3.291331109,3,Biology,40,DC,96,91,100,95,93,86
+965,Laura,laura.walker.965@gslingacademy.com,female,20,2.58,FALSE,FALSE,3.6,9.1,Telegram,5.399137022,4,Computer Science,57,DC,74,67,90,75,95,83
+966,Ashley,ashley.green.966@gslingacademy.com,female,24,2.98,FALSE,FALSE,6.8,8.2,Instagram,1.526933284,2,Chemistry,56,DC,80,82,80,33,93,78
+967,Beth,beth.bonilla.967@gslingacademy.com,female,21,3.14,FALSE,FALSE,3.8,5.5,Telegram,3.175797061,2,Physics,69,DC,97,65,96,80,80,78
+968,Ray,ray.padilla.968@gslingacademy.com,male,23,3.59,FALSE,FALSE,7.6,5.6,Instagram,2,9,Computer Science,62,DC,100,89,96,96,85,92
+969,Jennifer,jennifer.cummings.969@gslingacademy.com,female,22,2.22,FALSE,TRUE,7.7,7.7,TikTok,3.84065801,1,Chemistry,83,DD,99,78,88,69,98,60
+970,Daniel,daniel.peterson.970@gslingacademy.com,male,22,3.12,FALSE,FALSE,2.4,8.8,TikTok,4.211482474,1,Physics,42,CB,87,97,93,94,90,88
+971,Andrew,andrew.miller.971@gslingacademy.com,male,19,3.44,FALSE,TRUE,7.1,8,Telegram,0.410320093,2,Computer Science,87,DC,99,98,65,95,76,68
+972,Scott,scott.jacobson.972@gslingacademy.com,male,24,2.54,FALSE,TRUE,3.3,9,Facebook,4.36597862,8,Chemistry,44,CC,97,68,86,90,78,80
+973,Jennifer,jennifer.baker.973@gslingacademy.com,female,25,2.1,FALSE,FALSE,4.9,5.8,Telegram,0.588196216,6,Biology,70,DD,61,89,66,72,90,61
+974,Suzanne,suzanne.morrow.974@gslingacademy.com,female,23,3.98,TRUE,TRUE,1.2,9.9,TikTok,4.841015816,6,Biology,46,DC,77,56,93,95,50,74
+975,Melissa,melissa.gonzales.975@gslingacademy.com,female,25,3.71,TRUE,FALSE,3.3,9.2,Twitter,6.502858017,3,Computer Science,46,DD,60,95,89,77,89,67
+976,Erik,erik.miller.976@gslingacademy.com,male,19,2.98,FALSE,FALSE,1.1,8.2,Facebook,3.180424153,3,Biology,45,DD,60,74,60,78,94,69
+977,Pamela,pamela.flores.977@gslingacademy.com,female,25,2.01,FALSE,TRUE,3.9,6.5,Instagram,4,4,Physics,49,DC,100,64,76,99,77,86
+978,Amanda,amanda.hernandez.978@gslingacademy.com,female,25,2.09,FALSE,FALSE,3,8.2,Facebook,6.325820631,1,Physics,44,DD,90,87,88,87,97,100
+979,Gregory,gregory.schaefer.979@gslingacademy.com,male,25,3.11,FALSE,FALSE,3.5,9.9,Telegram,2.865565928,2,Physics,47,DD,80,95,88,83,62,65
+980,Annette,annette.logan.980@gslingacademy.com,female,22,2,FALSE,TRUE,6.9,7.1,Twitter,0.309848585,5,Computer Science,53,DD,77,66,81,99,99,83
+981,Tamara,tamara.long.981@gslingacademy.com,female,19,3.9,TRUE,FALSE,3.5,9.6,Telegram,1.161232943,6,Computer Science,44,BB,57,67,79,87,89,89
+982,John,john.baker.982@gslingacademy.com,male,22,2.63,FALSE,FALSE,3.9,5.1,Facebook,1.270540288,3,Mathematics,63,DD,84,62,96,69,98,64
+983,Justin,justin.lynch.983@gslingacademy.com,male,24,2.61,FALSE,TRUE,3.9,9,Twitter,5.40932734,4,Biology,65,DD,96,85,61,97,79,70
+984,Daniel,daniel.knight.984@gslingacademy.com,male,18,2.04,FALSE,FALSE,3.9,7.6,Instagram,0.976554084,2,Physics,63,DC,98,67,86,86,83,89
+985,Angelica,angelica.jones.985@gslingacademy.com,female,22,3.27,TRUE,FALSE,4,6.4,Telegram,3.180424153,9,Mathematics,54,DC,81,85,71,62,62,82
+986,Lance,lance.nelson.986@gslingacademy.com,male,21,3.27,FALSE,TRUE,8.4,8.4,Instagram,2.899773452,4,Chemistry,98,DD,97,94,97,100,88,99
+987,Katherine,katherine.jacobson.987@gslingacademy.com,female,24,3.41,FALSE,FALSE,3.9,9.3,Facebook,3.590400918,5,Mathematics,71,BA,96,64,84,86,96,92
+988,Corey,corey.taylor.988@gslingacademy.com,male,24,2.08,TRUE,FALSE,6,6.3,Telegram,4.14377974,4,Computer Science,45,BA,54,97,59,82,76,72
+989,Laura,laura.russell.989@gslingacademy.com,female,24,3.96,FALSE,FALSE,3.2,8.5,Telegram,0,3,Physics,50,BA,87,87,84,95,84,65
+990,Arthur,arthur.harris.990@gslingacademy.com,male,23,3.42,FALSE,FALSE,3.9,7.9,Telegram,2.631598122,1,Physics,72,AA,76,100,76,84,79,84
+991,Victoria,victoria.garcia.991@gslingacademy.com,female,24,2.51,FALSE,TRUE,3.8,8.7,Twitter,2.139152909,1,Mathematics,51,BA,87,68,70,77,76,89
+992,David,david.gonzales.992@gslingacademy.com,male,21,2.14,FALSE,FALSE,7.8,8.9,Telegram,3.83932121,3,Chemistry,63,AA,72,92,91,67,71,88
+993,Charles,charles.thomas.993@gslingacademy.com,male,21,2.34,TRUE,FALSE,8.6,8.2,Twitter,0,8,Biology,88,AA,86,99,69,68,98,62
+994,Oscar,oscar.gonzalez.994@gslingacademy.com,male,22,2.92,FALSE,TRUE,3.1,8.2,TikTok,3.300580694,8,Mathematics,50,AA,95,90,85,98,91,96
+995,Sarah,sarah.miller.995@gslingacademy.com,female,21,2.24,FALSE,FALSE,3.2,8.9,Telegram,3.362988589,10,Physics,40,AA,83,71,63,80,79,83
+996,Eric,eric.davis.996@gslingacademy.com,male,23,2.06,TRUE,TRUE,3.2,6.3,TikTok,5.270691904,3,Computer Science,41,BA,95,87,67,98,93,89
+997,Patrick,patrick.martin.997@gslingacademy.com,male,25,2.17,FALSE,TRUE,3.4,9.6,Instagram,3.707469852,2,Biology,49,AA,72,79,98,87,76,76
+998,Susan,susan.schmidt.998@gslingacademy.com,female,18,2.57,TRUE,FALSE,7.9,9,Facebook,4.391152707,4,Chemistry,64,Fail,72,64,80,98,83,85
+999,Brett,brett.bell.999@gslingacademy.com,male,23,2.71,TRUE,FALSE,2.9,5.4,Telegram,3.180424153,2,Physics,42,BA,70,87,74,73,74,81
